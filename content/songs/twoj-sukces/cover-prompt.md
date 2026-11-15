@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: Na zdjęciu klucze do twojego domu. Pod zdjęciem sto gratulacji i serc. Piszę pięknie, brzuch zaciska się cicho. Też chciałem kiedyś tak otworzyć drzwi.. Human scale, emotionally specific, no readable text, no success symbols.

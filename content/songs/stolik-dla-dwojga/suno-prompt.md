@@ -1,0 +1,1 @@
+Intimate modern jazz-soul, loose conversational pocket, warm small-ensemble atmosphere, understated melodic hook. An ordinary invitation carries vulnerable hope. Leave room for silence and surprising phrasing. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.

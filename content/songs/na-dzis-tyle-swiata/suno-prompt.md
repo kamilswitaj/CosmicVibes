@@ -1,0 +1,1 @@
+Textural organic ambient-dub, unhurried audible pulse, small intimate vocal refrain. Newsroom urgency gives way to bounded attention. Spacious, awake and human; avoid spa ambience and cinematic sorrow. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.

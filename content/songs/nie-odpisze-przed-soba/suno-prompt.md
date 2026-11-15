@@ -1,0 +1,1 @@
+Glitchy organic electronic art-pop, tactile broken rhythms, warm low-end, clear Polish vocals. Notification-like interruptions become breathing space. Futuristic and emotionally close, playful without being cute. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.

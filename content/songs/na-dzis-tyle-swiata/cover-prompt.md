@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: Trzeci nagłówek świeci po północy. Każdy brzmi jak ostatnia szansa dziś. Woda stygnie, oczy pieką od światła. Żaden nowy alarm nie powiększa mi rąk.. Human scale, emotionally specific, no readable text, no success symbols.

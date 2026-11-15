@@ -1,0 +1,1 @@
+Agile organic ska-rocksteady, curious live energy, simple conversational hook. Defensiveness loosens into intellectual playfulness. Rhythmic and slightly raw with surprising pauses; no cute ska, punk-ska or comedy. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.

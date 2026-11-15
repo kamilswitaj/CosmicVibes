@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: Już napisałem długi komentarz. W drugim akapicie padło: zawsze. Ktoś pokazuje datę, której nie znałem, a ja szukam wyjścia przez atak.. Human scale, emotionally specific, no readable text, no success symbols.

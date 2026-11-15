@@ -1,0 +1,1 @@
+Deep organic dub, restrained spoken-sung verses, earthy human groove, understated melodic refrain. Financial tension becomes practical self-respect. Let arrangement evolve freely. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.

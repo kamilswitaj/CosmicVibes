@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: Na ekranie czynsz i dwie zaległe raty. Na kartce cena za następny dzień. Już chcę obniżyć ją o własny spokój, żeby ktoś na pewno wybrał mnie.. Human scale, emotionally specific, no readable text, no success symbols.

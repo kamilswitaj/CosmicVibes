@@ -1,0 +1,1 @@
+Heavy-grooving alternative rock, dry rhythmic tension, controlled grit, grounded melodic refrain. Anger gains direction and words. Physical and raw, deliberate space, no screaming or triumphal release. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.

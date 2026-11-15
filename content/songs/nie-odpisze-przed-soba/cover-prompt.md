@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: Widelec czeka, ekran woła z boku. Na chwilę znaczy znowu cały obiad. Twój głos urywa się w połowie zdania, bo czyjś czerwony punkt przejmuje pokój.. Human scale, emotionally specific, no readable text, no success symbols.

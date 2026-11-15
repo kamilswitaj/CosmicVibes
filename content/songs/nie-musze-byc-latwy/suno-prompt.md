@@ -1,0 +1,1 @@
+Warm raw indie rock, intimate conversational verses, restrained open chorus. A person risks being inconvenient and speaks plainly. Human timing, imperfect edges, melodic surprise; no power ballad or glossy empowerment. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.

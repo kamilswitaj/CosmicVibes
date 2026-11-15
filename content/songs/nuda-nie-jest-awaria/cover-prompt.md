@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: Winda jedzie ledwie cztery piętra. Ręka już odblokowuje szkło. Nic nie przyszło, więc odświeżam ciszę, jakby brak wiadomości oznaczał błąd.. Human scale, emotionally specific, no readable text, no success symbols.

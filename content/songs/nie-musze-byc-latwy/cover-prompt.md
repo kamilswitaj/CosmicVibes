@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: Mówisz: wszystko dobrze? Mówię: jasne, chociaż kurtka waży jak cały dzień. Uśmiech wisi jeszcze przez pół minuty, potem trzaskam łyżką o zlew.. Human scale, emotionally specific, no readable text, no success symbols.

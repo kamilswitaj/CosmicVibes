@@ -1,0 +1,1 @@
+Earthy Latin alternative groove, bittersweet warmth, loose physical syncopation, conversational refrain. Envy becomes an honest signal of desire. Human, slightly rough, rhythmically rich; no commercial tropical sweetness. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.

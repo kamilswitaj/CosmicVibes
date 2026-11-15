@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: W kawiarni stoi wolne drugie krzesło. Telefon zna twój numer lepiej niż ja. Układam powód, żeby się odezwać, jakby zwykłe cześć nie miało prawa paść.. Human scale, emotionally specific, no readable text, no success symbols.

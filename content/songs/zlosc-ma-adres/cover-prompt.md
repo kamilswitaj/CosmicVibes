@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: Trzaskam szufladą, bo mail przyszedł o ósmej, lecz ostre słowo trafia w ciebie obok. Nie ty dopisałeś mi kolejną zmianę. Nie ty zabrałeś wieczór z kalendarza.. Human scale, emotionally specific, no readable text, no success symbols.

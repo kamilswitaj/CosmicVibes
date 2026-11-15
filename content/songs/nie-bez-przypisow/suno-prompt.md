@@ -1,0 +1,1 @@
+Dry angular post-punk, elastic human groove, short blunt sung hook. A boundary lands with restraint and a little wit. Raw edges, rhythmic clarity and surprising turns. Keep power controlled. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.

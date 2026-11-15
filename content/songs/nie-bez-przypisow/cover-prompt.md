@@ -1,0 +1,1 @@
+Cosmic Vibes cover, tactile futuristic cosmic artwork based on this ordinary human scene: Czy możesz jeszcze dzisiaj to przejąć? W kalendarzu nie ma już białych miejsc. Piszę trzy akapity o zmęczeniu, jakbym przed sądem miał obronić sen.. Human scale, emotionally specific, no readable text, no success symbols.
