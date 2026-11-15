@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-label="Robię krok cover">
+  <defs>
+    <linearGradient id="hall" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#183a38"/>
+      <stop offset="1" stop-color="#2c5149"/>
+    </linearGradient>
+    <linearGradient id="room" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#d6c89f"/>
+      <stop offset="1" stop-color="#bd6b52"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#hall)"/>
+  <path d="M635 0H1200V1200H635Z" fill="url(#room)"/>
+  <path d="M565 0H690V1200H565Z" fill="#eadfbd"/>
+  <path d="M0 790H1200V1200H0Z" fill="#252b2a"/>
+  <path d="M635 790H1200V1200H635Z" fill="#6f6655" opacity=".72"/>
+  <circle cx="650" cy="440" r="34" fill="#d39a45" stroke="#173735" stroke-width="13"/>
+  <path d="M650 440H850" stroke="#173735" stroke-width="24" stroke-linecap="round"/>
+  <path d="M850 440V515" stroke="#173735" stroke-width="24" stroke-linecap="round"/>
+  <path d="M735 320C770 270 850 290 880 355" fill="none" stroke="#c98768" stroke-width="72" stroke-linecap="round"/>
+  <path d="M250 565C350 645 390 760 385 900" fill="none" stroke="#c98768" stroke-width="125" stroke-linecap="round"/>
+  <path d="M950 570C850 650 810 770 815 905" fill="none" stroke="#c98768" stroke-width="125" stroke-linecap="round"/>
+  <path d="M215 920C325 850 445 880 535 985L495 1115C390 1055 295 1060 205 1140Z" fill="#153e3b" stroke="#dfd0aa" stroke-width="15"/>
+  <path d="M1000 900C890 835 770 870 680 975L720 1110C825 1040 920 1045 1010 1125Z" fill="#153e3b" stroke="#dfd0aa" stroke-width="15"/>
+  <path d="M250 995H485M720 985H965" stroke="#6da298" stroke-width="18"/>
+  <path d="M455 1075C510 1010 610 1000 690 1055" fill="none" stroke="#d6a34b" stroke-width="26" stroke-linecap="round" stroke-dasharray="15 30"/>
+  <rect x="890" y="640" width="190" height="300" rx="24" fill="#183c39" stroke="#eadbb5" stroke-width="12"/>
+  <path d="M910 690H1060M910 750H1060" stroke="#719e94" stroke-width="16"/>
+  <path d="M785 735C825 680 925 680 965 735" fill="none" stroke="#b75f4d" stroke-width="55" stroke-linecap="round"/>
+  <g fill="#e9bd62" opacity=".72">
+    <circle cx="1050" cy="180" r="7"/>
+    <circle cx="1110" cy="245" r="4"/>
+    <circle cx="990" cy="270" r="5"/>
+  </g>
+</svg>

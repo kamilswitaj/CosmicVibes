@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-label="Jestem tu teraz cover">
+  <defs>
+    <linearGradient id="room" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#123f46"/>
+      <stop offset="0.55" stop-color="#187069"/>
+      <stop offset="1" stop-color="#d9a144"/>
+    </linearGradient>
+    <radialGradient id="light" cx="58%" cy="34%" r="46%">
+      <stop offset="0" stop-color="#fff2ba"/>
+      <stop offset="1" stop-color="#fff2ba" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="floor" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#16231f"/>
+      <stop offset="1" stop-color="#33413a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#room)"/>
+  <rect x="120" y="130" width="470" height="520" rx="26" fill="#eef3df" opacity=".15"/>
+  <rect x="170" y="180" width="370" height="420" rx="18" fill="#d9f1e5" opacity=".22"/>
+  <circle cx="810" cy="330" r="390" fill="url(#light)"/>
+  <path d="M0 760h1200v440H0z" fill="url(#floor)" opacity=".88"/>
+  <path d="M210 700 C410 660 540 710 710 670 C890 626 1010 680 1200 640 L1200 760 L0 760 L0 710 C80 710 140 714 210 700Z" fill="#f3d884" opacity=".23"/>
+  <rect x="335" y="618" width="530" height="42" rx="21" fill="#f6e6c8"/>
+  <circle cx="620" cy="535" r="82" fill="#f6e6c8"/>
+  <path d="M485 845 C512 710 558 632 620 632 C684 632 729 710 758 845 Z" fill="#f6e6c8"/>
+  <path d="M470 875 C545 910 694 910 770 875" fill="none" stroke="#f6e6c8" stroke-width="38" stroke-linecap="round"/>
+  <path d="M455 965 C515 936 575 936 630 965" fill="none" stroke="#f6e6c8" stroke-width="30" stroke-linecap="round"/>
+  <path d="M670 965 C725 936 785 936 845 965" fill="none" stroke="#f6e6c8" stroke-width="30" stroke-linecap="round"/>
+  <g fill="#fff8d7" opacity=".76">
+    <circle cx="228" cy="238" r="4"/>
+    <circle cx="314" cy="328" r="3"/>
+    <circle cx="933" cy="198" r="4"/>
+    <circle cx="1005" cy="395" r="3"/>
+    <circle cx="792" cy="142" r="2"/>
+  </g>
+</svg>

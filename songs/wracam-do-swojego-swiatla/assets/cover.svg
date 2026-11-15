@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-label="Cosmic Vibes cover">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#103f4a"/>
+      <stop offset="0.52" stop-color="#16726b"/>
+      <stop offset="1" stop-color="#d6a23f"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="42%" r="35%">
+      <stop offset="0" stop-color="#fff4be"/>
+      <stop offset="1" stop-color="#fff4be" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#sky)"/>
+  <circle cx="600" cy="500" r="340" fill="url(#sun)"/>
+  <path d="M0 790 C210 720 360 850 560 780 C770 705 900 790 1200 720 L1200 1200 L0 1200 Z" fill="#182621" opacity=".74"/>
+  <path d="M0 890 C260 835 420 960 650 885 C835 825 1000 900 1200 855 L1200 1200 L0 1200 Z" fill="#f5d37b" opacity=".22"/>
+  <circle cx="600" cy="630" r="92" fill="#f8efe0"/>
+  <path d="M455 960 C485 820 535 720 600 720 C665 720 715 820 745 960 Z" fill="#f8efe0"/>
+  <g fill="#fff9df" opacity=".86">
+    <circle cx="180" cy="170" r="4"/>
+    <circle cx="310" cy="260" r="3"/>
+    <circle cx="860" cy="210" r="5"/>
+    <circle cx="1010" cy="320" r="3"/>
+    <circle cx="720" cy="145" r="2"/>
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-label="Wracam do ciała cover">
+  <defs>
+    <linearGradient id="room" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#263834"/>
+      <stop offset="0.58" stop-color="#4f6653"/>
+      <stop offset="1" stop-color="#bc765a"/>
+    </linearGradient>
+    <radialGradient id="floorLight" cx="56%" cy="66%" r="55%">
+      <stop offset="0" stop-color="#e3cc9e" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#e3cc9e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#room)"/>
+  <rect width="1200" height="1200" fill="url(#floorLight)"/>
+  <path d="M0 650H1200V1200H0Z" fill="#27312f"/>
+  <path d="M0 650H1200" stroke="#d2b78d" stroke-width="10" opacity=".45"/>
+  <rect x="745" y="150" width="350" height="245" rx="16" fill="#10191b" stroke="#dfd0af" stroke-width="12"/>
+  <rect x="790" y="192" width="260" height="150" rx="9" fill="#6c9b8b" opacity=".35"/>
+  <path d="M812 235H1005M812 280H950" stroke="#dd9b66" stroke-width="15" stroke-linecap="round" opacity=".72"/>
+  <path d="M705 398H1135L1180 445H665Z" fill="#d8c7a7"/>
+  <path d="M145 380C245 475 275 650 250 855" fill="none" stroke="#c98968" stroke-width="125" stroke-linecap="round"/>
+  <path d="M1050 400C950 485 920 670 945 865" fill="none" stroke="#c98968" stroke-width="125" stroke-linecap="round"/>
+  <path d="M250 820C365 805 470 850 520 970" fill="none" stroke="#d2c3a5" stroke-width="150" stroke-linecap="round"/>
+  <path d="M945 830C825 815 720 860 670 975" fill="none" stroke="#d2c3a5" stroke-width="150" stroke-linecap="round"/>
+  <path d="M200 980C295 900 430 905 535 975L500 1085C390 1035 285 1045 205 1110Z" fill="#183c3a" stroke="#e5d4ae" stroke-width="13"/>
+  <path d="M1000 985C905 905 770 910 665 980L700 1090C810 1040 915 1050 995 1115Z" fill="#183c3a" stroke="#e5d4ae" stroke-width="13"/>
+  <path d="M235 1020H475M725 1025H965" stroke="#6ba49a" stroke-width="16" opacity=".8"/>
+  <circle cx="603" cy="705" r="82" fill="#d99a56" stroke="#163a38" stroke-width="15"/>
+  <path d="M555 665L650 748M650 665L555 748M603 625V785M523 705H683" stroke="#f0dfba" stroke-width="12" opacity=".78"/>
+  <path d="M605 610C585 535 625 485 675 445" fill="none" stroke="#e5d4ae" stroke-width="14" stroke-linecap="round" stroke-dasharray="8 28" opacity=".7"/>
+  <circle cx="680" cy="440" r="11" fill="#e5d4ae" opacity=".8"/>
+  <path d="M515 1095C555 1045 650 1045 690 1095" fill="none" stroke="#bc765a" stroke-width="45" stroke-linecap="round"/>
+  <g fill="#e8c26d" opacity=".7">
+    <circle cx="110" cy="180" r="5"/>
+    <circle cx="175" cy="125" r="4"/>
+    <circle cx="245" cy="210" r="3"/>
+    <circle cx="1030" cy="560" r="4"/>
+  </g>
+</svg>

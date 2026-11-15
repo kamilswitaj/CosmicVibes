@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-label="Po pracy świat trwa cover">
+  <defs>
+    <linearGradient id="darkRoom" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#172f32"/>
+      <stop offset="1" stop-color="#294d4d"/>
+    </linearGradient>
+    <radialGradient id="warmRoom" cx="72%" cy="42%" r="62%">
+      <stop offset="0" stop-color="#f2c568"/>
+      <stop offset="1" stop-color="#bd6855"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#darkRoom)"/>
+  <path d="M585 0H1200V1200H585Z" fill="url(#warmRoom)"/>
+  <path d="M520 0H650V1200H520Z" fill="#e8ddc1"/>
+  <path d="M0 760H1200V1200H0Z" fill="#242828"/>
+  <rect x="85" y="350" width="390" height="260" rx="17" fill="#11191a" stroke="#d7c9a6" stroke-width="13"/>
+  <rect x="130" y="395" width="300" height="155" rx="9" fill="#5d817b" opacity=".3"/>
+  <path d="M160 445H395M160 495H330" stroke="#c17a5b" stroke-width="15" stroke-linecap="round" opacity=".75"/>
+  <path d="M45 615H515L555 665H5Z" fill="#d8c9a9"/>
+  <path d="M110 300V220H305" fill="none" stroke="#162526" stroke-width="28" stroke-linecap="round"/>
+  <path d="M305 220L390 345H220Z" fill="#c36b55"/>
+  <circle cx="305" cy="315" r="28" fill="#d5a54d" opacity=".45"/>
+  <rect x="695" y="525" width="390" height="225" rx="28" fill="#e9dfc4"/>
+  <ellipse cx="800" cy="590" rx="65" ry="35" fill="#244846"/>
+  <path d="M745 585V680C745 730 855 730 855 680V585" fill="#f2eee0" stroke="#244846" stroke-width="12"/>
+  <ellipse cx="975" cy="610" rx="65" ry="35" fill="#244846"/>
+  <path d="M920 605V700C920 750 1030 750 1030 700V605" fill="#f2eee0" stroke="#244846" stroke-width="12"/>
+  <path d="M885 515C850 465 915 430 882 380C855 340 900 305 885 260" fill="none" stroke="#f6ebcc" stroke-width="13" stroke-linecap="round" opacity=".75"/>
+  <path d="M725 815C770 760 875 760 920 815" fill="none" stroke="#bf6b56" stroke-width="58" stroke-linecap="round"/>
+  <rect x="790" y="830" width="160" height="270" rx="28" fill="#1c3938" stroke="#ddcea9" stroke-width="12"/>
+  <path d="M810 870H930M810 930H930" stroke="#6c9c91" stroke-width="16"/>
+  <path d="M135 1005C245 900 390 920 485 1035L440 1130C340 1060 245 1060 160 1140Z" fill="#173e3c" stroke="#dfd0aa" stroke-width="14"/>
+  <path d="M175 1055H430" stroke="#6f9f96" stroke-width="17"/>
+  <circle cx="1090" cy="190" r="10" fill="#f7e6b3" opacity=".75"/>
+  <circle cx="1035" cy="245" r="5" fill="#f7e6b3" opacity=".6"/>
+</svg>
