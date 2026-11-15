@@ -1,4 +1,5 @@
 const spaceAsset = new URL('nebula.jpg', document.currentScript.src).href;
+document.querySelectorAll('.song-card > .suno-versions').forEach(details=>details.previousElementSibling.append(details));
 document.querySelectorAll('a[href*="youtube.com"]').forEach(a=>{a.href='https://www.youtube.com/@cosmicvibesspace';a.rel='noopener noreferrer';});
 const grid=document.querySelector('.song-grid');
 if(grid){
