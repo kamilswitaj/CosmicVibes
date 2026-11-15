@@ -1,0 +1,37 @@
+{
+  "ideaId": "CV-034",
+  "slug": "moja-uwaga-wraca-do-mnie",
+  "title": "Moja uwaga wraca do mnie",
+  "playlist": "Ska Vibes",
+  "sunoPrompt": "Fast dub-punk with ska-rock attack, 152 BPM, springy heavy bass, jagged offbeat electric guitar, dry urgent acoustic drums and restless hand percussion. Short repeated sung refrain, live raw energy, physical stop-and-return motion. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+  "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+  "lyrics": "[Chorus]\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.\n\n[Verse 1]\nPalec przewija, oczy już pieką.\nObok mnie życie zaczyna się znów.\n\n[Chorus]\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.\n\n[Verse 2]\nChowam telefon, podnoszę piłkę.\nPierwsze podbicie odnajduje but.\n\n[Chorus]\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.\n\n[Bridge]\nNie muszę sprawdzić wszystkiego.\nMogę wybierać, czemu dam czas.\n\n[Final Chorus]\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "affirmation": "Moja uwaga wraca do mnie.",
+  "problem": "Krótka mantra do ruchu",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "createdAt": "2026-11-15",
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "3feefbe4-1a64-4527-bc45-e0e5d8c02c7c",
+      "title": "Moja uwaga wraca do mnie",
+      "url": "https://suno.com/song/3feefbe4-1a64-4527-bc45-e0e5d8c02c7c",
+      "status": "complete",
+      "duration": 133.08,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    },
+    {
+      "id": "f51c4224-03f9-4a16-8495-7d13fd4a0103",
+      "title": "Moja uwaga wraca do mnie",
+      "url": "https://suno.com/song/f51c4224-03f9-4a16-8495-7d13fd4a0103",
+      "status": "complete",
+      "duration": 144,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    }
+  ]
+}

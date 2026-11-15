@@ -1,145 +1,5 @@
 [
   {
-    "ideaId": "CV-015",
-    "slug": "nie-jestem-na-sprzedaz",
-    "title": "Nie jestem na sprzedaż",
-    "playlist": "Success Flow",
-    "problem": "Niepewność finansowa",
-    "affirmation": "Mogę negocjować cenę pracy bez wyceniania siebie.",
-    "status": "AudioGenerated",
-    "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "lyrics": "[Verse 1]\nNa ekranie czynsz i dwie zaległe raty.\nNa kartce cena za następny dzień.\nJuż chcę obniżyć ją o własny spokój,\nżeby ktoś na pewno wybrał mnie.\n\n[Pre-Chorus]\nKalkulator liczy koszt i czas.\nNie ma w nim przycisku: ile znaczę ja.\n\n[Chorus]\nNie jestem na sprzedaż,\nmoja praca cenę ma.\nMogę mówić o pieniądzach,\nnie oddając siebie za nią.\n\n[Verse 2]\nWpisuję zakres, termin i zaliczkę.\nWysyłam kwotę, dłonie jeszcze drżą.\nOdpowiedź zmieni plan na przyszły miesiąc,\nnie moje imię, kiedy wrócę stąd.\n\n[Bridge]\nNie obiecam sobie pełnych kont.\nMogę sprawdzić liczby, poprosić o czas.\n\n[Final Chorus]\nNie jestem na sprzedaż,\nmoja praca cenę ma.\nMogę mówić o pieniądzach,\nnie oddając siebie za nią.",
-    "sunoPrompt": "Deep organic dub, restrained spoken-sung verses, earthy human groove, understated melodic refrain. Financial tension becomes practical self-respect. Let arrangement evolve freely. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
-    "youtubeDescription": "Piosenka o sytuacji: niepewność finansowa. Mogę negocjować cenę pracy bez wyceniania siebie. Cosmic Vibes — muzyczne mantry o konkretnych momentach codzienności.",
-    "hashtags": [
-      "#afirmacjespiewane",
-      "#cosmicvibes"
-    ],
-    "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
-    "sunoRecordings": [
-      {
-        "id": "d8473846-e6f9-480c-967d-2f525122116d",
-        "title": "Nie jestem na sprzedaż",
-        "url": "https://suno.com/song/d8473846-e6f9-480c-967d-2f525122116d",
-        "status": "complete",
-        "duration": 153.24
-      },
-      {
-        "id": "3869c083-649b-4c87-82fa-046c99f1152f",
-        "title": "Nie jestem na sprzedaż",
-        "url": "https://suno.com/song/3869c083-649b-4c87-82fa-046c99f1152f",
-        "status": "complete",
-        "duration": 143.16
-      }
-    ]
-  },
-  {
-    "ideaId": "CV-016",
-    "slug": "stolik-dla-dwojga",
-    "title": "Stolik dla dwojga",
-    "playlist": "Jazz Vibes",
-    "problem": "Samotność",
-    "affirmation": "Mogę odezwać się bez ciekawej historii i zasługiwania na rozmowę.",
-    "status": "AudioGenerated",
-    "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "lyrics": "[Verse 1]\nW kawiarni stoi wolne drugie krzesło.\nTelefon zna twój numer lepiej niż ja.\nUkładam powód, żeby się odezwać,\njakby zwykłe cześć nie miało prawa paść.\n\n[Pre-Chorus]\nNie mam historii na cały wieczór.\nMam pół godziny. Mogę napisać.\n\n[Chorus]\nStolik dla dwojga,\nnie muszę błyszczeć, żeby siąść.\nStolik dla dwojga,\nwyślę cześć, a resztę zobaczę.\n\n[Verse 2]\nWiadomość idzie: kawa w tę sobotę?\nNie dopisuję siedmiu dróg odwrotu.\nMożesz nie mieć czasu, spróbuję później.\nNie skreślam siebie razem z tą datą.\n\n[Bridge]\nNie znam odpowiedzi. Jest jeszcze cisza.\nAle od mojej strony drzwi są uchylone.\n\n[Final Chorus]\nStolik dla dwojga,\nnie muszę błyszczeć, żeby siąść.\nStolik dla dwojga,\nwyślę cześć, a resztę zobaczę.",
-    "sunoPrompt": "Intimate modern jazz-soul, loose conversational pocket, warm small-ensemble atmosphere, understated melodic hook. An ordinary invitation carries vulnerable hope. Leave room for silence and surprising phrasing. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
-    "youtubeDescription": "Piosenka o sytuacji: samotność. Mogę odezwać się bez ciekawej historii i zasługiwania na rozmowę. Cosmic Vibes — muzyczne mantry o konkretnych momentach codzienności.",
-    "hashtags": [
-      "#afirmacjespiewane",
-      "#cosmicvibes"
-    ],
-    "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
-    "sunoRecordings": [
-      {
-        "id": "756922b8-f920-4a34-84a8-5e02b63b7cfc",
-        "title": "Stolik dla dwojga",
-        "url": "https://suno.com/song/756922b8-f920-4a34-84a8-5e02b63b7cfc",
-        "status": "complete",
-        "duration": 162.88
-      },
-      {
-        "id": "e45538e7-90cc-4b63-bf69-abd930f14442",
-        "title": "Stolik dla dwojga",
-        "url": "https://suno.com/song/e45538e7-90cc-4b63-bf69-abd930f14442",
-        "status": "complete",
-        "duration": 158.88
-      }
-    ]
-  },
-  {
-    "ideaId": "CV-017",
-    "slug": "nie-odpisze-przed-soba",
-    "title": "Nie odpiszę przed sobą",
-    "playlist": "NeoGlow",
-    "problem": "Cyfrowa dostępność",
-    "affirmation": "Wiadomość może poczekać, kiedy kończę posiłek lub rozmowę.",
-    "status": "AudioGenerated",
-    "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "lyrics": "[Verse 1]\nWidelec czeka, ekran woła z boku.\nNa chwilę znaczy znowu cały obiad.\nTwój głos urywa się w połowie zdania,\nbo czyjś czerwony punkt przejmuje pokój.\n\n[Pre-Chorus]\nKładę telefon szkłem do drewna.\nJeszcze słyszę go, choć nie zadzwonił.\n\n[Chorus]\nNie odpiszę przed sobą,\nnajpierw dokończę ten kęs.\nNie odpiszę przed tobą,\nchcę usłyszeć, co mówisz mi.\n\n[Verse 2]\nPo chwili pytam: co było dalej?\nZdanie odzyskuje zgubiony brzeg.\nPo obiedzie sprawdzę jedną wiadomość.\nNie każda prośba musi wejść przez stół.\n\n[Bridge]\nNie znikam ludziom przez kilka minut.\nWracam do tych, którzy siedzą tu.\n\n[Final Chorus]\nNie odpiszę przed sobą,\nnajpierw dokończę ten kęs.\nNie odpiszę przed tobą,\nchcę usłyszeć, co mówisz mi.",
-    "sunoPrompt": "Glitchy organic electronic art-pop, tactile broken rhythms, warm low-end, clear Polish vocals. Notification-like interruptions become breathing space. Futuristic and emotionally close, playful without being cute. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
-    "youtubeDescription": "Piosenka o sytuacji: cyfrowa dostępność. Wiadomość może poczekać, kiedy kończę posiłek lub rozmowę. Cosmic Vibes — muzyczne mantry o konkretnych momentach codzienności.",
-    "hashtags": [
-      "#afirmacjespiewane",
-      "#cosmicvibes"
-    ],
-    "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
-    "sunoRecordings": [
-      {
-        "id": "83f0d1cd-86c4-445a-9e7d-b87385ae0fa0",
-        "title": "Nie odpiszę przed sobą",
-        "url": "https://suno.com/song/83f0d1cd-86c4-445a-9e7d-b87385ae0fa0",
-        "status": "complete",
-        "duration": 122.76
-      },
-      {
-        "id": "53499871-a826-42a0-9b70-0eaa6bccd77f",
-        "title": "Nie odpiszę przed sobą",
-        "url": "https://suno.com/song/53499871-a826-42a0-9b70-0eaa6bccd77f",
-        "status": "complete",
-        "duration": 123.2
-      }
-    ]
-  },
-  {
-    "ideaId": "CV-018",
-    "slug": "nie-bez-przypisow",
-    "title": "Nie. Bez przypisów.",
-    "playlist": "Punk Flow",
-    "problem": "Granice i poczucie winy",
-    "affirmation": "Mogę odmówić bez pisania obrony całej swojej osoby.",
-    "status": "AudioGenerated",
-    "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "lyrics": "[Verse 1]\nCzy możesz jeszcze dzisiaj to przejąć?\nW kalendarzu nie ma już białych miejsc.\nPiszę trzy akapity o zmęczeniu,\njakbym przed sądem miał obronić sen.\n\n[Pre-Chorus]\nKasuję wstęp i zdanie o pogodzie.\nZostawiam jedno, które znaczy dość.\n\n[Chorus]\nNie. Bez przypisów.\nDzisiaj tego nie podejmę.\nNie. Bez przypisów.\nNie muszę robić z granic winy.\n\n[Verse 2]\nTelefon leży chwilę bez odpowiedzi.\nChcę przez tę chwilę odwołać własny głos.\nZamiast dopisać, że jednak mogę,\nrobię herbatę, zostawiam tekst.\n\n[Bridge]\nCzyjś zawód może zostać w rozmowie.\nMoje nie nie musi stać się tak.\n\n[Final Chorus]\nNie. Bez przypisów.\nDzisiaj tego nie podejmę.\nNie. Bez przypisów.\nNie muszę robić z granic winy.",
-    "sunoPrompt": "Dry angular post-punk, elastic human groove, short blunt sung hook. A boundary lands with restraint and a little wit. Raw edges, rhythmic clarity and surprising turns. Keep power controlled. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
-    "youtubeDescription": "Piosenka o sytuacji: granice i poczucie winy. Mogę odmówić bez pisania obrony całej swojej osoby. Cosmic Vibes — muzyczne mantry o konkretnych momentach codzienności.",
-    "hashtags": [
-      "#afirmacjespiewane",
-      "#cosmicvibes"
-    ],
-    "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
-    "sunoRecordings": [
-      {
-        "id": "7a29012d-5a20-453d-bf84-bca76809654b",
-        "title": "Nie. Bez przypisów.",
-        "url": "https://suno.com/song/7a29012d-5a20-453d-bf84-bca76809654b",
-        "status": "complete",
-        "duration": 78.76
-      },
-      {
-        "id": "bb98dafc-5d09-46c1-8252-9135b9b63d95",
-        "title": "Nie. Bez przypisów.",
-        "url": "https://suno.com/song/bb98dafc-5d09-46c1-8252-9135b9b63d95",
-        "status": "complete",
-        "duration": 91.6
-      }
-    ]
-  },
-  {
     "ideaId": "CV-019",
     "slug": "zlosc-ma-adres",
     "title": "Złość ma adres",
@@ -172,7 +32,8 @@
         "status": "complete",
         "duration": 157.16
       }
-    ]
+    ],
+    "selection": "Kept"
   },
   {
     "ideaId": "CV-020",
@@ -207,7 +68,8 @@
         "status": "complete",
         "duration": 118.8
       }
-    ]
+    ],
+    "selection": "Kept"
   },
   {
     "ideaId": "CV-021",
@@ -242,7 +104,8 @@
         "status": "complete",
         "duration": 132.4
       }
-    ]
+    ],
+    "selection": "Kept"
   },
   {
     "ideaId": "CV-022",
@@ -277,75 +140,376 @@
         "status": "complete",
         "duration": 173.96
       }
-    ]
+    ],
+    "selection": "Kept"
   },
   {
-    "ideaId": "CV-023",
-    "slug": "nie-musze-byc-latwy",
-    "title": "Nie muszę być łatwy",
-    "playlist": "Indie Rock Flow",
-    "problem": "Maskowanie zmęczenia w relacji",
-    "affirmation": "Mogę nazwać potrzebę bez oczekiwania, że ktoś odczyta moje myśli.",
+    "ideaId": "CV-025",
+    "slug": "moge-zajac-miejsce",
+    "title": "Mogę zająć miejsce",
+    "playlist": "Rock Rise",
+    "sunoPrompt": "Driving garage rock, 148 BPM, muscular live drums, gritty riff-led propulsion, tight syncopated bass, raw sung Polish vocal and a compact repeated refrain. Loud rehearsal-room energy and continuous forward motion. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.\n\n[Verse 1]\nWchodzę ostatni, stoję przy ścianie.\nWolne krzesło czeka obok was.\n\n[Chorus]\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.\n\n[Verse 2]\nSiadam przy stole, dłonie na blacie.\nJeszcze się spinam, ale jestem tu.\n\n[Chorus]\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.\n\n[Bridge]\nNie muszę być potrzebny,\nżeby z wami być.\n\n[Final Chorus]\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.",
     "status": "AudioGenerated",
     "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "lyrics": "[Verse 1]\nMówisz: wszystko dobrze? Mówię: jasne,\nchociaż kurtka waży jak cały dzień.\nUśmiech wisi jeszcze przez pół minuty,\npotem trzaskam łyżką o zlew.\n\n[Pre-Chorus]\nMogę wrócić do prostego pytania.\nNie musisz zgadywać, co schowałem w głos.\n\n[Chorus]\nNie muszę być łatwy,\nżeby mówić do ciebie wprost.\nNie muszę być łatwy,\nmogę poprosić o chwilę ciszy.\n\n[Verse 2]\nMówię: dzisiaj mam za mało miejsca.\nUsiądę obok, tylko nie pytaj jeszcze.\nNie wiem, czy tak będzie ci wygodnie.\nWiem, że teraz nie udaję przed tobą.\n\n[Bridge]\nTwoje potrzeby też zostają w pokoju.\nMożemy szukać miejsca dla nas dwojga.\n\n[Final Chorus]\nNie muszę być łatwy,\nżeby mówić do ciebie wprost.\nNie muszę być łatwy,\nmogę poprosić o chwilę ciszy.",
-    "sunoPrompt": "Warm raw indie rock, intimate conversational verses, restrained open chorus. A person risks being inconvenient and speaks plainly. Human timing, imperfect edges, melodic surprise; no power ballad or glossy empowerment. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
-    "youtubeDescription": "Piosenka o sytuacji: maskowanie zmęczenia w relacji. Mogę nazwać potrzebę bez oczekiwania, że ktoś odczyta moje myśli. Cosmic Vibes — muzyczne mantry o konkretnych momentach codzienności.",
+    "affirmation": "Mogę zająć miejsce.",
+    "problem": "Krótka mantra do ruchu",
     "hashtags": [
       "#afirmacjespiewane",
       "#cosmicvibes"
     ],
-    "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
     "sunoRecordings": [
       {
-        "id": "88201d11-b5d3-4ee1-b39e-c4414464e0ac",
-        "title": "Nie muszę być łatwy",
-        "url": "https://suno.com/song/88201d11-b5d3-4ee1-b39e-c4414464e0ac",
+        "id": "e7c1877a-0e5f-4366-adfa-29076d74e0ca",
+        "title": "Mogę zająć miejsce",
+        "url": "https://suno.com/song/e7c1877a-0e5f-4366-adfa-29076d74e0ca",
         "status": "complete",
-        "duration": 196.48
+        "duration": 116.76,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
       },
       {
-        "id": "75f8d7bf-8988-4875-a682-b08d3e786daf",
-        "title": "Nie muszę być łatwy",
-        "url": "https://suno.com/song/75f8d7bf-8988-4875-a682-b08d3e786daf",
+        "id": "48f23341-3302-49d4-b0c9-b34675bcff21",
+        "title": "Mogę zająć miejsce",
+        "url": "https://suno.com/song/48f23341-3302-49d4-b0c9-b34675bcff21",
         "status": "complete",
-        "duration": 202.88
+        "duration": 125.6,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
       }
     ]
   },
   {
-    "ideaId": "CV-024",
-    "slug": "moge-zmienic-zdanie",
-    "title": "Mogę zmienić zdanie",
-    "playlist": "Ska Vibes",
-    "problem": "Obrona opinii i polaryzacja",
-    "affirmation": "Nowa informacja może zmienić moją opinię bez odbierania mi miejsca w rozmowie.",
+    "ideaId": "CV-026",
+    "slug": "nie-niosę-wszystkiego",
+    "title": "Nie niosę wszystkiego",
+    "playlist": "Funk Flow",
+    "sunoPrompt": "Hard-driving afro-funk rock, 136 BPM, deep syncopated electric bass, interlocking gritty guitars, explosive live percussion and punchy dry drums. Forceful short sung hook, earthy ensemble interplay and relentless physical pocket. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.\n\n[Verse 1]\nDwie pełne torby, telefon przy uchu.\nJeszcze ktoś pyta: weźmiesz też to?\n\n[Chorus]\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.\n\n[Verse 2]\nOddaję uchwyt, palce puszczają.\nMoje zadanie nadal trzymam sam.\n\n[Chorus]\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.\n\n[Bridge]\nMoja część zostaje ze mną.\nTwoja może zostać z tobą.\n\n[Final Chorus]\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.",
     "status": "AudioGenerated",
     "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "lyrics": "[Verse 1]\nJuż napisałem długi komentarz.\nW drugim akapicie padło: zawsze.\nKtoś pokazuje datę, której nie znałem,\na ja szukam wyjścia przez atak.\n\n[Pre-Chorus]\nPalce stoją nad gotową odpowiedzią.\nMogę skreślić jedno słowo: zawsze.\n\n[Chorus]\nMogę zmienić zdanie,\nnie zniknę z tego stołu.\nMogę zmienić zdanie,\nnowy fakt ma u mnie drzwi.\n\n[Verse 2]\nPiszę: tego wcześniej nie wiedziałem.\nNie dopisuję trzech obronnych ale.\nPoliczki grzeją, rozmowa idzie dalej,\na ekranie robi się trochę mniej wojny.\n\n[Bridge]\nNie oddaję głosu temu, kto krzyczy.\nSprawdzam, co wnosi, zanim odpowiem.\n\n[Final Chorus]\nMogę zmienić zdanie,\nnie zniknę z tego stołu.\nMogę zmienić zdanie,\nnowy fakt ma u mnie drzwi.",
-    "sunoPrompt": "Agile organic ska-rocksteady, curious live energy, simple conversational hook. Defensiveness loosens into intellectual playfulness. Rhythmic and slightly raw with surprising pauses; no cute ska, punk-ska or comedy. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
-    "youtubeDescription": "Piosenka o sytuacji: obrona opinii i polaryzacja. Nowa informacja może zmienić moją opinię bez odbierania mi miejsca w rozmowie. Cosmic Vibes — muzyczne mantry o konkretnych momentach codzienności.",
+    "affirmation": "Nie niosę wszystkiego.",
+    "problem": "Krótka mantra do ruchu",
     "hashtags": [
       "#afirmacjespiewane",
       "#cosmicvibes"
     ],
-    "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
     "sunoRecordings": [
       {
-        "id": "becbbe6c-e960-45ba-a42e-7e8aa64fa21a",
-        "title": "Mogę zmienić zdanie",
-        "url": "https://suno.com/song/becbbe6c-e960-45ba-a42e-7e8aa64fa21a",
+        "id": "ba90f748-680a-491f-bffa-328079ff8982",
+        "title": "Nie niosę wszystkiego",
+        "url": "https://suno.com/song/ba90f748-680a-491f-bffa-328079ff8982",
         "status": "complete",
-        "duration": 127.64
+        "duration": 136.8,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
       },
       {
-        "id": "e3bd6633-386b-4d99-87fb-8bb5db8c1c6e",
-        "title": "Mogę zmienić zdanie",
-        "url": "https://suno.com/song/e3bd6633-386b-4d99-87fb-8bb5db8c1c6e",
+        "id": "336ebb85-14ba-4e0b-9838-b5d85e201e71",
+        "title": "Nie niosę wszystkiego",
+        "url": "https://suno.com/song/336ebb85-14ba-4e0b-9838-b5d85e201e71",
         "status": "complete",
-        "duration": 122.88
+        "duration": 157.6,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-027",
+    "slug": "wracam-bez-kary",
+    "title": "Wracam bez kary",
+    "playlist": "Ska Vibes",
+    "sunoPrompt": "Fast gritty ska-punk with reggae-rock weight, 154 BPM, sharp offbeat guitar against driving acoustic snare, heavy mobile bass and short human gang responses. Urgent live-band charge, blunt melodic hook, rough club-room sound. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.\n\n[Verse 1]\nPiłka pod stołem, dzień poza planem.\nZnowu chcę zacząć od zera i kar.\n\n[Chorus]\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.\n\n[Verse 2]\nWyciągam piłkę, poprawiam sznurówkę.\nNie odrabiam straconych chwil.\n\n[Chorus]\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.\n\n[Bridge]\nPrzerwa nie kasuje drogi.\nMogę ruszyć właśnie stąd.\n\n[Final Chorus]\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "affirmation": "Wracam bez kary.",
+    "problem": "Krótka mantra do ruchu",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "ef4767b5-82ce-40c7-8911-8725ccf52aba",
+        "title": "Wracam bez kary",
+        "url": "https://suno.com/song/ef4767b5-82ce-40c7-8911-8725ccf52aba",
+        "status": "complete",
+        "duration": 106,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      },
+      {
+        "id": "4ab03dc8-2efe-4e4e-a889-3be370f4d25d",
+        "title": "Wracam bez kary",
+        "url": "https://suno.com/song/4ab03dc8-2efe-4e4e-a889-3be370f4d25d",
+        "status": "complete",
+        "duration": 107.12,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-028",
+    "slug": "moje-tempo-tez-jest-tempem",
+    "title": "Moje tempo też jest tempem",
+    "playlist": "Indie Rock Flow",
+    "sunoPrompt": "Angular fast alternative rock, 144 BPM, dry break-like live drums, abrasive rhythmic guitar and a forceful bass pocket. Taut verses and a repeated percussive sung chorus. Gritty, energetic, human and physically propulsive. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.\n\n[Verse 1]\nBiegniesz przede mną, patrzę na zegar.\nPrzyspieszam, aż gubię swój krok.\n\n[Chorus]\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.\n\n[Verse 2]\nZwalniam do rytmu, który utrzymam.\nWciąż jestem w drodze, czuję grunt.\n\n[Chorus]\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.\n\n[Bridge]\nMogę rosnąć bez pościgu.\nDzisiaj idę własnym krokiem.\n\n[Final Chorus]\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "affirmation": "Moje tempo też jest tempem.",
+    "problem": "Krótka mantra do ruchu",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "91645240-a62c-4f9b-ad30-887b7134e6b3",
+        "title": "Moje tempo też jest tempem",
+        "url": "https://suno.com/song/91645240-a62c-4f9b-ad30-887b7134e6b3",
+        "status": "complete",
+        "duration": 94.4,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      },
+      {
+        "id": "972399e4-0c95-4bec-a64f-a17a7c5c650f",
+        "title": "Moje tempo też jest tempem",
+        "url": "https://suno.com/song/972399e4-0c95-4bec-a64f-a17a7c5c650f",
+        "status": "complete",
+        "duration": 98.76,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-029",
+    "slug": "nie-kazda-mysl-to-rozkaz",
+    "title": "Nie każda myśl to rozkaz",
+    "playlist": "Rage Flow",
+    "sunoPrompt": "Fast bass-heavy alternative metal groove, 142 BPM, tight syncopated low guitar riffs, punchy acoustic drums, controlled gritty melodic vocals. Repetitive clipped chorus, physical tension and decisive stop-start breaks; vocals remain sung. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.\n\n[Verse 1]\nTelefon milczy, głowa już pisze:\npewnie zawiodłem, poprawiaj się.\n\n[Chorus]\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.\n\n[Verse 2]\nKładę telefon, stopy na ziemi.\nJedna wiadomość to jeszcze nie sąd.\n\n[Chorus]\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.\n\n[Bridge]\nMyśl może mówić głośno.\nRuch wybieram sam.\n\n[Final Chorus]\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "affirmation": "Nie każda myśl to rozkaz.",
+    "problem": "Krótka mantra do ruchu",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "b62e2aa0-59ce-46de-99cc-73176b7aab61",
+        "title": "Nie każda myśl to rozkaz",
+        "url": "https://suno.com/song/b62e2aa0-59ce-46de-99cc-73176b7aab61",
+        "status": "complete",
+        "duration": 168.88,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      },
+      {
+        "id": "ba3b5c8d-dc7d-4649-9cb0-43038b7c5729",
+        "title": "Nie każda myśl to rozkaz",
+        "url": "https://suno.com/song/ba3b5c8d-dc7d-4649-9cb0-43038b7c5729",
+        "status": "complete",
+        "duration": 151,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-030",
+    "slug": "moge-cieszyc-sie-teraz",
+    "title": "Mogę cieszyć się teraz",
+    "playlist": "Latin Flow",
+    "sunoPrompt": "Fast raw Latin rock, 146 BPM, tumbling hand percussion, gritty electric guitar riffs, syncopated live bass and hard acoustic drums. Short repeated vocal hook, urgent physical swing and spontaneous ensemble energy. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.\n\n[Verse 1]\nLista niepusta, kubek gorący.\nSłońce na stole, odkładam ten łyk.\n\n[Chorus]\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.\n\n[Verse 2]\nBiorę ten kubek, siadam na chwilę.\nPotem do pracy wrócę znów.\n\n[Chorus]\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.\n\n[Bridge]\nTa mała dobra chwila\nnie potrzebuje wyniku.\n\n[Final Chorus]\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "affirmation": "Mogę cieszyć się teraz.",
+    "problem": "Krótka mantra do ruchu",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "79b90393-d646-4565-9cb2-0b1571c3c8e2",
+        "title": "Mogę cieszyć się teraz",
+        "url": "https://suno.com/song/79b90393-d646-4565-9cb2-0b1571c3c8e2",
+        "status": "complete",
+        "duration": 130.04,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      },
+      {
+        "id": "cc71686c-3c2f-4db4-8759-9d8dbbbb0d0d",
+        "title": "Mogę cieszyć się teraz",
+        "url": "https://suno.com/song/cc71686c-3c2f-4db4-8759-9d8dbbbb0d0d",
+        "status": "complete",
+        "duration": 162.08,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-031",
+    "slug": "moje-nie-zostaje",
+    "title": "Moje nie zostaje",
+    "playlist": "Punk Flow",
+    "sunoPrompt": "Fast jagged punk rock, 164 BPM, dry crashing live drums, serrated guitar riffs, elastic bass and direct rough sung vocals. Short insistent repeated chorus, sparse tight verses, charged small-venue recording. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nMoje nie zostaje,\nmoje nie zostaje.\nChoć w brzuchu ciasno, mówię wprost.\nMoje nie zostaje.\n\n[Verse 1]\nMówię: nie mogę. Patrzysz w milczeniu.\nJuż chcę dopisać: jednak dam radę.\n\n[Chorus]\nMoje nie zostaje,\nmoje nie zostaje.\nChoć w brzuchu ciasno, mówię wprost.\nMoje nie zostaje.\n\n[Verse 2]\nOdkładam ekran, nie tłumaczę dalej.\nMam tyle czasu, ile mam.\n\n[Chorus]\nMoje nie zostaje,\nmoje nie zostaje.\nChoć w brzuchu ciasno, mówię wprost.\nMoje nie zostaje.\n\n[Bridge]\nMożesz mieć własne zdanie.\nMoja granica dalej trwa.\n\n[Final Chorus]\nMoje nie zostaje,\nmoje nie zostaje.\nChoć w brzuchu ciasno, mówię wprost.\nMoje nie zostaje.\nMoje nie zostaje,\nmoje nie zostaje.\nChoć w brzuchu ciasno, mówię wprost.\nMoje nie zostaje.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "affirmation": "Moje nie zostaje.",
+    "problem": "Krótka mantra do ruchu",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "1ee7e1fc-063c-46a6-b6f5-903a7a87f4ff",
+        "title": "Moje nie zostaje",
+        "url": "https://suno.com/song/1ee7e1fc-063c-46a6-b6f5-903a7a87f4ff",
+        "status": "complete",
+        "duration": 96,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      },
+      {
+        "id": "75c6de2e-9750-420e-aa25-0d337051c86a",
+        "title": "Moje nie zostaje",
+        "url": "https://suno.com/song/75c6de2e-9750-420e-aa25-0d337051c86a",
+        "status": "complete",
+        "duration": 99.84,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-032",
+    "slug": "blad-to-nie-imie",
+    "title": "Błąd to nie imię",
+    "playlist": "Rock Rise",
+    "sunoPrompt": "Heavy fast grunge-punk, 150 BPM, thick abrasive guitars, driving live snare, muscular moving bass and raw melodic Polish vocal. Blunt repeated hook, compressed physical energy and brief stripped-down breaks. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.\n\n[Verse 1]\nCzerwona linia, twój palec na błędzie.\nW gardle już rośnie obrona i wstyd.\n\n[Chorus]\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.\n\n[Verse 2]\nMówię: mój błąd. Otwieram ten fragment.\nSprawdzam poprawkę jeszcze raz.\n\n[Chorus]\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.\n\n[Bridge]\nBiorę za niego odpowiedzialność.\nNie muszę skreślać całego siebie.\n\n[Final Chorus]\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "affirmation": "Błąd to nie imię.",
+    "problem": "Krótka mantra do ruchu",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "43613989-6ee0-403c-bcae-80ce42859233",
+        "title": "Błąd to nie imię",
+        "url": "https://suno.com/song/43613989-6ee0-403c-bcae-80ce42859233",
+        "status": "complete",
+        "duration": 122.36,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      },
+      {
+        "id": "fc190bd6-e270-4bb4-885b-2d23210ae18d",
+        "title": "Błąd to nie imię",
+        "url": "https://suno.com/song/fc190bd6-e270-4bb4-885b-2d23210ae18d",
+        "status": "complete",
+        "duration": 117.6,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-033",
+    "slug": "nie-musze-wiedziec-co-bedzie",
+    "title": "Nie muszę wiedzieć, co będzie",
+    "playlist": "Funk Flow",
+    "sunoPrompt": "Fast psychedelic funk-rock, 140 BPM, distorted syncopated guitar, aggressive melodic bass pocket, dry live drums and rolling organic percussion. Repetitive chant-like sung hook, tense physical momentum and loose instrumental surprises. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nNie muszę wiedzieć, co będzie,\nnie muszę wiedzieć, co będzie.\nWiem, jaki robię dziś krok.\nNie muszę wiedzieć, co będzie.\n\n[Verse 1]\nJutro na mapie bez nazw i przystanków.\nPatrzę tak długo, że stoję dziś.\n\n[Chorus]\nNie muszę wiedzieć, co będzie,\nnie muszę wiedzieć, co będzie.\nWiem, jaki robię dziś krok.\nNie muszę wiedzieć, co będzie.\n\n[Verse 2]\nWpisuję termin, wykonam telefon.\nResztę dopiszę, gdy przyjdzie fakt.\n\n[Chorus]\nNie muszę wiedzieć, co będzie,\nnie muszę wiedzieć, co będzie.\nWiem, jaki robię dziś krok.\nNie muszę wiedzieć, co będzie.\n\n[Bridge]\nNie mam całej drogi.\nMam następny krok.\n\n[Final Chorus]\nNie muszę wiedzieć, co będzie,\nnie muszę wiedzieć, co będzie.\nWiem, jaki robię dziś krok.\nNie muszę wiedzieć, co będzie.\nNie muszę wiedzieć, co będzie,\nnie muszę wiedzieć, co będzie.\nWiem, jaki robię dziś krok.\nNie muszę wiedzieć, co będzie.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "affirmation": "Nie muszę wiedzieć, co będzie.",
+    "problem": "Krótka mantra do ruchu",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "8607fd1b-d6c8-4801-b14a-6177f0524025",
+        "title": "Nie muszę wiedzieć, co będzie",
+        "url": "https://suno.com/song/8607fd1b-d6c8-4801-b14a-6177f0524025",
+        "status": "complete",
+        "duration": 138.76,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      },
+      {
+        "id": "5ab23a04-9905-4955-91f3-ec6484634a83",
+        "title": "Nie muszę wiedzieć, co będzie",
+        "url": "https://suno.com/song/5ab23a04-9905-4955-91f3-ec6484634a83",
+        "status": "complete",
+        "duration": 135.96,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-034",
+    "slug": "moja-uwaga-wraca-do-mnie",
+    "title": "Moja uwaga wraca do mnie",
+    "playlist": "Ska Vibes",
+    "sunoPrompt": "Fast dub-punk with ska-rock attack, 152 BPM, springy heavy bass, jagged offbeat electric guitar, dry urgent acoustic drums and restless hand percussion. Short repeated sung refrain, live raw energy, physical stop-and-return motion. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+    "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+    "lyrics": "[Chorus]\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.\n\n[Verse 1]\nPalec przewija, oczy już pieką.\nObok mnie życie zaczyna się znów.\n\n[Chorus]\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.\n\n[Verse 2]\nChowam telefon, podnoszę piłkę.\nPierwsze podbicie odnajduje but.\n\n[Chorus]\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.\n\n[Bridge]\nNie muszę sprawdzić wszystkiego.\nMogę wybierać, czemu dam czas.\n\n[Final Chorus]\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.\nMoja uwaga wraca do mnie,\nmoja uwaga wraca do mnie.\nZ ekranu wracam w żywy ruch.\nMoja uwaga wraca do mnie.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "affirmation": "Moja uwaga wraca do mnie.",
+    "problem": "Krótka mantra do ruchu",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "createdAt": "2026-11-15",
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "3feefbe4-1a64-4527-bc45-e0e5d8c02c7c",
+        "title": "Moja uwaga wraca do mnie",
+        "url": "https://suno.com/song/3feefbe4-1a64-4527-bc45-e0e5d8c02c7c",
+        "status": "complete",
+        "duration": 133.08,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+      },
+      {
+        "id": "f51c4224-03f9-4a16-8495-7d13fd4a0103",
+        "title": "Moja uwaga wraca do mnie",
+        "url": "https://suno.com/song/f51c4224-03f9-4a16-8495-7d13fd4a0103",
+        "status": "complete",
+        "duration": 144,
+        "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
       }
     ]
   }

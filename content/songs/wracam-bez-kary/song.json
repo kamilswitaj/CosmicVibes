@@ -1,0 +1,37 @@
+{
+  "ideaId": "CV-027",
+  "slug": "wracam-bez-kary",
+  "title": "Wracam bez kary",
+  "playlist": "Ska Vibes",
+  "sunoPrompt": "Fast gritty ska-punk with reggae-rock weight, 154 BPM, sharp offbeat guitar against driving acoustic snare, heavy mobile bass and short human gang responses. Urgent live-band charge, blunt melodic hook, rough club-room sound. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+  "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+  "lyrics": "[Chorus]\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.\n\n[Verse 1]\nPiłka pod stołem, dzień poza planem.\nZnowu chcę zacząć od zera i kar.\n\n[Chorus]\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.\n\n[Verse 2]\nWyciągam piłkę, poprawiam sznurówkę.\nNie odrabiam straconych chwil.\n\n[Chorus]\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.\n\n[Bridge]\nPrzerwa nie kasuje drogi.\nMogę ruszyć właśnie stąd.\n\n[Final Chorus]\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.\nWracam bez kary,\nwracam bez kary.\nJedno podbicie i gram.\nWracam bez kary.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "affirmation": "Wracam bez kary.",
+  "problem": "Krótka mantra do ruchu",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "createdAt": "2026-11-15",
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "ef4767b5-82ce-40c7-8911-8725ccf52aba",
+      "title": "Wracam bez kary",
+      "url": "https://suno.com/song/ef4767b5-82ce-40c7-8911-8725ccf52aba",
+      "status": "complete",
+      "duration": 106,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    },
+    {
+      "id": "4ab03dc8-2efe-4e4e-a889-3be370f4d25d",
+      "title": "Wracam bez kary",
+      "url": "https://suno.com/song/4ab03dc8-2efe-4e4e-a889-3be370f4d25d",
+      "status": "complete",
+      "duration": 107.12,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    }
+  ]
+}

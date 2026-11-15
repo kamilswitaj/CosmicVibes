@@ -1,0 +1,37 @@
+{
+  "ideaId": "CV-026",
+  "slug": "nie-niosę-wszystkiego",
+  "title": "Nie niosę wszystkiego",
+  "playlist": "Funk Flow",
+  "sunoPrompt": "Hard-driving afro-funk rock, 136 BPM, deep syncopated electric bass, interlocking gritty guitars, explosive live percussion and punchy dry drums. Forceful short sung hook, earthy ensemble interplay and relentless physical pocket. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+  "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+  "lyrics": "[Chorus]\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.\n\n[Verse 1]\nDwie pełne torby, telefon przy uchu.\nJeszcze ktoś pyta: weźmiesz też to?\n\n[Chorus]\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.\n\n[Verse 2]\nOddaję uchwyt, palce puszczają.\nMoje zadanie nadal trzymam sam.\n\n[Chorus]\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.\n\n[Bridge]\nMoja część zostaje ze mną.\nTwoja może zostać z tobą.\n\n[Final Chorus]\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.\nNie niosę wszystkiego,\nnie niosę wszystkiego.\nJedną torbę daję tobie.\nNie niosę wszystkiego.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "affirmation": "Nie niosę wszystkiego.",
+  "problem": "Krótka mantra do ruchu",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "createdAt": "2026-11-15",
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "ba90f748-680a-491f-bffa-328079ff8982",
+      "title": "Nie niosę wszystkiego",
+      "url": "https://suno.com/song/ba90f748-680a-491f-bffa-328079ff8982",
+      "status": "complete",
+      "duration": 136.8,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    },
+    {
+      "id": "336ebb85-14ba-4e0b-9838-b5d85e201e71",
+      "title": "Nie niosę wszystkiego",
+      "url": "https://suno.com/song/336ebb85-14ba-4e0b-9838-b5d85e201e71",
+      "status": "complete",
+      "duration": 157.6,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    }
+  ]
+}

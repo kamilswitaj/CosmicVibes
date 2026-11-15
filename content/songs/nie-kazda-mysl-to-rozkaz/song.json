@@ -1,0 +1,37 @@
+{
+  "ideaId": "CV-029",
+  "slug": "nie-kazda-mysl-to-rozkaz",
+  "title": "Nie każda myśl to rozkaz",
+  "playlist": "Rage Flow",
+  "sunoPrompt": "Fast bass-heavy alternative metal groove, 142 BPM, tight syncopated low guitar riffs, punchy acoustic drums, controlled gritty melodic vocals. Repetitive clipped chorus, physical tension and decisive stop-start breaks; vocals remain sung. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+  "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+  "lyrics": "[Chorus]\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.\n\n[Verse 1]\nTelefon milczy, głowa już pisze:\npewnie zawiodłem, poprawiaj się.\n\n[Chorus]\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.\n\n[Verse 2]\nKładę telefon, stopy na ziemi.\nJedna wiadomość to jeszcze nie sąd.\n\n[Chorus]\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.\n\n[Bridge]\nMyśl może mówić głośno.\nRuch wybieram sam.\n\n[Final Chorus]\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.\nNie każda myśl to rozkaz,\nnie każda myśl to rozkaz.\nSłyszę ją i sprawdzam fakt.\nNie każda myśl to rozkaz.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "affirmation": "Nie każda myśl to rozkaz.",
+  "problem": "Krótka mantra do ruchu",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "createdAt": "2026-11-15",
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "b62e2aa0-59ce-46de-99cc-73176b7aab61",
+      "title": "Nie każda myśl to rozkaz",
+      "url": "https://suno.com/song/b62e2aa0-59ce-46de-99cc-73176b7aab61",
+      "status": "complete",
+      "duration": 168.88,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    },
+    {
+      "id": "ba3b5c8d-dc7d-4649-9cb0-43038b7c5729",
+      "title": "Nie każda myśl to rozkaz",
+      "url": "https://suno.com/song/ba3b5c8d-dc7d-4649-9cb0-43038b7c5729",
+      "status": "complete",
+      "duration": 151,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    }
+  ]
+}

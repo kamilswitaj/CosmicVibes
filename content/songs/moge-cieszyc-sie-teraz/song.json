@@ -1,0 +1,37 @@
+{
+  "ideaId": "CV-030",
+  "slug": "moge-cieszyc-sie-teraz",
+  "title": "Mogę cieszyć się teraz",
+  "playlist": "Latin Flow",
+  "sunoPrompt": "Fast raw Latin rock, 146 BPM, tumbling hand percussion, gritty electric guitar riffs, syncopated live bass and hard acoustic drums. Short repeated vocal hook, urgent physical swing and spontaneous ensemble energy. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+  "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+  "lyrics": "[Chorus]\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.\n\n[Verse 1]\nLista niepusta, kubek gorący.\nSłońce na stole, odkładam ten łyk.\n\n[Chorus]\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.\n\n[Verse 2]\nBiorę ten kubek, siadam na chwilę.\nPotem do pracy wrócę znów.\n\n[Chorus]\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.\n\n[Bridge]\nTa mała dobra chwila\nnie potrzebuje wyniku.\n\n[Final Chorus]\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.\nMogę cieszyć się teraz,\nmogę cieszyć się teraz.\nZanim skończę cały plan.\nMogę cieszyć się teraz.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "affirmation": "Mogę cieszyć się teraz.",
+  "problem": "Krótka mantra do ruchu",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "createdAt": "2026-11-15",
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "79b90393-d646-4565-9cb2-0b1571c3c8e2",
+      "title": "Mogę cieszyć się teraz",
+      "url": "https://suno.com/song/79b90393-d646-4565-9cb2-0b1571c3c8e2",
+      "status": "complete",
+      "duration": 130.04,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    },
+    {
+      "id": "cc71686c-3c2f-4db4-8759-9d8dbbbb0d0d",
+      "title": "Mogę cieszyć się teraz",
+      "url": "https://suno.com/song/cc71686c-3c2f-4db4-8759-9d8dbbbb0d0d",
+      "status": "complete",
+      "duration": 162.08,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    }
+  ]
+}

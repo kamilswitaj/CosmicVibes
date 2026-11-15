@@ -1,0 +1,37 @@
+{
+  "ideaId": "CV-025",
+  "slug": "moge-zajac-miejsce",
+  "title": "Mogę zająć miejsce",
+  "playlist": "Rock Rise",
+  "sunoPrompt": "Driving garage rock, 148 BPM, muscular live drums, gritty riff-led propulsion, tight syncopated bass, raw sung Polish vocal and a compact repeated refrain. Loud rehearsal-room energy and continuous forward motion. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+  "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+  "lyrics": "[Chorus]\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.\n\n[Verse 1]\nWchodzę ostatni, stoję przy ścianie.\nWolne krzesło czeka obok was.\n\n[Chorus]\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.\n\n[Verse 2]\nSiadam przy stole, dłonie na blacie.\nJeszcze się spinam, ale jestem tu.\n\n[Chorus]\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.\n\n[Bridge]\nNie muszę być potrzebny,\nżeby z wami być.\n\n[Final Chorus]\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.\nMogę zająć miejsce,\nmogę zająć miejsce.\nNie muszę najpierw błyszczeć.\nMogę zająć miejsce.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "affirmation": "Mogę zająć miejsce.",
+  "problem": "Krótka mantra do ruchu",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "createdAt": "2026-11-15",
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "e7c1877a-0e5f-4366-adfa-29076d74e0ca",
+      "title": "Mogę zająć miejsce",
+      "url": "https://suno.com/song/e7c1877a-0e5f-4366-adfa-29076d74e0ca",
+      "status": "complete",
+      "duration": 116.76,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    },
+    {
+      "id": "48f23341-3302-49d4-b0c9-b34675bcff21",
+      "title": "Mogę zająć miejsce",
+      "url": "https://suno.com/song/48f23341-3302-49d4-b0c9-b34675bcff21",
+      "status": "complete",
+      "duration": 125.6,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    }
+  ]
+}

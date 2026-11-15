@@ -1,0 +1,37 @@
+{
+  "ideaId": "CV-032",
+  "slug": "blad-to-nie-imie",
+  "title": "Błąd to nie imię",
+  "playlist": "Rock Rise",
+  "sunoPrompt": "Heavy fast grunge-punk, 150 BPM, thick abrasive guitars, driving live snare, muscular moving bass and raw melodic Polish vocal. Blunt repeated hook, compressed physical energy and brief stripped-down breaks. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+  "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+  "lyrics": "[Chorus]\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.\n\n[Verse 1]\nCzerwona linia, twój palec na błędzie.\nW gardle już rośnie obrona i wstyd.\n\n[Chorus]\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.\n\n[Verse 2]\nMówię: mój błąd. Otwieram ten fragment.\nSprawdzam poprawkę jeszcze raz.\n\n[Chorus]\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.\n\n[Bridge]\nBiorę za niego odpowiedzialność.\nNie muszę skreślać całego siebie.\n\n[Final Chorus]\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.\nBłąd to nie imię,\nbłąd to nie imię.\nPoprawiam błąd, zostaję sobą.\nBłąd to nie imię.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "affirmation": "Błąd to nie imię.",
+  "problem": "Krótka mantra do ruchu",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "createdAt": "2026-11-15",
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "43613989-6ee0-403c-bcae-80ce42859233",
+      "title": "Błąd to nie imię",
+      "url": "https://suno.com/song/43613989-6ee0-403c-bcae-80ce42859233",
+      "status": "complete",
+      "duration": 122.36,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    },
+    {
+      "id": "fc190bd6-e270-4bb4-885b-2d23210ae18d",
+      "title": "Błąd to nie imię",
+      "url": "https://suno.com/song/fc190bd6-e270-4bb4-885b-2d23210ae18d",
+      "status": "complete",
+      "duration": 117.6,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    }
+  ]
+}

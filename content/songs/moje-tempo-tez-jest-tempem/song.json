@@ -1,0 +1,37 @@
+{
+  "ideaId": "CV-028",
+  "slug": "moje-tempo-tez-jest-tempem",
+  "title": "Moje tempo też jest tempem",
+  "playlist": "Indie Rock Flow",
+  "sunoPrompt": "Angular fast alternative rock, 144 BPM, dry break-like live drums, abrasive rhythmic guitar and a forceful bass pocket. Taut verses and a repeated percussive sung chorus. Gritty, energetic, human and physically propulsive. Clear natural Polish diction. Build most of the song around the repeated chorus.",
+  "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals",
+  "lyrics": "[Chorus]\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.\n\n[Verse 1]\nBiegniesz przede mną, patrzę na zegar.\nPrzyspieszam, aż gubię swój krok.\n\n[Chorus]\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.\n\n[Verse 2]\nZwalniam do rytmu, który utrzymam.\nWciąż jestem w drodze, czuję grunt.\n\n[Chorus]\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.\n\n[Bridge]\nMogę rosnąć bez pościgu.\nDzisiaj idę własnym krokiem.\n\n[Final Chorus]\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.\nMoje tempo też jest tempem,\nmoje tempo też jest tempem.\nŁapię oddech, trzymam krok.\nMoje tempo też jest tempem.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "affirmation": "Moje tempo też jest tempem.",
+  "problem": "Krótka mantra do ruchu",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "createdAt": "2026-11-15",
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "91645240-a62c-4f9b-ad30-887b7134e6b3",
+      "title": "Moje tempo też jest tempem",
+      "url": "https://suno.com/song/91645240-a62c-4f9b-ad30-887b7134e6b3",
+      "status": "complete",
+      "duration": 94.4,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    },
+    {
+      "id": "972399e4-0c95-4bec-a64f-a17a7c5c650f",
+      "title": "Moje tempo też jest tempem",
+      "url": "https://suno.com/song/972399e4-0c95-4bec-a64f-a17a7c5c650f",
+      "status": "complete",
+      "duration": 98.76,
+      "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
+    }
+  ]
+}
