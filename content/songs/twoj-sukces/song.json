@@ -5,8 +5,8 @@
   "playlist": "Latin Flow",
   "problem": "Porównywanie i zazdrość",
   "affirmation": "Mogę poczuć zazdrość, pogratulować i rozpoznać własne pragnienie.",
-  "status": "LyricsDrafted",
-  "generationStatus": "NotGenerated",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
   "createdAt": "2026-11-15",
   "lyrics": "[Verse 1]\nNa zdjęciu klucze do twojego domu.\nPod zdjęciem sto gratulacji i serc.\nPiszę pięknie, brzuch zaciska się cicho.\nTeż chciałem kiedyś tak otworzyć drzwi.\n\n[Pre-Chorus]\nMogę cieszyć się z tobą i tęsknić.\nObie rzeczy mieszczą się przy stole.\n\n[Chorus]\nTwój sukces nie zjada mi miejsca,\nchoć dzisiaj trochę kłuje mnie.\nTwój sukces nie zjada mi miejsca,\nmogę chcieć i życzyć ci dobrze.\n\n[Verse 2]\nOdkładam zdjęcie, otwieram notes.\nZapisuję: dom to spokój, nie dowód.\nSprawdzę własny budżet w sobotę.\nTeraz wyślę gratulacje bez ironii.\n\n[Bridge]\nZazdrość nie musi wybierać mi słów.\nMoże pokazać, za czym naprawdę tęsknię.\n\n[Final Chorus]\nTwój sukces nie zjada mi miejsca,\nchoć dzisiaj trochę kłuje mnie.\nTwój sukces nie zjada mi miejsca,\nmogę chcieć i życzyć ci dobrze.",
   "sunoPrompt": "Earthy Latin alternative groove, bittersweet warmth, loose physical syncopation, conversational refrain. Envy becomes an honest signal of desire. Human, slightly rough, rhythmically rich; no commercial tropical sweetness. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
@@ -15,5 +15,21 @@
     "#afirmacjespiewane",
     "#cosmicvibes"
   ],
-  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze."
+  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+  "sunoRecordings": [
+    {
+      "id": "28cc4a6d-9e73-408a-b24a-98215845774d",
+      "title": "Twój sukces nie zjada mi miejsca",
+      "url": "https://suno.com/song/28cc4a6d-9e73-408a-b24a-98215845774d",
+      "status": "complete",
+      "duration": 131.96
+    },
+    {
+      "id": "e086fdb5-26af-4bff-a184-a201df37ebb3",
+      "title": "Twój sukces nie zjada mi miejsca",
+      "url": "https://suno.com/song/e086fdb5-26af-4bff-a184-a201df37ebb3",
+      "status": "complete",
+      "duration": 132.4
+    }
+  ]
 }

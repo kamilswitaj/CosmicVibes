@@ -5,8 +5,8 @@
   "playlist": "Rage Flow",
   "problem": "Rozdrażnienie i przenoszenie napięcia",
   "affirmation": "Mogę skierować słowa do naruszonej granicy zamiast ranić kogoś obok.",
-  "status": "LyricsDrafted",
-  "generationStatus": "NotGenerated",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
   "createdAt": "2026-11-15",
   "lyrics": "[Verse 1]\nTrzaskam szufladą, bo mail przyszedł o ósmej,\nlecz ostre słowo trafia w ciebie obok.\nNie ty dopisałeś mi kolejną zmianę.\nNie ty zabrałeś wieczór z kalendarza.\n\n[Pre-Chorus]\nOdkładam kubek, odsuwam dłonie.\nWracam do tego, gdzie pękła granica.\n\n[Chorus]\nZłość ma adres,\nnie wyślę jej na oślep.\nZłość ma adres,\nmogę powiedzieć, czego dość.\n\n[Verse 2]\nMówię: przepraszam, to nie było do ciebie.\nNie chcę oddawać ci ciężaru tego dnia.\nW mailu zaznaczam godzinę i zakres.\nBez trzasku drzwi zapisuję swój sprzeciw.\n\n[Bridge]\nNie każda złość ma rację w każdym słowie.\nMogę ją sprawdzić, zanim pójdzie dalej.\n\n[Final Chorus]\nZłość ma adres,\nnie wyślę jej na oślep.\nZłość ma adres,\nmogę powiedzieć, czego dość.",
   "sunoPrompt": "Heavy-grooving alternative rock, dry rhythmic tension, controlled grit, grounded melodic refrain. Anger gains direction and words. Physical and raw, deliberate space, no screaming or triumphal release. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
@@ -15,5 +15,21 @@
     "#afirmacjespiewane",
     "#cosmicvibes"
   ],
-  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze."
+  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+  "sunoRecordings": [
+    {
+      "id": "d9201408-04c1-43e7-ba5d-88c89ad43367",
+      "title": "Złość ma adres",
+      "url": "https://suno.com/song/d9201408-04c1-43e7-ba5d-88c89ad43367",
+      "status": "complete",
+      "duration": 149.68
+    },
+    {
+      "id": "db4d234e-fb9c-4010-96b3-66a9aa8fb09b",
+      "title": "Złość ma adres",
+      "url": "https://suno.com/song/db4d234e-fb9c-4010-96b3-66a9aa8fb09b",
+      "status": "complete",
+      "duration": 157.16
+    }
+  ]
 }

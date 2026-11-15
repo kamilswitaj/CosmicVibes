@@ -5,8 +5,8 @@
   "playlist": "Punk Flow",
   "problem": "Granice i poczucie winy",
   "affirmation": "Mogę odmówić bez pisania obrony całej swojej osoby.",
-  "status": "LyricsDrafted",
-  "generationStatus": "NotGenerated",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
   "createdAt": "2026-11-15",
   "lyrics": "[Verse 1]\nCzy możesz jeszcze dzisiaj to przejąć?\nW kalendarzu nie ma już białych miejsc.\nPiszę trzy akapity o zmęczeniu,\njakbym przed sądem miał obronić sen.\n\n[Pre-Chorus]\nKasuję wstęp i zdanie o pogodzie.\nZostawiam jedno, które znaczy dość.\n\n[Chorus]\nNie. Bez przypisów.\nDzisiaj tego nie podejmę.\nNie. Bez przypisów.\nNie muszę robić z granic winy.\n\n[Verse 2]\nTelefon leży chwilę bez odpowiedzi.\nChcę przez tę chwilę odwołać własny głos.\nZamiast dopisać, że jednak mogę,\nrobię herbatę, zostawiam tekst.\n\n[Bridge]\nCzyjś zawód może zostać w rozmowie.\nMoje nie nie musi stać się tak.\n\n[Final Chorus]\nNie. Bez przypisów.\nDzisiaj tego nie podejmę.\nNie. Bez przypisów.\nNie muszę robić z granic winy.",
   "sunoPrompt": "Dry angular post-punk, elastic human groove, short blunt sung hook. A boundary lands with restraint and a little wit. Raw edges, rhythmic clarity and surprising turns. Keep power controlled. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
@@ -15,5 +15,21 @@
     "#afirmacjespiewane",
     "#cosmicvibes"
   ],
-  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze."
+  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+  "sunoRecordings": [
+    {
+      "id": "7a29012d-5a20-453d-bf84-bca76809654b",
+      "title": "Nie. Bez przypisów.",
+      "url": "https://suno.com/song/7a29012d-5a20-453d-bf84-bca76809654b",
+      "status": "complete",
+      "duration": 78.76
+    },
+    {
+      "id": "bb98dafc-5d09-46c1-8252-9135b9b63d95",
+      "title": "Nie. Bez przypisów.",
+      "url": "https://suno.com/song/bb98dafc-5d09-46c1-8252-9135b9b63d95",
+      "status": "complete",
+      "duration": 91.6
+    }
+  ]
 }

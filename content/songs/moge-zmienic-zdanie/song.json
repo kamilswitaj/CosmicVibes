@@ -5,8 +5,8 @@
   "playlist": "Ska Vibes",
   "problem": "Obrona opinii i polaryzacja",
   "affirmation": "Nowa informacja może zmienić moją opinię bez odbierania mi miejsca w rozmowie.",
-  "status": "LyricsDrafted",
-  "generationStatus": "NotGenerated",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
   "createdAt": "2026-11-15",
   "lyrics": "[Verse 1]\nJuż napisałem długi komentarz.\nW drugim akapicie padło: zawsze.\nKtoś pokazuje datę, której nie znałem,\na ja szukam wyjścia przez atak.\n\n[Pre-Chorus]\nPalce stoją nad gotową odpowiedzią.\nMogę skreślić jedno słowo: zawsze.\n\n[Chorus]\nMogę zmienić zdanie,\nnie zniknę z tego stołu.\nMogę zmienić zdanie,\nnowy fakt ma u mnie drzwi.\n\n[Verse 2]\nPiszę: tego wcześniej nie wiedziałem.\nNie dopisuję trzech obronnych ale.\nPoliczki grzeją, rozmowa idzie dalej,\na ekranie robi się trochę mniej wojny.\n\n[Bridge]\nNie oddaję głosu temu, kto krzyczy.\nSprawdzam, co wnosi, zanim odpowiem.\n\n[Final Chorus]\nMogę zmienić zdanie,\nnie zniknę z tego stołu.\nMogę zmienić zdanie,\nnowy fakt ma u mnie drzwi.",
   "sunoPrompt": "Agile organic ska-rocksteady, curious live energy, simple conversational hook. Defensiveness loosens into intellectual playfulness. Rhythmic and slightly raw with surprising pauses; no cute ska, punk-ska or comedy. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
@@ -15,5 +15,21 @@
     "#afirmacjespiewane",
     "#cosmicvibes"
   ],
-  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze."
+  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+  "sunoRecordings": [
+    {
+      "id": "becbbe6c-e960-45ba-a42e-7e8aa64fa21a",
+      "title": "Mogę zmienić zdanie",
+      "url": "https://suno.com/song/becbbe6c-e960-45ba-a42e-7e8aa64fa21a",
+      "status": "complete",
+      "duration": 127.64
+    },
+    {
+      "id": "e3bd6633-386b-4d99-87fb-8bb5db8c1c6e",
+      "title": "Mogę zmienić zdanie",
+      "url": "https://suno.com/song/e3bd6633-386b-4d99-87fb-8bb5db8c1c6e",
+      "status": "complete",
+      "duration": 122.88
+    }
+  ]
 }

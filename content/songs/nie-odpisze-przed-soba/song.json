@@ -5,8 +5,8 @@
   "playlist": "NeoGlow",
   "problem": "Cyfrowa dostępność",
   "affirmation": "Wiadomość może poczekać, kiedy kończę posiłek lub rozmowę.",
-  "status": "LyricsDrafted",
-  "generationStatus": "NotGenerated",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
   "createdAt": "2026-11-15",
   "lyrics": "[Verse 1]\nWidelec czeka, ekran woła z boku.\nNa chwilę znaczy znowu cały obiad.\nTwój głos urywa się w połowie zdania,\nbo czyjś czerwony punkt przejmuje pokój.\n\n[Pre-Chorus]\nKładę telefon szkłem do drewna.\nJeszcze słyszę go, choć nie zadzwonił.\n\n[Chorus]\nNie odpiszę przed sobą,\nnajpierw dokończę ten kęs.\nNie odpiszę przed tobą,\nchcę usłyszeć, co mówisz mi.\n\n[Verse 2]\nPo chwili pytam: co było dalej?\nZdanie odzyskuje zgubiony brzeg.\nPo obiedzie sprawdzę jedną wiadomość.\nNie każda prośba musi wejść przez stół.\n\n[Bridge]\nNie znikam ludziom przez kilka minut.\nWracam do tych, którzy siedzą tu.\n\n[Final Chorus]\nNie odpiszę przed sobą,\nnajpierw dokończę ten kęs.\nNie odpiszę przed tobą,\nchcę usłyszeć, co mówisz mi.",
   "sunoPrompt": "Glitchy organic electronic art-pop, tactile broken rhythms, warm low-end, clear Polish vocals. Notification-like interruptions become breathing space. Futuristic and emotionally close, playful without being cute. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
@@ -15,5 +15,21 @@
     "#afirmacjespiewane",
     "#cosmicvibes"
   ],
-  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze."
+  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+  "sunoRecordings": [
+    {
+      "id": "83f0d1cd-86c4-445a-9e7d-b87385ae0fa0",
+      "title": "Nie odpiszę przed sobą",
+      "url": "https://suno.com/song/83f0d1cd-86c4-445a-9e7d-b87385ae0fa0",
+      "status": "complete",
+      "duration": 122.76
+    },
+    {
+      "id": "53499871-a826-42a0-9b70-0eaa6bccd77f",
+      "title": "Nie odpiszę przed sobą",
+      "url": "https://suno.com/song/53499871-a826-42a0-9b70-0eaa6bccd77f",
+      "status": "complete",
+      "duration": 123.2
+    }
+  ]
 }

@@ -1,0 +1,102 @@
+[
+  {
+    "ideaId": "CV-015",
+    "slug": "nie-jestem-na-sprzedaz",
+    "title": "Nie jestem na sprzedaż",
+    "clip_ids": [
+      "d8473846-e6f9-480c-967d-2f525122116d",
+      "3869c083-649b-4c87-82fa-046c99f1152f"
+    ],
+    "status": "submitted"
+  },
+  {
+    "ideaId": "CV-016",
+    "slug": "stolik-dla-dwojga",
+    "title": "Stolik dla dwojga",
+    "clip_ids": [
+      "756922b8-f920-4a34-84a8-5e02b63b7cfc",
+      "e45538e7-90cc-4b63-bf69-abd930f14442"
+    ],
+    "status": "submitted"
+  },
+  {
+    "ideaId": "CV-017",
+    "slug": "nie-odpisze-przed-soba",
+    "title": "Nie odpiszę przed sobą",
+    "clip_ids": [
+      "83f0d1cd-86c4-445a-9e7d-b87385ae0fa0",
+      "53499871-a826-42a0-9b70-0eaa6bccd77f"
+    ],
+    "status": "submitted"
+  },
+  {
+    "ideaId": "CV-018",
+    "slug": "nie-bez-przypisow",
+    "title": "Nie. Bez przypisów.",
+    "clip_ids": [
+      "7a29012d-5a20-453d-bf84-bca76809654b",
+      "bb98dafc-5d09-46c1-8252-9135b9b63d95"
+    ],
+    "status": "submitted"
+  },
+  {
+    "ideaId": "CV-019",
+    "slug": "zlosc-ma-adres",
+    "title": "Złość ma adres",
+    "clip_ids": [
+      "d9201408-04c1-43e7-ba5d-88c89ad43367",
+      "db4d234e-fb9c-4010-96b3-66a9aa8fb09b"
+    ],
+    "status": "submitted"
+  },
+  {
+    "ideaId": "CV-020",
+    "slug": "nuda-nie-jest-awaria",
+    "title": "Nuda nie jest awarią",
+    "clip_ids": [
+      "58768591-5f6c-4f08-9678-c2e02db16b91",
+      "b0e5512f-a075-47b8-ac11-2b7582e3e496"
+    ],
+    "status": "submitted"
+  },
+  {
+    "ideaId": "CV-021",
+    "slug": "twoj-sukces",
+    "title": "Twój sukces nie zjada mi miejsca",
+    "clip_ids": [
+      "28cc4a6d-9e73-408a-b24a-98215845774d",
+      "e086fdb5-26af-4bff-a184-a201df37ebb3"
+    ],
+    "status": "submitted"
+  },
+  {
+    "ideaId": "CV-022",
+    "slug": "na-dzis-tyle-swiata",
+    "title": "Na dziś tyle świata",
+    "clip_ids": [
+      "0a9493c3-06fa-4a26-8c94-5c3aae4591a6",
+      "bbe99b7d-f42f-4525-9d86-d482c9dabb38"
+    ],
+    "status": "submitted"
+  },
+  {
+    "ideaId": "CV-023",
+    "slug": "nie-musze-byc-latwy",
+    "title": "Nie muszę być łatwy",
+    "clip_ids": [
+      "88201d11-b5d3-4ee1-b39e-c4414464e0ac",
+      "75f8d7bf-8988-4875-a682-b08d3e786daf"
+    ],
+    "status": "submitted"
+  },
+  {
+    "ideaId": "CV-024",
+    "slug": "moge-zmienic-zdanie",
+    "title": "Mogę zmienić zdanie",
+    "clip_ids": [
+      "becbbe6c-e960-45ba-a42e-7e8aa64fa21a",
+      "e3bd6633-386b-4d99-87fb-8bb5db8c1c6e"
+    ],
+    "status": "submitted"
+  }
+]

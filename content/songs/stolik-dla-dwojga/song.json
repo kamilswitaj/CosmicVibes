@@ -5,8 +5,8 @@
   "playlist": "Jazz Vibes",
   "problem": "Samotność",
   "affirmation": "Mogę odezwać się bez ciekawej historii i zasługiwania na rozmowę.",
-  "status": "LyricsDrafted",
-  "generationStatus": "NotGenerated",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
   "createdAt": "2026-11-15",
   "lyrics": "[Verse 1]\nW kawiarni stoi wolne drugie krzesło.\nTelefon zna twój numer lepiej niż ja.\nUkładam powód, żeby się odezwać,\njakby zwykłe cześć nie miało prawa paść.\n\n[Pre-Chorus]\nNie mam historii na cały wieczór.\nMam pół godziny. Mogę napisać.\n\n[Chorus]\nStolik dla dwojga,\nnie muszę błyszczeć, żeby siąść.\nStolik dla dwojga,\nwyślę cześć, a resztę zobaczę.\n\n[Verse 2]\nWiadomość idzie: kawa w tę sobotę?\nNie dopisuję siedmiu dróg odwrotu.\nMożesz nie mieć czasu, spróbuję później.\nNie skreślam siebie razem z tą datą.\n\n[Bridge]\nNie znam odpowiedzi. Jest jeszcze cisza.\nAle od mojej strony drzwi są uchylone.\n\n[Final Chorus]\nStolik dla dwojga,\nnie muszę błyszczeć, żeby siąść.\nStolik dla dwojga,\nwyślę cześć, a resztę zobaczę.",
   "sunoPrompt": "Intimate modern jazz-soul, loose conversational pocket, warm small-ensemble atmosphere, understated melodic hook. An ordinary invitation carries vulnerable hope. Leave room for silence and surprising phrasing. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
@@ -15,5 +15,21 @@
     "#afirmacjespiewane",
     "#cosmicvibes"
   ],
-  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze."
+  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+  "sunoRecordings": [
+    {
+      "id": "756922b8-f920-4a34-84a8-5e02b63b7cfc",
+      "title": "Stolik dla dwojga",
+      "url": "https://suno.com/song/756922b8-f920-4a34-84a8-5e02b63b7cfc",
+      "status": "complete",
+      "duration": 162.88
+    },
+    {
+      "id": "e45538e7-90cc-4b63-bf69-abd930f14442",
+      "title": "Stolik dla dwojga",
+      "url": "https://suno.com/song/e45538e7-90cc-4b63-bf69-abd930f14442",
+      "status": "complete",
+      "duration": 158.88
+    }
+  ]
 }

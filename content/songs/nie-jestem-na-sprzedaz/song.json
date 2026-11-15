@@ -5,8 +5,8 @@
   "playlist": "Success Flow",
   "problem": "Niepewność finansowa",
   "affirmation": "Mogę negocjować cenę pracy bez wyceniania siebie.",
-  "status": "LyricsDrafted",
-  "generationStatus": "NotGenerated",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
   "createdAt": "2026-11-15",
   "lyrics": "[Verse 1]\nNa ekranie czynsz i dwie zaległe raty.\nNa kartce cena za następny dzień.\nJuż chcę obniżyć ją o własny spokój,\nżeby ktoś na pewno wybrał mnie.\n\n[Pre-Chorus]\nKalkulator liczy koszt i czas.\nNie ma w nim przycisku: ile znaczę ja.\n\n[Chorus]\nNie jestem na sprzedaż,\nmoja praca cenę ma.\nMogę mówić o pieniądzach,\nnie oddając siebie za nią.\n\n[Verse 2]\nWpisuję zakres, termin i zaliczkę.\nWysyłam kwotę, dłonie jeszcze drżą.\nOdpowiedź zmieni plan na przyszły miesiąc,\nnie moje imię, kiedy wrócę stąd.\n\n[Bridge]\nNie obiecam sobie pełnych kont.\nMogę sprawdzić liczby, poprosić o czas.\n\n[Final Chorus]\nNie jestem na sprzedaż,\nmoja praca cenę ma.\nMogę mówić o pieniądzach,\nnie oddając siebie za nią.",
   "sunoPrompt": "Deep organic dub, restrained spoken-sung verses, earthy human groove, understated melodic refrain. Financial tension becomes practical self-respect. Let arrangement evolve freely. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
@@ -15,5 +15,21 @@
     "#afirmacjespiewane",
     "#cosmicvibes"
   ],
-  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze."
+  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+  "sunoRecordings": [
+    {
+      "id": "d8473846-e6f9-480c-967d-2f525122116d",
+      "title": "Nie jestem na sprzedaż",
+      "url": "https://suno.com/song/d8473846-e6f9-480c-967d-2f525122116d",
+      "status": "complete",
+      "duration": 153.24
+    },
+    {
+      "id": "3869c083-649b-4c87-82fa-046c99f1152f",
+      "title": "Nie jestem na sprzedaż",
+      "url": "https://suno.com/song/3869c083-649b-4c87-82fa-046c99f1152f",
+      "status": "complete",
+      "duration": 143.16
+    }
+  ]
 }

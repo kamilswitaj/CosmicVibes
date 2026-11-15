@@ -5,8 +5,8 @@
   "playlist": "Funk Flow",
   "problem": "Przeciążenie bodźcami",
   "affirmation": "Pusta chwila nie wymaga natychmiastowej naprawy.",
-  "status": "LyricsDrafted",
-  "generationStatus": "NotGenerated",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
   "createdAt": "2026-11-15",
   "lyrics": "[Verse 1]\nWinda jedzie ledwie cztery piętra.\nRęka już odblokowuje szkło.\nNic nie przyszło, więc odświeżam ciszę,\njakby brak wiadomości oznaczał błąd.\n\n[Pre-Chorus]\nChowam ekran. Liczby idą wolno.\nSłyszę silnik i czyjś klucz o klucz.\n\n[Chorus]\nNuda nie jest awarią,\nnie naprawiam każdej chwili.\nNuda nie jest awarią,\nmogę minutę po prostu być.\n\n[Verse 2]\nCzajnik potrzebuje trochę czasu.\nPrzez ten czas nie uruchamiam świata.\nPalec jeszcze szuka znajomego ruchu,\na ja słyszę, jak woda się zbiera.\n\n[Bridge]\nNie każda przerwa musi coś mi dać.\nMogę zostawić ją bez zadania.\n\n[Final Chorus]\nNuda nie jest awarią,\nnie naprawiam każdej chwili.\nNuda nie jest awarią,\nmogę minutę po prostu być.",
   "sunoPrompt": "Odd-pocket organic funk, dry spacious interplay, mischievous restrained hook. Repetition makes an uneventful minute physically alive. Earthy bass-led motion, small surprises, human timing. Leave tempo and arrangement open. Polish vocals, natural clear diction. Exclude disco polo, glossy motivational pop, corporate inspiration, stadium anthem and artist imitation.",
@@ -15,5 +15,21 @@
     "#afirmacjespiewane",
     "#cosmicvibes"
   ],
-  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze."
+  "review": "Redakcja wstępna: konkretny konflikt, brak obietnic rezultatu, zachowana sprawczość. Śpiewalność do sprawdzenia w pierwszym renderze.",
+  "sunoRecordings": [
+    {
+      "id": "58768591-5f6c-4f08-9678-c2e02db16b91",
+      "title": "Nuda nie jest awarią",
+      "url": "https://suno.com/song/58768591-5f6c-4f08-9678-c2e02db16b91",
+      "status": "complete",
+      "duration": 123.12
+    },
+    {
+      "id": "b0e5512f-a075-47b8-ac11-2b7582e3e496",
+      "title": "Nuda nie jest awarią",
+      "url": "https://suno.com/song/b0e5512f-a075-47b8-ac11-2b7582e3e496",
+      "status": "complete",
+      "duration": 118.8
+    }
+  ]
 }
