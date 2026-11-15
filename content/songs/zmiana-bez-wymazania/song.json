@@ -1,0 +1,44 @@
+{
+  "ideaId": "CV-052",
+  "slug": "zmiana-bez-wymazania",
+  "title": "Mogę się zmienić bez pogardy dla dawnego siebie",
+  "playlist": "Latin Flow",
+  "coreMessage": "Wzrost nie wymaga odrzucania całej dawnej tożsamości. Życzliwe rozumienie ograniczeń przeszłości może współistnieć z odpowiedzialnością za wyrządzone szkody.",
+  "affirmation": "Mogę się zmienić bez pogardy dla dawnego siebie.",
+  "problem": "Wzrost nie wymaga odrzucania całej dawnej tożsamości. Życzliwe rozumienie ograniczeń przeszłości może współistnieć z odpowiedzialnością za wyrządzone szkody.",
+  "sunoPrompt": "Fast earthy Latin rock with interlocking ukulele riffs, 144 BPM, driving hand percussion, gritty guitars and forceful melodic bass. Bittersweet direct vocal, strong recurring refrain and rough human ensemble swing. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+  "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+  "lyrics": "[Verse 1]\nStare nagranie, mój głos sprzed kilku lat.\nŚmieję się pierwszy, żebyś mnie nie uprzedził.\nŁatwo mi deptać tamtą wersję siebie,\njakby to miało udowodnić, ile umiem dziś.\n\n[Chorus]\nMogę się zmienić bez pogardy dla dawnego siebie.\nNie muszę deptać śladów, żeby dalej iść.\nMogę dziś wiedzieć więcej niż wiedziałem wtedy.\nMogę się zmienić bez pogardy dla dawnego siebie.\n\n[Verse 2]\nNie bronię zdania, którym kogoś zraniłem.\nNazywam szkodę, nie zasłaniam jej latami.\nLecz tamten głos miał też odwagę zacząć.\nDziś niosę dalej to, co chcę ocalić.\n\n[Chorus]\nMogę się zmienić bez pogardy dla dawnego siebie.\nNie muszę deptać śladów, żeby dalej iść.\nMogę dziś wiedzieć więcej niż wiedziałem wtedy.\nMogę się zmienić bez pogardy dla dawnego siebie.\n\n[Bridge]\nRozumieć siebie to nie uniewinniać wszystkiego.\nMogę wziąć odpowiedzialność bez pogardy.\n\n[Final Chorus]\nMogę się zmienić bez pogardy dla dawnego siebie.\nNie muszę deptać śladów, żeby dalej iść.\nMogę dziś wiedzieć więcej niż wiedziałem wtedy.\nMogę się zmienić bez pogardy dla dawnego siebie.\nMogę się zmienić bez pogardy dla dawnego siebie.\nNie muszę deptać śladów, żeby dalej iść.\nMogę dziś wiedzieć więcej niż wiedziałem wtedy.\nMogę się zmienić bez pogardy dla dawnego siebie.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-15",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "reviewStatus": "SecondPassCompleted",
+  "lyricsReview": {
+    "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+    "depth": "Wzrost nie wymaga odrzucania całej dawnej tożsamości. Życzliwe rozumienie ograniczeń przeszłości może współistnieć z odpowiedzialnością za wyrządzone szkody.",
+    "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+    "changes": [],
+    "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "623af89a-65ff-421e-a64d-526b66c86d1c",
+      "title": "Mogę się zmienić bez pogardy dla dawnego siebie",
+      "url": "https://suno.com/song/623af89a-65ff-421e-a64d-526b66c86d1c",
+      "status": "complete",
+      "duration": 129.6
+    },
+    {
+      "id": "b22b779e-9a3f-428e-b4d8-9559bafc14f8",
+      "title": "Mogę się zmienić bez pogardy dla dawnego siebie",
+      "url": "https://suno.com/song/b22b779e-9a3f-428e-b4d8-9559bafc14f8",
+      "status": "complete",
+      "duration": 135.6
+    }
+  ]
+}

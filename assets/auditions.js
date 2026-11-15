@@ -1,4 +1,4 @@
-const boxes=[...document.querySelectorAll('.keep-control input')];const key='cosmic-audition-selections-v3';let saved={};try{saved=JSON.parse(localStorage.getItem(key)||'{}');}catch{}
+const boxes=[...document.querySelectorAll('.keep-control input')];const key='cosmic-audition-selections-v4';let saved={};try{saved=JSON.parse(localStorage.getItem(key)||'{}');}catch{}
 for(const b of boxes){if(Object.hasOwn(saved,b.dataset.id))b.checked=!!saved[b.dataset.id];b.addEventListener('change',()=>{saved[b.dataset.id]=b.checked;try{localStorage.setItem(key,JSON.stringify(saved));}catch{}update();});}
 function update(){document.querySelector('#selection-count').textContent=boxes.filter(b=>b.checked).length+' zaznaczonych';}update();
 document.querySelector('#copy-selection').onclick=async()=>{const list=boxes.map(b=>`- [${b.checked?'x':' '}] ${b.dataset.title}`).join('\n');try{await navigator.clipboard.writeText(list);document.querySelector('#copy-selection').textContent='Lista skopiowana';}catch{const area=document.createElement('textarea');area.value=list;area.rows=14;area.style.width='100%';document.querySelector('#copy-selection').after(area);area.select();}};

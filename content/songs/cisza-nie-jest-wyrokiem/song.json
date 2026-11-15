@@ -1,0 +1,49 @@
+{
+  "ideaId": "CV-049",
+  "slug": "cisza-nie-jest-wyrokiem",
+  "title": "Nie zrobię z twojej ciszy wyroku o sobie",
+  "playlist": "Indie Rock Flow",
+  "coreMessage": "Niepewność w relacji uruchamia dopisywanie oceny własnej wartości. Można weryfikować kontakt i ustalać granice czekania bez ignorowania powtarzalnego braku wzajemności.",
+  "affirmation": "Nie zrobię z twojej ciszy wyroku o sobie.",
+  "problem": "Niepewność w relacji uruchamia dopisywanie oceny własnej wartości. Można weryfikować kontakt i ustalać granice czekania bez ignorowania powtarzalnego braku wzajemności.",
+  "sunoPrompt": "Fast jagged indie rock with percussive ukulele riffing, 146 BPM, thick moving bass and dry explosive live drums. Restless verses, exposed melodic vocal, repeated hook with suspended tension and raw organic production. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+  "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+  "lyrics": "[Verse 1]\nDwie kreski pod pytaniem od wczoraj.\nZnam już odpowiedź, choć nie przyszło nic.\nW głowie dopisuję: za dużo, zbyt nudny,\ni usuwam siebie z nieodbytej rozmowy.\n\n[Chorus]\nNie zrobię z twojej ciszy wyroku o sobie.\nNie dopisuję odrzucenia tam, gdzie nie ma słów.\nMogę zapytać, mogę przestać czekać.\nNie zrobię z twojej ciszy wyroku o sobie.\n\n[Verse 2]\nPiszę raz jeszcze: daj znać, czy to aktualne.\nPotem wybieram własny plan na dzień.\nJeśli ta cisza wraca, mogę się odsunąć.\nNie muszę uznać, że to ze mną coś jest źle.\n\n[Chorus]\nNie zrobię z twojej ciszy wyroku o sobie.\nNie dopisuję odrzucenia tam, gdzie nie ma słów.\nMogę zapytać, mogę przestać czekać.\nNie zrobię z twojej ciszy wyroku o sobie.\n\n[Bridge]\nBrak odpowiedzi mówi coś o tym kontakcie.\nNie mówi wszystkiego o mnie.\n\n[Final Chorus]\nNie zrobię z twojej ciszy wyroku o sobie.\nNie dopisuję odrzucenia tam, gdzie nie ma słów.\nMogę zapytać, mogę przestać czekać.\nNie zrobię z twojej ciszy wyroku o sobie.\nNie zrobię z twojej ciszy wyroku o sobie.\nNie dopisuję odrzucenia tam, gdzie nie ma słów.\nMogę zapytać, mogę przestać czekać.\nNie zrobię z twojej ciszy wyroku o sobie.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-15",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "reviewStatus": "SecondPassCompleted",
+  "lyricsReview": {
+    "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+    "depth": "Niepewność w relacji uruchamia dopisywanie oceny własnej wartości. Można weryfikować kontakt i ustalać granice czekania bez ignorowania powtarzalnego braku wzajemności.",
+    "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+    "changes": [
+      {
+        "before": "Nie znam odpowiedzi, dopóki jej nie znam.",
+        "after": "Nie dopisuję odrzucenia tam, gdzie nie ma słów."
+      }
+    ],
+    "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "d1b54e5b-7e60-4a16-9b0d-a765756e9361",
+      "title": "Nie zrobię z twojej ciszy wyroku o sobie",
+      "url": "https://suno.com/song/d1b54e5b-7e60-4a16-9b0d-a765756e9361",
+      "status": "complete",
+      "duration": 145.92
+    },
+    {
+      "id": "ff3ec74e-cb40-4e4a-a0e9-d51ffcad04e9",
+      "title": "Nie zrobię z twojej ciszy wyroku o sobie",
+      "url": "https://suno.com/song/ff3ec74e-cb40-4e4a-a0e9-d51ffcad04e9",
+      "status": "complete",
+      "duration": 151.6
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ideaId": "CV-045",
+  "slug": "wdziecznosc-nie-odbiera-glosu",
+  "title": "Wdzięczność nie odbiera mi głosu",
+  "playlist": "Ukulele Flow",
+  "coreMessage": "Wdzięczność i prawo do sprzeciwu mogą współistnieć. Dawna pomoc nie tworzy obowiązku tolerowania obecnego poniżenia.",
+  "affirmation": "Wdzięczność nie odbiera mi głosu.",
+  "problem": "Wdzięczność i prawo do sprzeciwu mogą współistnieć. Dawna pomoc nie tworzy obowiązku tolerowania obecnego poniżenia.",
+  "sunoPrompt": "Gritty ukulele-led alternative rock, 144 BPM, dry muted ukulele riffs locking with syncopated electric bass, driving acoustic drums and rough electric guitar. Close human sung Polish vocal, weighty recurring hook, lively asymmetrical phrasing. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+  "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+  "lyrics": "[Verse 1]\nPomogłeś wtedy, gdy nie miałem siły.\nPamiętam klucze, noc i wolny pokój.\nDzisiaj przy stole śmiejesz się z moich spraw,\na ja ze wstydu dziękuję za wszystko.\n\n[Chorus]\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.\n\n[Verse 2]\nMówię: doceniam to, co dla mnie zrobiłeś.\nI nie chcę słuchać tych słów przy innych znów.\nNie wymazuję tamtej wyciągniętej ręki.\nTwoja pomoc nie kupiła mojej ciszy.\n\n[Chorus]\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.\n\n[Bridge]\nDobro nie znika, kiedy stawiam granicę.\nGranica nie kasuje dobra.\n\n[Final Chorus]\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-15",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "reviewStatus": "SecondPassCompleted",
+  "lyricsReview": {
+    "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+    "depth": "Wdzięczność i prawo do sprzeciwu mogą współistnieć. Dawna pomoc nie tworzy obowiązku tolerowania obecnego poniżenia.",
+    "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+    "changes": [
+      {
+        "before": "Wyjmuję z niej prawo do mojego głosu.",
+        "after": "Twoja pomoc nie kupiła mojej ciszy."
+      }
+    ],
+    "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "a5026308-32f3-4244-bf42-c5ef012b84c6",
+      "title": "Wdzięczność nie odbiera mi głosu",
+      "url": "https://suno.com/song/a5026308-32f3-4244-bf42-c5ef012b84c6",
+      "status": "complete",
+      "duration": 140.4
+    },
+    {
+      "id": "b984df73-80bb-45ad-935c-627a3f5b80cb",
+      "title": "Wdzięczność nie odbiera mi głosu",
+      "url": "https://suno.com/song/b984df73-80bb-45ad-935c-627a3f5b80cb",
+      "status": "complete",
+      "duration": 128.4
+    }
+  ]
+}

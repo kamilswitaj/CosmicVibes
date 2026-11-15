@@ -1,0 +1,44 @@
+{
+  "ideaId": "CV-050",
+  "slug": "blisko-nie-tylko-potrzebny",
+  "title": "Chcę być blisko, nie tylko potrzebny",
+  "playlist": "Funk Flow",
+  "coreMessage": "Bycie pomocnym może zastępować sprawdzanie, czy relacja mieści zwykłą obecność i wzajemność. Zmiana polega na ryzyku kontaktu bez usługi, bez obietnicy zachowania każdej więzi.",
+  "affirmation": "Chcę być blisko, nie tylko potrzebny.",
+  "problem": "Bycie pomocnym może zastępować sprawdzanie, czy relacja mieści zwykłą obecność i wzajemność. Zmiana polega na ryzyku kontaktu bez usługi, bez obietnicy zachowania każdej więzi.",
+  "sunoPrompt": "Hard syncopated funk-rock, 142 BPM, muted ukulele patterns weaving through gritty electric guitar, elastic bass and dry live percussion. Strong physical pocket, human slightly raspy sung vocal, insistent bittersweet chorus. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+  "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+  "lyrics": "[Verse 1]\nZnam wasze awarie, hasła i terminy.\nGdy dzwoni ekran, już podwijam rękaw.\nLecz gdy wieczorem sam potrzebuję głosu,\nnie wiem, czy mogę zadzwonić bez sprawy.\n\n[Chorus]\nChcę być blisko, nie tylko potrzebny.\nNie tylko wtedy, gdy coś umiem dać.\nMogę zadzwonić bez gotowej odpowiedzi.\nChcę być blisko, nie tylko potrzebny.\n\n[Verse 2]\nDziś mówię: nie mam sprawy do załatwienia.\nChciałem posiedzieć, usłyszeć twój dzień.\nOdkładam rolę człowieka od naprawy.\nSprawdzam, czy znajdziesz miejsce dla mnie też.\n\n[Chorus]\nChcę być blisko, nie tylko potrzebny.\nNie tylko wtedy, gdy coś umiem dać.\nMogę zadzwonić bez gotowej odpowiedzi.\nChcę być blisko, nie tylko potrzebny.\n\n[Bridge]\nNie każda więź przetrwa zmianę mojej roli.\nMogę zobaczyć, gdzie jest miejsce dla mnie.\n\n[Final Chorus]\nChcę być blisko, nie tylko potrzebny.\nNie tylko wtedy, gdy coś umiem dać.\nMogę zadzwonić bez gotowej odpowiedzi.\nChcę być blisko, nie tylko potrzebny.\nChcę być blisko, nie tylko potrzebny.\nNie tylko wtedy, gdy coś umiem dać.\nMogę zadzwonić bez gotowej odpowiedzi.\nChcę być blisko, nie tylko potrzebny.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-15",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "reviewStatus": "SecondPassCompleted",
+  "lyricsReview": {
+    "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+    "depth": "Bycie pomocnym może zastępować sprawdzanie, czy relacja mieści zwykłą obecność i wzajemność. Zmiana polega na ryzyku kontaktu bez usługi, bez obietnicy zachowania każdej więzi.",
+    "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+    "changes": [],
+    "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "1c03a327-5072-48fd-966e-9aa89e0ff6dc",
+      "title": "Chcę być blisko, nie tylko potrzebny",
+      "url": "https://suno.com/song/1c03a327-5072-48fd-966e-9aa89e0ff6dc",
+      "status": "complete",
+      "duration": 161.32
+    },
+    {
+      "id": "f82a6103-a3f0-422e-9a37-b2748cec540f",
+      "title": "Chcę być blisko, nie tylko potrzebny",
+      "url": "https://suno.com/song/f82a6103-a3f0-422e-9a37-b2748cec540f",
+      "status": "complete",
+      "duration": 167.6
+    }
+  ]
+}

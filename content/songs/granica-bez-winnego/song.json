@@ -1,0 +1,44 @@
+{
+  "ideaId": "CV-047",
+  "slug": "granica-bez-winnego",
+  "title": "Moja granica nie potrzebuje twojej winy",
+  "playlist": "Ska Vibes",
+  "coreMessage": "Ustanowienie granicy nie zawsze wymaga wskazania krzywdy lub winnego. Można uczciwie uznać rozbieżne potrzeby bez tworzenia oskarżenia uzasadniającego odmowę.",
+  "affirmation": "Moja granica nie potrzebuje twojej winy.",
+  "problem": "Ustanowienie granicy nie zawsze wymaga wskazania krzywdy lub winnego. Można uczciwie uznać rozbieżne potrzeby bez tworzenia oskarżenia uzasadniającego odmowę.",
+  "sunoPrompt": "Heavy organic ska-rock, 150 BPM, clipped offbeat ukulele doubling gritty guitar accents, dry urgent acoustic snare and springy electric bass. Tense human vocal opening into a forceful repeated melody, lively pocket and raw ensemble sound. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+  "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+  "lyrics": "[Verse 1]\nSzukam powodu, żeby nie jechać w piątek.\nWięc w twoich słowach tropię dawny błąd.\nŁatwiej mi zrobić z ciebie oskarżonego,\nniż przyznać: dzisiaj potrzebuję zostać.\n\n[Chorus]\nMoja granica nie potrzebuje twojej winy.\nMogę odmówić bez szukania ran.\nNie musisz zawinić, żebym wybrał inaczej.\nMoja granica nie potrzebuje twojej winy.\n\n[Verse 2]\nMówię: tym razem nie przyjadę z wami.\nNie składam akt z ostatnich kilku lat.\nMasz prawo tęsknić, ja mam prawo zostać.\nNie muszę ranić, żeby zadbać o ten czas.\n\n[Chorus]\nMoja granica nie potrzebuje twojej winy.\nMogę odmówić bez szukania ran.\nNie musisz zawinić, żebym wybrał inaczej.\nMoja granica nie potrzebuje twojej winy.\n\n[Bridge]\nNie każdy wybór ma ofiarę i winnego.\nCzasem są tylko dwie różne potrzeby.\n\n[Final Chorus]\nMoja granica nie potrzebuje twojej winy.\nMogę odmówić bez szukania ran.\nNie musisz zawinić, żebym wybrał inaczej.\nMoja granica nie potrzebuje twojej winy.\nMoja granica nie potrzebuje twojej winy.\nMogę odmówić bez szukania ran.\nNie musisz zawinić, żebym wybrał inaczej.\nMoja granica nie potrzebuje twojej winy.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-15",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "reviewStatus": "SecondPassCompleted",
+  "lyricsReview": {
+    "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+    "depth": "Ustanowienie granicy nie zawsze wymaga wskazania krzywdy lub winnego. Można uczciwie uznać rozbieżne potrzeby bez tworzenia oskarżenia uzasadniającego odmowę.",
+    "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+    "changes": [],
+    "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "320984b3-80e4-47ce-af82-a445820249b8",
+      "title": "Moja granica nie potrzebuje twojej winy",
+      "url": "https://suno.com/song/320984b3-80e4-47ce-af82-a445820249b8",
+      "status": "complete",
+      "duration": 125.12
+    },
+    {
+      "id": "f402a664-59ee-476f-918d-d8b30481bc51",
+      "title": "Moja granica nie potrzebuje twojej winy",
+      "url": "https://suno.com/song/f402a664-59ee-476f-918d-d8b30481bc51",
+      "status": "complete",
+      "duration": 122.8
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "ideaId": "CV-051",
+  "slug": "wartosc-pracy-bez-cierpienia",
+  "title": "Moja praca nie musi boleć, żeby mieć wartość",
+  "playlist": "Rock Rise",
+  "coreMessage": "Utożsamianie trudu z wartością prowadzi do dewaluacji kompetencji i dokładania cierpienia jako dowodu uczciwości. O jakości decyduje rezultat i odpowiedzialność, nie samo wyczerpanie.",
+  "affirmation": "Moja praca nie musi boleć, żeby mieć wartość.",
+  "problem": "Utożsamianie trudu z wartością prowadzi do dewaluacji kompetencji i dokładania cierpienia jako dowodu uczciwości. O jakości decyduje rezultat i odpowiedzialność, nie samo wyczerpanie.",
+  "sunoPrompt": "Fast raw alternative rock with hard-strummed muted ukulele, 148 BPM, powerful acoustic drums, heavy syncopated bass and abrasive guitar hooks. Gritty direct sung refrain, momentum and human dynamic contrast. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+  "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+  "lyrics": "[Verse 1]\nKończę w godzinę to, co kiedyś w tydzień.\nZamiast się cieszyć, odejmuję cenę.\nJakby dopiero zarwana trzecia noc\nmiała potwierdzić, że naprawdę dałem coś.\n\n[Chorus]\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.\n\n[Verse 2]\nSprawdzam, czy działa, czy komuś się przyda.\nNie dokładam trudu tylko po to, by go mieć.\nUstalam cenę za zakres i umiejętność.\nNie za to, ile snu oddałem tej nocy.\n\n[Chorus]\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.\n\n[Bridge]\nŁatwość nie zwalnia mnie z uczciwej pracy.\nBól nie zastąpi jej jakości.\n\n[Final Chorus]\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-15",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "reviewStatus": "SecondPassCompleted",
+  "lyricsReview": {
+    "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+    "depth": "Utożsamianie trudu z wartością prowadzi do dewaluacji kompetencji i dokładania cierpienia jako dowodu uczciwości. O jakości decyduje rezultat i odpowiedzialność, nie samo wyczerpanie.",
+    "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+    "changes": [
+      {
+        "before": "Nie szukam braku tylko po to, by tkwić.",
+        "after": "Nie dokładam trudu tylko po to, by go mieć."
+      }
+    ],
+    "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "b4d32a69-f4b8-4678-89fb-9e175b2d206c",
+      "title": "Moja praca nie musi boleć, żeby mieć wartość",
+      "url": "https://suno.com/song/b4d32a69-f4b8-4678-89fb-9e175b2d206c",
+      "status": "complete",
+      "duration": 124.4
+    },
+    {
+      "id": "fd7502c6-6d6e-409d-a158-ec4893e34486",
+      "title": "Moja praca nie musi boleć, żeby mieć wartość",
+      "url": "https://suno.com/song/fd7502c6-6d6e-409d-a158-ec4893e34486",
+      "status": "complete",
+      "duration": 113.96
+    }
+  ]
+}

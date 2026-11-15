@@ -1,6 +1,6 @@
 {
-  "kept": ["CV-019", "CV-020", "CV-021", "CV-022", "CV-025", "CV-026", "CV-029", "CV-032", "CV-033", "CV-034"],
-  "rejected": ["CV-015", "CV-016", "CV-017", "CV-018", "CV-023", "CV-024", "CV-027", "CV-028", "CV-030", "CV-031"],
-  "currentBatch": "wave-three",
-  "reason": "User checklist: retain ten titles across prior waves, reject ten. Next batch needs specific meaning and emotional depth inside compact repeated lyrics."
+  "kept": ["CV-019", "CV-020", "CV-021", "CV-022", "CV-025", "CV-026", "CV-029", "CV-032", "CV-033", "CV-034", "CV-035", "CV-036", "CV-037", "CV-039", "CV-040", "CV-041", "CV-042", "CV-044"],
+  "rejected": ["CV-015", "CV-016", "CV-017", "CV-018", "CV-023", "CV-024", "CV-027", "CV-028", "CV-030", "CV-031", "CV-038", "CV-043"],
+  "currentBatch": "wave-four",
+  "reason": "User retained eighteen titles and rejected twelve across three waves. Fourth wave adds rhythmic ukulele, a separate second editorial pass and the existing fast raw live-band direction."
 }

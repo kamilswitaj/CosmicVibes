@@ -1,0 +1,57 @@
+{
+  "ideaId": "CV-054",
+  "slug": "mniej-dla-cudzego-komfortu",
+  "title": "Nie schowam swojej radości, żeby zasłużyć na bliskość",
+  "playlist": "Ska Vibes",
+  "coreMessage": "Zachowanie więzi nie wymaga ukrywania własnych dobrych doświadczeń. Można dzielić radość z uważnością na cudzy trud, bez triumfalnego porównywania i bez samopomniejszania.",
+  "affirmation": "Nie schowam swojej radości, żeby zasłużyć na bliskość.",
+  "problem": "Zachowanie więzi nie wymaga ukrywania własnych dobrych doświadczeń. Można dzielić radość z uważnością na cudzy trud, bez triumfalnego porównywania i bez samopomniejszania.",
+  "sunoPrompt": "Fast gritty ska-funk rock, 152 BPM, percussive offbeat ukulele, jagged electric guitar, mobile heavy bass and urgent dry live drums. Strong conversational sung hook, warm grit and restless organic interplay. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+  "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+  "lyrics": "[Verse 1]\nMasz dobry dzień? Pytasz, ja mówię: zwykły.\nChowam wiadomość o projekcie, który wyszedł.\nWidzę twój smutek, tracę własny uśmiech.\nJuż mój sukces przepraszająco spuszcza wzrok.\n\n[Chorus]\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nMogę mówić z radością, nie robiąc z tego wyścigu.\nTwój trud ma swoje miejsce, moje dobro też.\nNie schowam swojej radości, żeby zasłużyć na bliskość.\n\n[Verse 2]\nDziś mówię: cieszę się, długo na to czekałem.\nPotem zostawiam miejsce na twój dzień.\nNie muszę stawiać cię w cieniu swojej historii.\nNie muszę znikać, żeby słyszeć twoją.\n\n[Chorus]\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nMogę mówić z radością, nie robiąc z tego wyścigu.\nTwój trud ma swoje miejsce, moje dobro też.\nNie schowam swojej radości, żeby zasłużyć na bliskość.\n\n[Bridge]\nNie żądam, żebyś cieszył się na mój rozkaz.\nNie będę tylko udawał, że to nic.\n\n[Final Chorus]\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nMogę mówić z radością, nie robiąc z tego wyścigu.\nTwój trud ma swoje miejsce, moje dobro też.\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nMogę mówić z radością, nie robiąc z tego wyścigu.\nTwój trud ma swoje miejsce, moje dobro też.\nNie schowam swojej radości, żeby zasłużyć na bliskość.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-15",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "reviewStatus": "SecondPassCompleted",
+  "lyricsReview": {
+    "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+    "depth": "Zachowanie więzi nie wymaga ukrywania własnych dobrych doświadczeń. Można dzielić radość z uważnością na cudzy trud, bez triumfalnego porównywania i bez samopomniejszania.",
+    "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+    "changes": [
+      {
+        "before": "Nie pomniejszę siebie, żeby oszczędzić ci zazdrości",
+        "after": "Nie schowam swojej radości, żeby zasłużyć na bliskość"
+      },
+      {
+        "before": "Znam tę minę, kiedy dzieje mi się dobrze.",
+        "after": "Widzę twój smutek, tracę własny uśmiech."
+      },
+      {
+        "before": "Nie muszę błyszczeć ponad tobą, żeby świecić.\nNie muszę gasnąć, żeby móc przy tobie być.",
+        "after": "Nie muszę stawiać cię w cieniu swojej historii.\nNie muszę znikać, żeby słyszeć twoją."
+      }
+    ],
+    "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "3593a2fa-fc15-403c-8cdc-2d2f3b75ae94",
+      "title": "Nie schowam swojej radości, żeby zasłużyć na bliskość",
+      "url": "https://suno.com/song/3593a2fa-fc15-403c-8cdc-2d2f3b75ae94",
+      "status": "complete",
+      "duration": 137.92
+    },
+    {
+      "id": "7ca47c68-e692-4d8f-bc10-d57fe061a849",
+      "title": "Nie schowam swojej radości, żeby zasłużyć na bliskość",
+      "url": "https://suno.com/song/7ca47c68-e692-4d8f-bc10-d57fe061a849",
+      "status": "complete",
+      "duration": 136.28
+    }
+  ]
+}

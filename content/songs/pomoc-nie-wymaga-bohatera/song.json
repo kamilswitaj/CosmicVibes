@@ -1,0 +1,49 @@
+{
+  "ideaId": "CV-046",
+  "slug": "pomoc-nie-wymaga-bohatera",
+  "title": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia",
+  "playlist": "Funk Flow",
+  "coreMessage": "Proszenie o wsparcie nie wymaga uprzedniego udowodnienia odporności ani atrakcyjnego opakowania cierpienia. Prawo do prośby nie jest gwarancją dostępności konkretnej osoby.",
+  "affirmation": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia.",
+  "problem": "Proszenie o wsparcie nie wymaga uprzedniego udowodnienia odporności ani atrakcyjnego opakowania cierpienia. Prawo do prośby nie jest gwarancją dostępności konkretnej osoby.",
+  "sunoPrompt": "Fast Afro-funk with raw ukulele counter-riffs, 140 BPM, deep mobile bass, dry live drums, restless hand percussion and gritty guitar responses. Physically driving, intimate rough sung vocal and a compact persistent chorus. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+  "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+  "lyrics": "[Verse 1]\nNa pytanie: jak się trzymasz, mówię: jakoś.\nTak, żebyś usłyszał, że ogarniam sam.\nNawet prosząc, składam zdania w żarty,\nżeby mój ciężar nie usiadł między nami.\n\n[Chorus]\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\n\n[Verse 2]\nDziś mówię prosto: potrzebuję rozmowy.\nNie obiecuję, że zaraz będzie mi lepiej.\nMożesz nie mieć siły, możemy szukać dalej.\nMoja potrzeba nie znika wraz z odmową.\n\n[Chorus]\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\n\n[Bridge]\nNie muszę dojść do końca sił,\nżeby wolno mi było prosić.\n\n[Final Chorus]\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-15",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "reviewStatus": "SecondPassCompleted",
+  "lyricsReview": {
+    "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+    "depth": "Proszenie o wsparcie nie wymaga uprzedniego udowodnienia odporności ani atrakcyjnego opakowania cierpienia. Prawo do prośby nie jest gwarancją dostępności konkretnej osoby.",
+    "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+    "changes": [
+      {
+        "before": "Nie muszę być dzielny, żeby dostać wsparcie",
+        "after": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia"
+      }
+    ],
+    "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "74e8518b-e8ae-41ea-a052-d4821572c0b9",
+      "title": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia",
+      "url": "https://suno.com/song/74e8518b-e8ae-41ea-a052-d4821572c0b9",
+      "status": "complete",
+      "duration": 130.36
+    },
+    {
+      "id": "0683d469-9c12-4a35-8f50-facb560493a3",
+      "title": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia",
+      "url": "https://suno.com/song/0683d469-9c12-4a35-8f50-facb560493a3",
+      "status": "complete",
+      "duration": 142.8
+    }
+  ]
+}
