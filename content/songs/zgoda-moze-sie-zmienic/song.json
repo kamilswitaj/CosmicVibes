@@ -1,0 +1,51 @@
+{
+  "ideaId": "CV-059",
+  "slug": "zgoda-moze-sie-zmienic",
+  "title": "Moja zgoda ma prawo się zmienić",
+  "playlist": "Reggae Flow",
+  "tempoTarget": 112,
+  "targetSeconds": 250,
+  "coreMessage": "Zmiana zgody lub gotowości nie musi oznaczać wcześniejszej nieszczerości. W kontekście zobowiązań można komunikować zmianę i jej skutki, zachowując granice.",
+  "affirmation": "Moja zgoda ma prawo się zmienić.",
+  "problem": "Zmiana zgody lub gotowości nie musi oznaczać wcześniejszej nieszczerości. W kontekście zobowiązań można komunikować zmianę i jej skutki, zachowując granice.",
+  "sunoPrompt": "Raw roots reggae-rock, steady syncopated bass-led live groove, clipped electric guitar, warm organ and dry acoustic drums. Firm human sung refrain, extended dub interludes and natural dynamic shifts, movement without hurry. Approximately 112 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+  "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+  "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nW piątek mówiłem: jasne, dam radę.\nNie znałem ceny tych następnych dni.\nWczorajsze tak dziś zabrania mi odmówić,\njakby tamta zgoda miała więcej praw niż ja.\n\n[Pre-Chorus]\nTo, co było szczere, mogło przestać służyć.\nMogę wrócić do rozmowy z nowym faktem.\n\n[Chorus]\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\n\n[Instrumental]\n\n[Verse 2]\nDzwonię zawczasu, nie chowam się w ciszy.\nMówię, co się zmieniło, ustalam nowy plan.\nNie każde ustalenie da się zamknąć bez kosztu,\nlecz mogę go nazwać, zamiast znikać wam.\n\n[Chorus]\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\n\n[Bridge]\nMoje tak nie było zgodą na wszystko.\nTwoja trudność też ma miejsce w tej rozmowie.\nMogę brać odpowiedzialność za zmianę,\nnie oddając prawa do zmienionego zdania.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\n\n[Outro]\nMoja zgoda ma prawo się zmienić.\nMoja zgoda ma prawo się zmienić.",
+  "reviewStatus": "SecondPassCompleted",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-16",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "lyricsReview": {
+    "status": "SecondPassCompleted",
+    "messageCheck": "Zmiana zgody lub gotowości nie musi oznaczać wcześniejszej nieszczerości. W kontekście zobowiązań można komunikować zmianę i jej skutki, zachowując granice.",
+    "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+    "changes": [
+      {
+        "before": "Dziś moje wczoraj trzyma mnie przy słowie,\njakby to słowo miało więcej praw niż ja.",
+        "after": "Wczorajsze tak dziś zabrania mi odmówić,\njakby tamta zgoda miała więcej praw niż ja."
+      }
+    ],
+    "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "b3389aa8-7a30-4fc8-a24d-f96aa71a201e",
+      "title": "Moja zgoda ma prawo się zmienić",
+      "url": "https://suno.com/song/b3389aa8-7a30-4fc8-a24d-f96aa71a201e",
+      "status": "complete",
+      "duration": 249.6
+    },
+    {
+      "id": "7faa7d9f-6316-4ea7-8473-4d1f2afd544f",
+      "title": "Moja zgoda ma prawo się zmienić",
+      "url": "https://suno.com/song/7faa7d9f-6316-4ea7-8473-4d1f2afd544f",
+      "status": "complete",
+      "duration": 249.84
+    }
+  ]
+}

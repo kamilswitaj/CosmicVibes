@@ -1,0 +1,46 @@
+{
+  "ideaId": "CV-058",
+  "slug": "bol-bez-obowiazku-lekcji",
+  "title": "Nie muszę zamieniać bólu w lekcję",
+  "playlist": "Piano Flow",
+  "tempoTarget": 84,
+  "targetSeconds": 280,
+  "coreMessage": "Presja natychmiastowego znajdowania sensu w cierpieniu może unieważniać ból. Można szukać kontaktu i wsparcia bez opowiadania historii o obowiązkowym rozwoju.",
+  "affirmation": "Nie muszę zamieniać bólu w lekcję.",
+  "problem": "Presja natychmiastowego znajdowania sensu w cierpieniu może unieważniać ból. Można szukać kontaktu i wsparcia bez opowiadania historii o obowiązkowym rozwoju.",
+  "sunoPrompt": "Textural piano-led alternative soul, low organic bass and sparse human drums with a slow deliberate pulse. Intimate sung vocal, restrained power, long instrumental breathing spaces and an evolving repeated refrain. Grounded and awake rather than sentimental. Approximately 84 BPM. Full-length song around 5 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+  "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+  "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nPytasz: co dobrego z tego wyniosłem?\nJa jeszcze zbieram rzeczy z tamtych dni.\nSzukam mądrego zdania, żeby ci ulżyć,\nchoć we mnie nie ma dzisiaj żadnej puenty.\n\n[Pre-Chorus]\nTo zdanie nie musi dobrze się kończyć.\nWystarczy, że jest prawdziwe teraz.\n\n[Chorus]\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\n\n[Instrumental]\n\n[Verse 2]\nDziś mówię: nie wiem, czego mnie to uczy.\nChciałbym, żebyś chwilę został obok mnie.\nMoże za jakiś czas sam coś w tym zobaczę,\nale nie muszę robić z rany uzasadnienia.\n\n[Chorus]\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\n\n[Bridge]\nNie wszystko, co boli, wydarzyło się po coś.\nNie każdy ślad musi stać się moją siłą.\nMogę szukać pomocy i zwykłego ukojenia,\nzanim umiem opowiedzieć, co mi było.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\n\n[Outro]\nNie muszę zamieniać bólu w lekcję.\nNie muszę zamieniać bólu w lekcję.",
+  "reviewStatus": "SecondPassCompleted",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-16",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "lyricsReview": {
+    "status": "SecondPassCompleted",
+    "messageCheck": "Presja natychmiastowego znajdowania sensu w cierpieniu może unieważniać ból. Można szukać kontaktu i wsparcia bez opowiadania historii o obowiązkowym rozwoju.",
+    "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+    "changes": [],
+    "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "a08e078f-5ea3-42a8-ad1f-d29686b1c50a",
+      "title": "Nie muszę zamieniać bólu w lekcję",
+      "url": "https://suno.com/song/a08e078f-5ea3-42a8-ad1f-d29686b1c50a",
+      "status": "complete",
+      "duration": 279.4
+    },
+    {
+      "id": "de30d3e1-2cfa-437f-945f-4c4fec86fcd2",
+      "title": "Nie muszę zamieniać bólu w lekcję",
+      "url": "https://suno.com/song/de30d3e1-2cfa-437f-945f-4c4fec86fcd2",
+      "status": "complete",
+      "duration": 279.48
+    }
+  ]
+}

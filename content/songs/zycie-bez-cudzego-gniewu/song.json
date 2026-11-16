@@ -1,0 +1,51 @@
+{
+  "ideaId": "CV-055",
+  "slug": "zycie-bez-cudzego-gniewu",
+  "title": "Nie będę żyć w gotowości na cudzy gniew",
+  "playlist": "Reggae Flow",
+  "tempoTarget": 88,
+  "targetSeconds": 270,
+  "coreMessage": "Życie w ciągłym przewidywaniu cudzego gniewu zawęża własną obecność. Zmiana polega na oddzieleniu czyjejś emocji od własnego obowiązku uspokajania oraz wybraniu granicy lub wsparcia.",
+  "affirmation": "Nie będę żyć w gotowości na cudzy gniew.",
+  "problem": "Życie w ciągłym przewidywaniu cudzego gniewu zawęża własną obecność. Zmiana polega na oddzieleniu czyjejś emocji od własnego obowiązku uspokajania oraz wybraniu granicy lub wsparcia.",
+  "sunoPrompt": "Heavy organic dub-rock, slow deep syncopated bass, spacious acoustic drums, low gritty guitar and warm organ. Quiet force, extended instrumental passages, close sung Polish vocal, memorable restrained refrain. Approximately 88 BPM. Full-length song around 5 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+  "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+  "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nKlucz obraca się, już mierzę twoje kroki.\nPo dźwięku drzwi układam własny głos.\nZanim zapytasz, sprzątam z twarzy humor,\njakby mój spokój też wymagał pozwolenia.\n\n[Pre-Chorus]\nNie wszystko, co słyszę, wymaga mojej obrony.\nMogę najpierw sprawdzić, czego potrzebuję ja.\n\n[Chorus]\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\n\n[Instrumental]\n\n[Verse 2]\nGdy podnosisz głos, nie dokładam tłumaczenia.\nMówię: wrócę, kiedy będzie można rozmawiać.\nBiorę telefon, wychodzę na klatkę.\nNie muszę wytrzymać, żeby udowodnić bliskość.\n\n[Chorus]\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\n\n[Bridge]\nNie naprawię domu własnym znikaniem.\nMogę szukać miejsca, w którym nie muszę czuwać.\nGdy sam nie umiem wyjść z tego napięcia,\nmogę dopuścić do tej sprawy czyjąś pomoc.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\n\n[Outro]\nNie będę żyć w gotowości na cudzy gniew.\nNie będę żyć w gotowości na cudzy gniew.",
+  "reviewStatus": "SecondPassCompleted",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-16",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "lyricsReview": {
+    "status": "SecondPassCompleted",
+    "messageCheck": "Życie w ciągłym przewidywaniu cudzego gniewu zawęża własną obecność. Zmiana polega na oddzieleniu czyjejś emocji od własnego obowiązku uspokajania oraz wybraniu granicy lub wsparcia.",
+    "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+    "changes": [
+      {
+        "before": "jakby mój spokój miał rozgniewać dom.",
+        "after": "jakby mój spokój też wymagał pozwolenia."
+      }
+    ],
+    "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "2ba48446-c9e0-4ed5-bd02-0f18f1dfc001",
+      "title": "Nie będę żyć w gotowości na cudzy gniew",
+      "url": "https://suno.com/song/2ba48446-c9e0-4ed5-bd02-0f18f1dfc001",
+      "status": "complete",
+      "duration": 269.56
+    },
+    {
+      "id": "425c7737-f4f5-4b26-8898-687b457368aa",
+      "title": "Nie będę żyć w gotowości na cudzy gniew",
+      "url": "https://suno.com/song/425c7737-f4f5-4b26-8898-687b457368aa",
+      "status": "complete",
+      "duration": 269.6
+    }
+  ]
+}

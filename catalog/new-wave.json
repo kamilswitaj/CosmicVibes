@@ -510,6 +510,197 @@
     ]
   },
   {
+    "ideaId": "CV-045",
+    "slug": "wdziecznosc-nie-odbiera-glosu",
+    "title": "Wdzięczność nie odbiera mi głosu",
+    "playlist": "Ukulele Flow",
+    "coreMessage": "Wdzięczność i prawo do sprzeciwu mogą współistnieć. Dawna pomoc nie tworzy obowiązku tolerowania obecnego poniżenia.",
+    "affirmation": "Wdzięczność nie odbiera mi głosu.",
+    "problem": "Wdzięczność i prawo do sprzeciwu mogą współistnieć. Dawna pomoc nie tworzy obowiązku tolerowania obecnego poniżenia.",
+    "sunoPrompt": "Gritty ukulele-led alternative rock, 144 BPM, dry muted ukulele riffs locking with syncopated electric bass, driving acoustic drums and rough electric guitar. Close human sung Polish vocal, weighty recurring hook, lively asymmetrical phrasing. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+    "lyrics": "[Verse 1]\nPomogłeś wtedy, gdy nie miałem siły.\nPamiętam klucze, noc i wolny pokój.\nDzisiaj przy stole śmiejesz się z moich spraw,\na ja ze wstydu dziękuję za wszystko.\n\n[Chorus]\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.\n\n[Verse 2]\nMówię: doceniam to, co dla mnie zrobiłeś.\nI nie chcę słuchać tych słów przy innych znów.\nNie wymazuję tamtej wyciągniętej ręki.\nTwoja pomoc nie kupiła mojej ciszy.\n\n[Chorus]\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.\n\n[Bridge]\nDobro nie znika, kiedy stawiam granicę.\nGranica nie kasuje dobra.\n\n[Final Chorus]\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "createdAt": "2026-11-15",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "reviewStatus": "SecondPassCompleted",
+    "lyricsReview": {
+      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+      "depth": "Wdzięczność i prawo do sprzeciwu mogą współistnieć. Dawna pomoc nie tworzy obowiązku tolerowania obecnego poniżenia.",
+      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+      "changes": [
+        {
+          "before": "Wyjmuję z niej prawo do mojego głosu.",
+          "after": "Twoja pomoc nie kupiła mojej ciszy."
+        }
+      ],
+      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+    },
+    "selection": "Kept",
+    "sunoRecordings": [
+      {
+        "id": "a5026308-32f3-4244-bf42-c5ef012b84c6",
+        "title": "Wdzięczność nie odbiera mi głosu",
+        "url": "https://suno.com/song/a5026308-32f3-4244-bf42-c5ef012b84c6",
+        "status": "complete",
+        "duration": 140.4
+      },
+      {
+        "id": "b984df73-80bb-45ad-935c-627a3f5b80cb",
+        "title": "Wdzięczność nie odbiera mi głosu",
+        "url": "https://suno.com/song/b984df73-80bb-45ad-935c-627a3f5b80cb",
+        "status": "complete",
+        "duration": 128.4
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-046",
+    "slug": "pomoc-nie-wymaga-bohatera",
+    "title": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia",
+    "playlist": "Funk Flow",
+    "coreMessage": "Proszenie o wsparcie nie wymaga uprzedniego udowodnienia odporności ani atrakcyjnego opakowania cierpienia. Prawo do prośby nie jest gwarancją dostępności konkretnej osoby.",
+    "affirmation": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia.",
+    "problem": "Proszenie o wsparcie nie wymaga uprzedniego udowodnienia odporności ani atrakcyjnego opakowania cierpienia. Prawo do prośby nie jest gwarancją dostępności konkretnej osoby.",
+    "sunoPrompt": "Fast Afro-funk with raw ukulele counter-riffs, 140 BPM, deep mobile bass, dry live drums, restless hand percussion and gritty guitar responses. Physically driving, intimate rough sung vocal and a compact persistent chorus. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+    "lyrics": "[Verse 1]\nNa pytanie: jak się trzymasz, mówię: jakoś.\nTak, żebyś usłyszał, że ogarniam sam.\nNawet prosząc, składam zdania w żarty,\nżeby mój ciężar nie usiadł między nami.\n\n[Chorus]\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\n\n[Verse 2]\nDziś mówię prosto: potrzebuję rozmowy.\nNie obiecuję, że zaraz będzie mi lepiej.\nMożesz nie mieć siły, możemy szukać dalej.\nMoja potrzeba nie znika wraz z odmową.\n\n[Chorus]\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\n\n[Bridge]\nNie muszę dojść do końca sił,\nżeby wolno mi było prosić.\n\n[Final Chorus]\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "createdAt": "2026-11-15",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "reviewStatus": "SecondPassCompleted",
+    "lyricsReview": {
+      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+      "depth": "Proszenie o wsparcie nie wymaga uprzedniego udowodnienia odporności ani atrakcyjnego opakowania cierpienia. Prawo do prośby nie jest gwarancją dostępności konkretnej osoby.",
+      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+      "changes": [
+        {
+          "before": "Nie muszę być dzielny, żeby dostać wsparcie",
+          "after": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia"
+        }
+      ],
+      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+    },
+    "selection": "Kept",
+    "sunoRecordings": [
+      {
+        "id": "74e8518b-e8ae-41ea-a052-d4821572c0b9",
+        "title": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia",
+        "url": "https://suno.com/song/74e8518b-e8ae-41ea-a052-d4821572c0b9",
+        "status": "complete",
+        "duration": 130.36
+      },
+      {
+        "id": "0683d469-9c12-4a35-8f50-facb560493a3",
+        "title": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia",
+        "url": "https://suno.com/song/0683d469-9c12-4a35-8f50-facb560493a3",
+        "status": "complete",
+        "duration": 142.8
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-048",
+    "slug": "dobro-bez-rachunku",
+    "title": "Mogę przyjąć dobro bez wyrównywania rachunku",
+    "playlist": "Ukulele Flow",
+    "coreMessage": "Natychmiastowe wyrównywanie dobroci może chronić przed odsłonięciem potrzeby, ale blokować doświadczenie troski. Rozróżnić podarunek i jasno uzgodnioną wymianę.",
+    "affirmation": "Mogę przyjąć dobro bez wyrównywania rachunku.",
+    "problem": "Natychmiastowe wyrównywanie dobroci może chronić przed odsłonięciem potrzeby, ale blokować doświadczenie troski. Rozróżnić podarunek i jasno uzgodnioną wymianę.",
+    "sunoPrompt": "Driving ukulele dub-rock, 138 BPM, woody low-register ukulele ostinato, thick syncopated bass, punchy acoustic drums and gritty guitar swells. Warm but rough ensemble, insistent sung hook and rolling physical motion. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+    "lyrics": "[Verse 1]\nPrzynosisz obiad, bo nie mam dzisiaj siły.\nJa już otwieram w głowie długą listę:\nco kupić, kiedy oddać, jak wyrównać dzień,\nżebyś nie zobaczył, że potrzebuję ciebie.\n\n[Chorus]\nMogę przyjąć dobro bez wyrównywania rachunku.\nPowiedzieć: dzięki, i usiąść przy stole.\nNie każda pomoc robi ze mnie dłużnika.\nMogę przyjąć dobro bez wyrównywania rachunku.\n\n[Verse 2]\nPytam: czy chcesz czegoś w zamian za ten czas?\nMówisz: dziś po prostu zjedz, póki ciepłe.\nNie obiecuję zniknąć z własną słabością.\nDaję tej trosce naprawdę do mnie dotrzeć.\n\n[Chorus]\nMogę przyjąć dobro bez wyrównywania rachunku.\nPowiedzieć: dzięki, i usiąść przy stole.\nNie każda pomoc robi ze mnie dłużnika.\nMogę przyjąć dobro bez wyrównywania rachunku.\n\n[Bridge]\nGdy coś jest umową, ustalę jej warunki.\nGdy jest podarunkiem, mogę go przyjąć.\n\n[Final Chorus]\nMogę przyjąć dobro bez wyrównywania rachunku.\nPowiedzieć: dzięki, i usiąść przy stole.\nNie każda pomoc robi ze mnie dłużnika.\nMogę przyjąć dobro bez wyrównywania rachunku.\nMogę przyjąć dobro bez wyrównywania rachunku.\nPowiedzieć: dzięki, i usiąść przy stole.\nNie każda pomoc robi ze mnie dłużnika.\nMogę przyjąć dobro bez wyrównywania rachunku.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "createdAt": "2026-11-15",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "reviewStatus": "SecondPassCompleted",
+    "lyricsReview": {
+      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+      "depth": "Natychmiastowe wyrównywanie dobroci może chronić przed odsłonięciem potrzeby, ale blokować doświadczenie troski. Rozróżnić podarunek i jasno uzgodnioną wymianę.",
+      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+      "changes": [],
+      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+    },
+    "selection": "Kept",
+    "sunoRecordings": [
+      {
+        "id": "612e1e6d-b61e-48bd-ae8b-76f163b8a0e1",
+        "title": "Mogę przyjąć dobro bez wyrównywania rachunku",
+        "url": "https://suno.com/song/612e1e6d-b61e-48bd-ae8b-76f163b8a0e1",
+        "status": "complete",
+        "duration": 147.2
+      },
+      {
+        "id": "1b948a26-481c-4fb7-b35c-f4fbbf54475b",
+        "title": "Mogę przyjąć dobro bez wyrównywania rachunku",
+        "url": "https://suno.com/song/1b948a26-481c-4fb7-b35c-f4fbbf54475b",
+        "status": "complete",
+        "duration": 150.8
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-051",
+    "slug": "wartosc-pracy-bez-cierpienia",
+    "title": "Moja praca nie musi boleć, żeby mieć wartość",
+    "playlist": "Rock Rise",
+    "coreMessage": "Utożsamianie trudu z wartością prowadzi do dewaluacji kompetencji i dokładania cierpienia jako dowodu uczciwości. O jakości decyduje rezultat i odpowiedzialność, nie samo wyczerpanie.",
+    "affirmation": "Moja praca nie musi boleć, żeby mieć wartość.",
+    "problem": "Utożsamianie trudu z wartością prowadzi do dewaluacji kompetencji i dokładania cierpienia jako dowodu uczciwości. O jakości decyduje rezultat i odpowiedzialność, nie samo wyczerpanie.",
+    "sunoPrompt": "Fast raw alternative rock with hard-strummed muted ukulele, 148 BPM, powerful acoustic drums, heavy syncopated bass and abrasive guitar hooks. Gritty direct sung refrain, momentum and human dynamic contrast. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
+    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
+    "lyrics": "[Verse 1]\nKończę w godzinę to, co kiedyś w tydzień.\nZamiast się cieszyć, odejmuję cenę.\nJakby dopiero zarwana trzecia noc\nmiała potwierdzić, że naprawdę dałem coś.\n\n[Chorus]\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.\n\n[Verse 2]\nSprawdzam, czy działa, czy komuś się przyda.\nNie dokładam trudu tylko po to, by go mieć.\nUstalam cenę za zakres i umiejętność.\nNie za to, ile snu oddałem tej nocy.\n\n[Chorus]\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.\n\n[Bridge]\nŁatwość nie zwalnia mnie z uczciwej pracy.\nBól nie zastąpi jej jakości.\n\n[Final Chorus]\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "createdAt": "2026-11-15",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "reviewStatus": "SecondPassCompleted",
+    "lyricsReview": {
+      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
+      "depth": "Utożsamianie trudu z wartością prowadzi do dewaluacji kompetencji i dokładania cierpienia jako dowodu uczciwości. O jakości decyduje rezultat i odpowiedzialność, nie samo wyczerpanie.",
+      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+      "changes": [
+        {
+          "before": "Nie szukam braku tylko po to, by tkwić.",
+          "after": "Nie dokładam trudu tylko po to, by go mieć."
+        }
+      ],
+      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+    },
+    "selection": "Kept",
+    "sunoRecordings": [
+      {
+        "id": "b4d32a69-f4b8-4678-89fb-9e175b2d206c",
+        "title": "Moja praca nie musi boleć, żeby mieć wartość",
+        "url": "https://suno.com/song/b4d32a69-f4b8-4678-89fb-9e175b2d206c",
+        "status": "complete",
+        "duration": 124.4
+      },
+      {
+        "id": "fd7502c6-6d6e-409d-a158-ec4893e34486",
+        "title": "Moja praca nie musi boleć, żeby mieć wartość",
+        "url": "https://suno.com/song/fd7502c6-6d6e-409d-a158-ec4893e34486",
+        "status": "complete",
+        "duration": 113.96
+      }
+    ]
+  },
+  {
     "ideaId": "CV-019",
     "slug": "zlosc-ma-adres",
     "title": "Złość ma adres",
@@ -654,475 +845,482 @@
     "selection": "Kept"
   },
   {
-    "ideaId": "CV-045",
-    "slug": "wdziecznosc-nie-odbiera-glosu",
-    "title": "Wdzięczność nie odbiera mi głosu",
-    "playlist": "Ukulele Flow",
-    "coreMessage": "Wdzięczność i prawo do sprzeciwu mogą współistnieć. Dawna pomoc nie tworzy obowiązku tolerowania obecnego poniżenia.",
-    "affirmation": "Wdzięczność nie odbiera mi głosu.",
-    "problem": "Wdzięczność i prawo do sprzeciwu mogą współistnieć. Dawna pomoc nie tworzy obowiązku tolerowania obecnego poniżenia.",
-    "sunoPrompt": "Gritty ukulele-led alternative rock, 144 BPM, dry muted ukulele riffs locking with syncopated electric bass, driving acoustic drums and rough electric guitar. Close human sung Polish vocal, weighty recurring hook, lively asymmetrical phrasing. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nPomogłeś wtedy, gdy nie miałem siły.\nPamiętam klucze, noc i wolny pokój.\nDzisiaj przy stole śmiejesz się z moich spraw,\na ja ze wstydu dziękuję za wszystko.\n\n[Chorus]\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.\n\n[Verse 2]\nMówię: doceniam to, co dla mnie zrobiłeś.\nI nie chcę słuchać tych słów przy innych znów.\nNie wymazuję tamtej wyciągniętej ręki.\nTwoja pomoc nie kupiła mojej ciszy.\n\n[Chorus]\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.\n\n[Bridge]\nDobro nie znika, kiedy stawiam granicę.\nGranica nie kasuje dobra.\n\n[Final Chorus]\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.\nWdzięczność nie odbiera mi głosu.\nMogę pamiętać dobro i powiedzieć: dość.\nNie jestem winien zgody na zranienie.\nWdzięczność nie odbiera mi głosu.",
+    "ideaId": "CV-055",
+    "slug": "zycie-bez-cudzego-gniewu",
+    "title": "Nie będę żyć w gotowości na cudzy gniew",
+    "playlist": "Reggae Flow",
+    "tempoTarget": 88,
+    "targetSeconds": 270,
+    "coreMessage": "Życie w ciągłym przewidywaniu cudzego gniewu zawęża własną obecność. Zmiana polega na oddzieleniu czyjejś emocji od własnego obowiązku uspokajania oraz wybraniu granicy lub wsparcia.",
+    "affirmation": "Nie będę żyć w gotowości na cudzy gniew.",
+    "problem": "Życie w ciągłym przewidywaniu cudzego gniewu zawęża własną obecność. Zmiana polega na oddzieleniu czyjejś emocji od własnego obowiązku uspokajania oraz wybraniu granicy lub wsparcia.",
+    "sunoPrompt": "Heavy organic dub-rock, slow deep syncopated bass, spacious acoustic drums, low gritty guitar and warm organ. Quiet force, extended instrumental passages, close sung Polish vocal, memorable restrained refrain. Approximately 88 BPM. Full-length song around 5 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nKlucz obraca się, już mierzę twoje kroki.\nPo dźwięku drzwi układam własny głos.\nZanim zapytasz, sprzątam z twarzy humor,\njakby mój spokój też wymagał pozwolenia.\n\n[Pre-Chorus]\nNie wszystko, co słyszę, wymaga mojej obrony.\nMogę najpierw sprawdzić, czego potrzebuję ja.\n\n[Chorus]\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\n\n[Instrumental]\n\n[Verse 2]\nGdy podnosisz głos, nie dokładam tłumaczenia.\nMówię: wrócę, kiedy będzie można rozmawiać.\nBiorę telefon, wychodzę na klatkę.\nNie muszę wytrzymać, żeby udowodnić bliskość.\n\n[Chorus]\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\n\n[Bridge]\nNie naprawię domu własnym znikaniem.\nMogę szukać miejsca, w którym nie muszę czuwać.\nGdy sam nie umiem wyjść z tego napięcia,\nmogę dopuścić do tej sprawy czyjąś pomoc.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\nNie będę żyć w gotowości na cudzy gniew.\nNie muszę zgadywać, czym zawinię dziś.\nTwój nastrój nie wyznacza całej mojej przestrzeni.\nNie będę żyć w gotowości na cudzy gniew.\n\n[Outro]\nNie będę żyć w gotowości na cudzy gniew.\nNie będę żyć w gotowości na cudzy gniew.",
+    "reviewStatus": "SecondPassCompleted",
     "status": "AudioGenerated",
     "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
+    "createdAt": "2026-11-16",
     "hashtags": [
       "#afirmacjespiewane",
       "#cosmicvibes"
     ],
-    "reviewStatus": "SecondPassCompleted",
     "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Wdzięczność i prawo do sprzeciwu mogą współistnieć. Dawna pomoc nie tworzy obowiązku tolerowania obecnego poniżenia.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+      "status": "SecondPassCompleted",
+      "messageCheck": "Życie w ciągłym przewidywaniu cudzego gniewu zawęża własną obecność. Zmiana polega na oddzieleniu czyjejś emocji od własnego obowiązku uspokajania oraz wybraniu granicy lub wsparcia.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
       "changes": [
         {
-          "before": "Wyjmuję z niej prawo do mojego głosu.",
-          "after": "Twoja pomoc nie kupiła mojej ciszy."
+          "before": "jakby mój spokój miał rozgniewać dom.",
+          "after": "jakby mój spokój też wymagał pozwolenia."
         }
       ],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
     },
     "selection": "Pending",
     "sunoRecordings": [
       {
-        "id": "a5026308-32f3-4244-bf42-c5ef012b84c6",
-        "title": "Wdzięczność nie odbiera mi głosu",
-        "url": "https://suno.com/song/a5026308-32f3-4244-bf42-c5ef012b84c6",
+        "id": "2ba48446-c9e0-4ed5-bd02-0f18f1dfc001",
+        "title": "Nie będę żyć w gotowości na cudzy gniew",
+        "url": "https://suno.com/song/2ba48446-c9e0-4ed5-bd02-0f18f1dfc001",
         "status": "complete",
-        "duration": 140.4
+        "duration": 269.56
       },
       {
-        "id": "b984df73-80bb-45ad-935c-627a3f5b80cb",
-        "title": "Wdzięczność nie odbiera mi głosu",
-        "url": "https://suno.com/song/b984df73-80bb-45ad-935c-627a3f5b80cb",
+        "id": "425c7737-f4f5-4b26-8898-687b457368aa",
+        "title": "Nie będę żyć w gotowości na cudzy gniew",
+        "url": "https://suno.com/song/425c7737-f4f5-4b26-8898-687b457368aa",
         "status": "complete",
-        "duration": 128.4
+        "duration": 269.6
       }
     ]
   },
   {
-    "ideaId": "CV-046",
-    "slug": "pomoc-nie-wymaga-bohatera",
-    "title": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia",
-    "playlist": "Funk Flow",
-    "coreMessage": "Proszenie o wsparcie nie wymaga uprzedniego udowodnienia odporności ani atrakcyjnego opakowania cierpienia. Prawo do prośby nie jest gwarancją dostępności konkretnej osoby.",
-    "affirmation": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia.",
-    "problem": "Proszenie o wsparcie nie wymaga uprzedniego udowodnienia odporności ani atrakcyjnego opakowania cierpienia. Prawo do prośby nie jest gwarancją dostępności konkretnej osoby.",
-    "sunoPrompt": "Fast Afro-funk with raw ukulele counter-riffs, 140 BPM, deep mobile bass, dry live drums, restless hand percussion and gritty guitar responses. Physically driving, intimate rough sung vocal and a compact persistent chorus. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nNa pytanie: jak się trzymasz, mówię: jakoś.\nTak, żebyś usłyszał, że ogarniam sam.\nNawet prosząc, składam zdania w żarty,\nżeby mój ciężar nie usiadł między nami.\n\n[Chorus]\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\n\n[Verse 2]\nDziś mówię prosto: potrzebuję rozmowy.\nNie obiecuję, że zaraz będzie mi lepiej.\nMożesz nie mieć siły, możemy szukać dalej.\nMoja potrzeba nie znika wraz z odmową.\n\n[Chorus]\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\n\n[Bridge]\nNie muszę dojść do końca sił,\nżeby wolno mi było prosić.\n\n[Final Chorus]\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.\nMogę powiedzieć: nie daję rady sam.\nNie muszę cię bawić, żebyś mnie usłyszał.\nNie muszę grać dzielnego, gdy potrzebuję wsparcia.",
-    "status": "AudioGenerated",
-    "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "hashtags": [
-      "#afirmacjespiewane",
-      "#cosmicvibes"
-    ],
-    "reviewStatus": "SecondPassCompleted",
-    "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Proszenie o wsparcie nie wymaga uprzedniego udowodnienia odporności ani atrakcyjnego opakowania cierpienia. Prawo do prośby nie jest gwarancją dostępności konkretnej osoby.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
-      "changes": [
-        {
-          "before": "Nie muszę być dzielny, żeby dostać wsparcie",
-          "after": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia"
-        }
-      ],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
-    },
-    "selection": "Pending",
-    "sunoRecordings": [
-      {
-        "id": "74e8518b-e8ae-41ea-a052-d4821572c0b9",
-        "title": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia",
-        "url": "https://suno.com/song/74e8518b-e8ae-41ea-a052-d4821572c0b9",
-        "status": "complete",
-        "duration": 130.36
-      },
-      {
-        "id": "0683d469-9c12-4a35-8f50-facb560493a3",
-        "title": "Nie muszę grać dzielnego, gdy potrzebuję wsparcia",
-        "url": "https://suno.com/song/0683d469-9c12-4a35-8f50-facb560493a3",
-        "status": "complete",
-        "duration": 142.8
-      }
-    ]
-  },
-  {
-    "ideaId": "CV-047",
-    "slug": "granica-bez-winnego",
-    "title": "Moja granica nie potrzebuje twojej winy",
-    "playlist": "Ska Vibes",
-    "coreMessage": "Ustanowienie granicy nie zawsze wymaga wskazania krzywdy lub winnego. Można uczciwie uznać rozbieżne potrzeby bez tworzenia oskarżenia uzasadniającego odmowę.",
-    "affirmation": "Moja granica nie potrzebuje twojej winy.",
-    "problem": "Ustanowienie granicy nie zawsze wymaga wskazania krzywdy lub winnego. Można uczciwie uznać rozbieżne potrzeby bez tworzenia oskarżenia uzasadniającego odmowę.",
-    "sunoPrompt": "Heavy organic ska-rock, 150 BPM, clipped offbeat ukulele doubling gritty guitar accents, dry urgent acoustic snare and springy electric bass. Tense human vocal opening into a forceful repeated melody, lively pocket and raw ensemble sound. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nSzukam powodu, żeby nie jechać w piątek.\nWięc w twoich słowach tropię dawny błąd.\nŁatwiej mi zrobić z ciebie oskarżonego,\nniż przyznać: dzisiaj potrzebuję zostać.\n\n[Chorus]\nMoja granica nie potrzebuje twojej winy.\nMogę odmówić bez szukania ran.\nNie musisz zawinić, żebym wybrał inaczej.\nMoja granica nie potrzebuje twojej winy.\n\n[Verse 2]\nMówię: tym razem nie przyjadę z wami.\nNie składam akt z ostatnich kilku lat.\nMasz prawo tęsknić, ja mam prawo zostać.\nNie muszę ranić, żeby zadbać o ten czas.\n\n[Chorus]\nMoja granica nie potrzebuje twojej winy.\nMogę odmówić bez szukania ran.\nNie musisz zawinić, żebym wybrał inaczej.\nMoja granica nie potrzebuje twojej winy.\n\n[Bridge]\nNie każdy wybór ma ofiarę i winnego.\nCzasem są tylko dwie różne potrzeby.\n\n[Final Chorus]\nMoja granica nie potrzebuje twojej winy.\nMogę odmówić bez szukania ran.\nNie musisz zawinić, żebym wybrał inaczej.\nMoja granica nie potrzebuje twojej winy.\nMoja granica nie potrzebuje twojej winy.\nMogę odmówić bez szukania ran.\nNie musisz zawinić, żebym wybrał inaczej.\nMoja granica nie potrzebuje twojej winy.",
-    "status": "AudioGenerated",
-    "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "hashtags": [
-      "#afirmacjespiewane",
-      "#cosmicvibes"
-    ],
-    "reviewStatus": "SecondPassCompleted",
-    "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Ustanowienie granicy nie zawsze wymaga wskazania krzywdy lub winnego. Można uczciwie uznać rozbieżne potrzeby bez tworzenia oskarżenia uzasadniającego odmowę.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
-      "changes": [],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
-    },
-    "selection": "Pending",
-    "sunoRecordings": [
-      {
-        "id": "320984b3-80e4-47ce-af82-a445820249b8",
-        "title": "Moja granica nie potrzebuje twojej winy",
-        "url": "https://suno.com/song/320984b3-80e4-47ce-af82-a445820249b8",
-        "status": "complete",
-        "duration": 125.12
-      },
-      {
-        "id": "f402a664-59ee-476f-918d-d8b30481bc51",
-        "title": "Moja granica nie potrzebuje twojej winy",
-        "url": "https://suno.com/song/f402a664-59ee-476f-918d-d8b30481bc51",
-        "status": "complete",
-        "duration": 122.8
-      }
-    ]
-  },
-  {
-    "ideaId": "CV-048",
-    "slug": "dobro-bez-rachunku",
-    "title": "Mogę przyjąć dobro bez wyrównywania rachunku",
-    "playlist": "Ukulele Flow",
-    "coreMessage": "Natychmiastowe wyrównywanie dobroci może chronić przed odsłonięciem potrzeby, ale blokować doświadczenie troski. Rozróżnić podarunek i jasno uzgodnioną wymianę.",
-    "affirmation": "Mogę przyjąć dobro bez wyrównywania rachunku.",
-    "problem": "Natychmiastowe wyrównywanie dobroci może chronić przed odsłonięciem potrzeby, ale blokować doświadczenie troski. Rozróżnić podarunek i jasno uzgodnioną wymianę.",
-    "sunoPrompt": "Driving ukulele dub-rock, 138 BPM, woody low-register ukulele ostinato, thick syncopated bass, punchy acoustic drums and gritty guitar swells. Warm but rough ensemble, insistent sung hook and rolling physical motion. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nPrzynosisz obiad, bo nie mam dzisiaj siły.\nJa już otwieram w głowie długą listę:\nco kupić, kiedy oddać, jak wyrównać dzień,\nżebyś nie zobaczył, że potrzebuję ciebie.\n\n[Chorus]\nMogę przyjąć dobro bez wyrównywania rachunku.\nPowiedzieć: dzięki, i usiąść przy stole.\nNie każda pomoc robi ze mnie dłużnika.\nMogę przyjąć dobro bez wyrównywania rachunku.\n\n[Verse 2]\nPytam: czy chcesz czegoś w zamian za ten czas?\nMówisz: dziś po prostu zjedz, póki ciepłe.\nNie obiecuję zniknąć z własną słabością.\nDaję tej trosce naprawdę do mnie dotrzeć.\n\n[Chorus]\nMogę przyjąć dobro bez wyrównywania rachunku.\nPowiedzieć: dzięki, i usiąść przy stole.\nNie każda pomoc robi ze mnie dłużnika.\nMogę przyjąć dobro bez wyrównywania rachunku.\n\n[Bridge]\nGdy coś jest umową, ustalę jej warunki.\nGdy jest podarunkiem, mogę go przyjąć.\n\n[Final Chorus]\nMogę przyjąć dobro bez wyrównywania rachunku.\nPowiedzieć: dzięki, i usiąść przy stole.\nNie każda pomoc robi ze mnie dłużnika.\nMogę przyjąć dobro bez wyrównywania rachunku.\nMogę przyjąć dobro bez wyrównywania rachunku.\nPowiedzieć: dzięki, i usiąść przy stole.\nNie każda pomoc robi ze mnie dłużnika.\nMogę przyjąć dobro bez wyrównywania rachunku.",
-    "status": "AudioGenerated",
-    "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "hashtags": [
-      "#afirmacjespiewane",
-      "#cosmicvibes"
-    ],
-    "reviewStatus": "SecondPassCompleted",
-    "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Natychmiastowe wyrównywanie dobroci może chronić przed odsłonięciem potrzeby, ale blokować doświadczenie troski. Rozróżnić podarunek i jasno uzgodnioną wymianę.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
-      "changes": [],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
-    },
-    "selection": "Pending",
-    "sunoRecordings": [
-      {
-        "id": "612e1e6d-b61e-48bd-ae8b-76f163b8a0e1",
-        "title": "Mogę przyjąć dobro bez wyrównywania rachunku",
-        "url": "https://suno.com/song/612e1e6d-b61e-48bd-ae8b-76f163b8a0e1",
-        "status": "complete",
-        "duration": 147.2
-      },
-      {
-        "id": "1b948a26-481c-4fb7-b35c-f4fbbf54475b",
-        "title": "Mogę przyjąć dobro bez wyrównywania rachunku",
-        "url": "https://suno.com/song/1b948a26-481c-4fb7-b35c-f4fbbf54475b",
-        "status": "complete",
-        "duration": 150.8
-      }
-    ]
-  },
-  {
-    "ideaId": "CV-049",
-    "slug": "cisza-nie-jest-wyrokiem",
-    "title": "Nie zrobię z twojej ciszy wyroku o sobie",
+    "ideaId": "CV-056",
+    "slug": "przestac-przed-wyczerpaniem",
+    "title": "Mogę przestać, zanim ciało odmówi",
     "playlist": "Indie Rock Flow",
-    "coreMessage": "Niepewność w relacji uruchamia dopisywanie oceny własnej wartości. Można weryfikować kontakt i ustalać granice czekania bez ignorowania powtarzalnego braku wzajemności.",
-    "affirmation": "Nie zrobię z twojej ciszy wyroku o sobie.",
-    "problem": "Niepewność w relacji uruchamia dopisywanie oceny własnej wartości. Można weryfikować kontakt i ustalać granice czekania bez ignorowania powtarzalnego braku wzajemności.",
-    "sunoPrompt": "Fast jagged indie rock with percussive ukulele riffing, 146 BPM, thick moving bass and dry explosive live drums. Restless verses, exposed melodic vocal, repeated hook with suspended tension and raw organic production. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nDwie kreski pod pytaniem od wczoraj.\nZnam już odpowiedź, choć nie przyszło nic.\nW głowie dopisuję: za dużo, zbyt nudny,\ni usuwam siebie z nieodbytej rozmowy.\n\n[Chorus]\nNie zrobię z twojej ciszy wyroku o sobie.\nNie dopisuję odrzucenia tam, gdzie nie ma słów.\nMogę zapytać, mogę przestać czekać.\nNie zrobię z twojej ciszy wyroku o sobie.\n\n[Verse 2]\nPiszę raz jeszcze: daj znać, czy to aktualne.\nPotem wybieram własny plan na dzień.\nJeśli ta cisza wraca, mogę się odsunąć.\nNie muszę uznać, że to ze mną coś jest źle.\n\n[Chorus]\nNie zrobię z twojej ciszy wyroku o sobie.\nNie dopisuję odrzucenia tam, gdzie nie ma słów.\nMogę zapytać, mogę przestać czekać.\nNie zrobię z twojej ciszy wyroku o sobie.\n\n[Bridge]\nBrak odpowiedzi mówi coś o tym kontakcie.\nNie mówi wszystkiego o mnie.\n\n[Final Chorus]\nNie zrobię z twojej ciszy wyroku o sobie.\nNie dopisuję odrzucenia tam, gdzie nie ma słów.\nMogę zapytać, mogę przestać czekać.\nNie zrobię z twojej ciszy wyroku o sobie.\nNie zrobię z twojej ciszy wyroku o sobie.\nNie dopisuję odrzucenia tam, gdzie nie ma słów.\nMogę zapytać, mogę przestać czekać.\nNie zrobię z twojej ciszy wyroku o sobie.",
+    "tempoTarget": 108,
+    "targetSeconds": 255,
+    "coreMessage": "Przekonanie, że przerwa jest uzasadniona dopiero załamaniem, blokuje wcześniejsze działanie. Uznanie sygnałów zmęczenia i renegocjacja zakresu mogą poprzedzić wyczerpanie.",
+    "affirmation": "Mogę przestać, zanim ciało odmówi.",
+    "problem": "Przekonanie, że przerwa jest uzasadniona dopiero załamaniem, blokuje wcześniejsze działanie. Uznanie sygnałów zmęczenia i renegocjacja zakresu mogą poprzedzić wyczerpanie.",
+    "sunoPrompt": "Midtempo organic alternative rock, weighty live drums, melodic moving bass, textured electric guitars and spacious rhythmic pauses. Physical groove with an unhurried vocal, gradual dynamic development and extended refrain returns. Approximately 108 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nJeszcze działam, więc mówię: nic się nie dzieje.\nChoć każde schody zaczynam od westchnienia.\nCzekam na dowód, który zatrzyma mnie za mnie,\nbo samemu trudno wypowiedzieć: już.\n\n[Pre-Chorus]\nNie chcę sprawdzać, ile jeszcze wytrzymam.\nChcę mieć do czego wracać także za rok.\n\n[Chorus]\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\n\n[Instrumental]\n\n[Verse 2]\nDziś zdejmuję jedno zadanie z wieczoru.\nMówię zawczasu, czego nie dowiozę sam.\nNie czekam, aż ktoś znajdzie mnie bez siły,\nżeby powiedzieć, że potrzebuję przerwy.\n\n[Chorus]\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\n\n[Bridge]\nGranica nie musi mieć kształtu awarii.\nMogę ją postawić, gdy jeszcze umiem stać.\nTo, co ważne, ustalę z innymi na nowo.\nNie muszę płacić ciałem za swój każdy plan.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\n\n[Outro]\nMogę przestać, zanim ciało odmówi.\nMogę przestać, zanim ciało odmówi.",
+    "reviewStatus": "SecondPassCompleted",
     "status": "AudioGenerated",
     "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
+    "createdAt": "2026-11-16",
     "hashtags": [
       "#afirmacjespiewane",
       "#cosmicvibes"
     ],
-    "reviewStatus": "SecondPassCompleted",
     "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Niepewność w relacji uruchamia dopisywanie oceny własnej wartości. Można weryfikować kontakt i ustalać granice czekania bez ignorowania powtarzalnego braku wzajemności.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+      "status": "SecondPassCompleted",
+      "messageCheck": "Przekonanie, że przerwa jest uzasadniona dopiero załamaniem, blokuje wcześniejsze działanie. Uznanie sygnałów zmęczenia i renegocjacja zakresu mogą poprzedzić wyczerpanie.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
       "changes": [
         {
-          "before": "Nie znam odpowiedzi, dopóki jej nie znam.",
-          "after": "Nie dopisuję odrzucenia tam, gdzie nie ma słów."
+          "before": "żeby uwierzyć, że potrzebny jest mi czas.",
+          "after": "żeby powiedzieć, że potrzebuję przerwy."
         }
       ],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
     },
     "selection": "Pending",
     "sunoRecordings": [
       {
-        "id": "d1b54e5b-7e60-4a16-9b0d-a765756e9361",
-        "title": "Nie zrobię z twojej ciszy wyroku o sobie",
-        "url": "https://suno.com/song/d1b54e5b-7e60-4a16-9b0d-a765756e9361",
+        "id": "7e6c7e28-eb03-4c5e-8405-62697fdb171f",
+        "title": "Mogę przestać, zanim ciało odmówi",
+        "url": "https://suno.com/song/7e6c7e28-eb03-4c5e-8405-62697fdb171f",
         "status": "complete",
-        "duration": 145.92
+        "duration": 254.8
       },
       {
-        "id": "ff3ec74e-cb40-4e4a-a0e9-d51ffcad04e9",
-        "title": "Nie zrobię z twojej ciszy wyroku o sobie",
-        "url": "https://suno.com/song/ff3ec74e-cb40-4e4a-a0e9-d51ffcad04e9",
+        "id": "ef8498a3-e8a7-44bf-a410-14af58df3cdb",
+        "title": "Mogę przestać, zanim ciało odmówi",
+        "url": "https://suno.com/song/ef8498a3-e8a7-44bf-a410-14af58df3cdb",
         "status": "complete",
-        "duration": 151.6
+        "duration": 254.4
       }
     ]
   },
   {
-    "ideaId": "CV-050",
-    "slug": "blisko-nie-tylko-potrzebny",
-    "title": "Chcę być blisko, nie tylko potrzebny",
-    "playlist": "Funk Flow",
-    "coreMessage": "Bycie pomocnym może zastępować sprawdzanie, czy relacja mieści zwykłą obecność i wzajemność. Zmiana polega na ryzyku kontaktu bez usługi, bez obietnicy zachowania każdej więzi.",
-    "affirmation": "Chcę być blisko, nie tylko potrzebny.",
-    "problem": "Bycie pomocnym może zastępować sprawdzanie, czy relacja mieści zwykłą obecność i wzajemność. Zmiana polega na ryzyku kontaktu bez usługi, bez obietnicy zachowania każdej więzi.",
-    "sunoPrompt": "Hard syncopated funk-rock, 142 BPM, muted ukulele patterns weaving through gritty electric guitar, elastic bass and dry live percussion. Strong physical pocket, human slightly raspy sung vocal, insistent bittersweet chorus. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nZnam wasze awarie, hasła i terminy.\nGdy dzwoni ekran, już podwijam rękaw.\nLecz gdy wieczorem sam potrzebuję głosu,\nnie wiem, czy mogę zadzwonić bez sprawy.\n\n[Chorus]\nChcę być blisko, nie tylko potrzebny.\nNie tylko wtedy, gdy coś umiem dać.\nMogę zadzwonić bez gotowej odpowiedzi.\nChcę być blisko, nie tylko potrzebny.\n\n[Verse 2]\nDziś mówię: nie mam sprawy do załatwienia.\nChciałem posiedzieć, usłyszeć twój dzień.\nOdkładam rolę człowieka od naprawy.\nSprawdzam, czy znajdziesz miejsce dla mnie też.\n\n[Chorus]\nChcę być blisko, nie tylko potrzebny.\nNie tylko wtedy, gdy coś umiem dać.\nMogę zadzwonić bez gotowej odpowiedzi.\nChcę być blisko, nie tylko potrzebny.\n\n[Bridge]\nNie każda więź przetrwa zmianę mojej roli.\nMogę zobaczyć, gdzie jest miejsce dla mnie.\n\n[Final Chorus]\nChcę być blisko, nie tylko potrzebny.\nNie tylko wtedy, gdy coś umiem dać.\nMogę zadzwonić bez gotowej odpowiedzi.\nChcę być blisko, nie tylko potrzebny.\nChcę być blisko, nie tylko potrzebny.\nNie tylko wtedy, gdy coś umiem dać.\nMogę zadzwonić bez gotowej odpowiedzi.\nChcę być blisko, nie tylko potrzebny.",
+    "ideaId": "CV-057",
+    "slug": "wysilek-bez-widowni",
+    "title": "Mój wysiłek nie potrzebuje widowni",
+    "playlist": "Jazz Vibes",
+    "tempoTarget": 98,
+    "targetSeconds": 260,
+    "coreMessage": "Niewidoczna praca emocjonalna i codzienna bywa pomijana przez samego wykonawcę. Wewnętrzne uznanie nie powinno usprawiedliwiać niesprawiedliwego podziału obowiązków.",
+    "affirmation": "Mój wysiłek nie potrzebuje widowni.",
+    "problem": "Niewidoczna praca emocjonalna i codzienna bywa pomijana przez samego wykonawcę. Wewnętrzne uznanie nie powinno usprawiedliwiać niesprawiedliwego podziału obowiązków.",
+    "sunoPrompt": "Earthy jazz-funk, loose syncopated live pocket, warm electric bass, dry drums, rhythmic piano and expressive restrained saxophone. Intimate sung lead, long evolving instrumental interplay, persistent melodic refrain with lived-in warmth. Approximately 98 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nNa zdjęciu widać tylko posprzątany pokój.\nNie widać nocy, gdy wracałem do rozmowy.\nNie widać zdania, którego nie rzuciłem w gniewie,\na ja bez świadków znów nazywam dzień pustym.\n\n[Pre-Chorus]\nNie każdy ważny ruch robi hałas.\nMogę go zauważyć, zanim ktoś mi przyklaśnie.\n\n[Chorus]\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\n\n[Instrumental]\n\n[Verse 2]\nW notesie zapiszę, co naprawdę zrobiłem.\nBez zdjęcia, które dowiedzie, że to ja.\nA gdy mam za dużo pracy, której nikt nie widzi,\nnie będę milczeć tylko dlatego, że daję radę.\n\n[Chorus]\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\n\n[Bridge]\nUznanie siebie nie zastąpi sprawiedliwego podziału.\nMogę prosić o pomoc i nazwać swój czas.\nNie chcę zasługiwać na odpoczynek oklaskiem.\nNie chcę też zostać sam z tym wszystkim znów.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\n\n[Outro]\nMój wysiłek nie potrzebuje widowni.\nMój wysiłek nie potrzebuje widowni.",
+    "reviewStatus": "SecondPassCompleted",
     "status": "AudioGenerated",
     "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
+    "createdAt": "2026-11-16",
     "hashtags": [
       "#afirmacjespiewane",
       "#cosmicvibes"
     ],
-    "reviewStatus": "SecondPassCompleted",
     "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Bycie pomocnym może zastępować sprawdzanie, czy relacja mieści zwykłą obecność i wzajemność. Zmiana polega na ryzyku kontaktu bez usługi, bez obietnicy zachowania każdej więzi.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+      "status": "SecondPassCompleted",
+      "messageCheck": "Niewidoczna praca emocjonalna i codzienna bywa pomijana przez samego wykonawcę. Wewnętrzne uznanie nie powinno usprawiedliwiać niesprawiedliwego podziału obowiązków.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
       "changes": [],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
     },
     "selection": "Pending",
     "sunoRecordings": [
       {
-        "id": "1c03a327-5072-48fd-966e-9aa89e0ff6dc",
-        "title": "Chcę być blisko, nie tylko potrzebny",
-        "url": "https://suno.com/song/1c03a327-5072-48fd-966e-9aa89e0ff6dc",
+        "id": "ff4f4e6a-0674-4c30-9d71-1c73c02bd457",
+        "title": "Mój wysiłek nie potrzebuje widowni",
+        "url": "https://suno.com/song/ff4f4e6a-0674-4c30-9d71-1c73c02bd457",
         "status": "complete",
-        "duration": 161.32
+        "duration": 259.56
       },
       {
-        "id": "f82a6103-a3f0-422e-9a37-b2748cec540f",
-        "title": "Chcę być blisko, nie tylko potrzebny",
-        "url": "https://suno.com/song/f82a6103-a3f0-422e-9a37-b2748cec540f",
+        "id": "cb0c57fc-15e2-4a3d-8b8e-d6ebbb676d9a",
+        "title": "Mój wysiłek nie potrzebuje widowni",
+        "url": "https://suno.com/song/cb0c57fc-15e2-4a3d-8b8e-d6ebbb676d9a",
         "status": "complete",
-        "duration": 167.6
+        "duration": 259.36
       }
     ]
   },
   {
-    "ideaId": "CV-051",
-    "slug": "wartosc-pracy-bez-cierpienia",
-    "title": "Moja praca nie musi boleć, żeby mieć wartość",
-    "playlist": "Rock Rise",
-    "coreMessage": "Utożsamianie trudu z wartością prowadzi do dewaluacji kompetencji i dokładania cierpienia jako dowodu uczciwości. O jakości decyduje rezultat i odpowiedzialność, nie samo wyczerpanie.",
-    "affirmation": "Moja praca nie musi boleć, żeby mieć wartość.",
-    "problem": "Utożsamianie trudu z wartością prowadzi do dewaluacji kompetencji i dokładania cierpienia jako dowodu uczciwości. O jakości decyduje rezultat i odpowiedzialność, nie samo wyczerpanie.",
-    "sunoPrompt": "Fast raw alternative rock with hard-strummed muted ukulele, 148 BPM, powerful acoustic drums, heavy syncopated bass and abrasive guitar hooks. Gritty direct sung refrain, momentum and human dynamic contrast. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nKończę w godzinę to, co kiedyś w tydzień.\nZamiast się cieszyć, odejmuję cenę.\nJakby dopiero zarwana trzecia noc\nmiała potwierdzić, że naprawdę dałem coś.\n\n[Chorus]\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.\n\n[Verse 2]\nSprawdzam, czy działa, czy komuś się przyda.\nNie dokładam trudu tylko po to, by go mieć.\nUstalam cenę za zakres i umiejętność.\nNie za to, ile snu oddałem tej nocy.\n\n[Chorus]\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.\n\n[Bridge]\nŁatwość nie zwalnia mnie z uczciwej pracy.\nBól nie zastąpi jej jakości.\n\n[Final Chorus]\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.\nMoja praca nie musi boleć, żeby mieć wartość.\nTo, co dziś proste, kosztowało lata.\nNie dopisuję zmęczenia do rachunku.\nMoja praca nie musi boleć, żeby mieć wartość.",
+    "ideaId": "CV-058",
+    "slug": "bol-bez-obowiazku-lekcji",
+    "title": "Nie muszę zamieniać bólu w lekcję",
+    "playlist": "Piano Flow",
+    "tempoTarget": 84,
+    "targetSeconds": 280,
+    "coreMessage": "Presja natychmiastowego znajdowania sensu w cierpieniu może unieważniać ból. Można szukać kontaktu i wsparcia bez opowiadania historii o obowiązkowym rozwoju.",
+    "affirmation": "Nie muszę zamieniać bólu w lekcję.",
+    "problem": "Presja natychmiastowego znajdowania sensu w cierpieniu może unieważniać ból. Można szukać kontaktu i wsparcia bez opowiadania historii o obowiązkowym rozwoju.",
+    "sunoPrompt": "Textural piano-led alternative soul, low organic bass and sparse human drums with a slow deliberate pulse. Intimate sung vocal, restrained power, long instrumental breathing spaces and an evolving repeated refrain. Grounded and awake rather than sentimental. Approximately 84 BPM. Full-length song around 5 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nPytasz: co dobrego z tego wyniosłem?\nJa jeszcze zbieram rzeczy z tamtych dni.\nSzukam mądrego zdania, żeby ci ulżyć,\nchoć we mnie nie ma dzisiaj żadnej puenty.\n\n[Pre-Chorus]\nTo zdanie nie musi dobrze się kończyć.\nWystarczy, że jest prawdziwe teraz.\n\n[Chorus]\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\n\n[Instrumental]\n\n[Verse 2]\nDziś mówię: nie wiem, czego mnie to uczy.\nChciałbym, żebyś chwilę został obok mnie.\nMoże za jakiś czas sam coś w tym zobaczę,\nale nie muszę robić z rany uzasadnienia.\n\n[Chorus]\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\n\n[Bridge]\nNie wszystko, co boli, wydarzyło się po coś.\nNie każdy ślad musi stać się moją siłą.\nMogę szukać pomocy i zwykłego ukojenia,\nzanim umiem opowiedzieć, co mi było.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\nNie muszę zamieniać bólu w lekcję.\nNie muszę znaleźć sensu, żeby nazwać, że to boli.\nMogę dziś potrzebować człowieka, nie odpowiedzi.\nNie muszę zamieniać bólu w lekcję.\n\n[Outro]\nNie muszę zamieniać bólu w lekcję.\nNie muszę zamieniać bólu w lekcję.",
+    "reviewStatus": "SecondPassCompleted",
     "status": "AudioGenerated",
     "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
+    "createdAt": "2026-11-16",
     "hashtags": [
       "#afirmacjespiewane",
       "#cosmicvibes"
     ],
-    "reviewStatus": "SecondPassCompleted",
     "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Utożsamianie trudu z wartością prowadzi do dewaluacji kompetencji i dokładania cierpienia jako dowodu uczciwości. O jakości decyduje rezultat i odpowiedzialność, nie samo wyczerpanie.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
+      "status": "SecondPassCompleted",
+      "messageCheck": "Presja natychmiastowego znajdowania sensu w cierpieniu może unieważniać ból. Można szukać kontaktu i wsparcia bez opowiadania historii o obowiązkowym rozwoju.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+      "changes": [],
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+    },
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "a08e078f-5ea3-42a8-ad1f-d29686b1c50a",
+        "title": "Nie muszę zamieniać bólu w lekcję",
+        "url": "https://suno.com/song/a08e078f-5ea3-42a8-ad1f-d29686b1c50a",
+        "status": "complete",
+        "duration": 279.4
+      },
+      {
+        "id": "de30d3e1-2cfa-437f-945f-4c4fec86fcd2",
+        "title": "Nie muszę zamieniać bólu w lekcję",
+        "url": "https://suno.com/song/de30d3e1-2cfa-437f-945f-4c4fec86fcd2",
+        "status": "complete",
+        "duration": 279.48
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-059",
+    "slug": "zgoda-moze-sie-zmienic",
+    "title": "Moja zgoda ma prawo się zmienić",
+    "playlist": "Reggae Flow",
+    "tempoTarget": 112,
+    "targetSeconds": 250,
+    "coreMessage": "Zmiana zgody lub gotowości nie musi oznaczać wcześniejszej nieszczerości. W kontekście zobowiązań można komunikować zmianę i jej skutki, zachowując granice.",
+    "affirmation": "Moja zgoda ma prawo się zmienić.",
+    "problem": "Zmiana zgody lub gotowości nie musi oznaczać wcześniejszej nieszczerości. W kontekście zobowiązań można komunikować zmianę i jej skutki, zachowując granice.",
+    "sunoPrompt": "Raw roots reggae-rock, steady syncopated bass-led live groove, clipped electric guitar, warm organ and dry acoustic drums. Firm human sung refrain, extended dub interludes and natural dynamic shifts, movement without hurry. Approximately 112 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nW piątek mówiłem: jasne, dam radę.\nNie znałem ceny tych następnych dni.\nWczorajsze tak dziś zabrania mi odmówić,\njakby tamta zgoda miała więcej praw niż ja.\n\n[Pre-Chorus]\nTo, co było szczere, mogło przestać służyć.\nMogę wrócić do rozmowy z nowym faktem.\n\n[Chorus]\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\n\n[Instrumental]\n\n[Verse 2]\nDzwonię zawczasu, nie chowam się w ciszy.\nMówię, co się zmieniło, ustalam nowy plan.\nNie każde ustalenie da się zamknąć bez kosztu,\nlecz mogę go nazwać, zamiast znikać wam.\n\n[Chorus]\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\n\n[Bridge]\nMoje tak nie było zgodą na wszystko.\nTwoja trudność też ma miejsce w tej rozmowie.\nMogę brać odpowiedzialność za zmianę,\nnie oddając prawa do zmienionego zdania.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\nMoja zgoda ma prawo się zmienić.\nMogę powiedzieć, czego dzisiaj nie udźwignę.\nNie muszę trwać w decyzji przeciw sobie.\nMoja zgoda ma prawo się zmienić.\n\n[Outro]\nMoja zgoda ma prawo się zmienić.\nMoja zgoda ma prawo się zmienić.",
+    "reviewStatus": "SecondPassCompleted",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "createdAt": "2026-11-16",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "lyricsReview": {
+      "status": "SecondPassCompleted",
+      "messageCheck": "Zmiana zgody lub gotowości nie musi oznaczać wcześniejszej nieszczerości. W kontekście zobowiązań można komunikować zmianę i jej skutki, zachowując granice.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
       "changes": [
         {
-          "before": "Nie szukam braku tylko po to, by tkwić.",
-          "after": "Nie dokładam trudu tylko po to, by go mieć."
+          "before": "Dziś moje wczoraj trzyma mnie przy słowie,\njakby to słowo miało więcej praw niż ja.",
+          "after": "Wczorajsze tak dziś zabrania mi odmówić,\njakby tamta zgoda miała więcej praw niż ja."
         }
       ],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
     },
     "selection": "Pending",
     "sunoRecordings": [
       {
-        "id": "b4d32a69-f4b8-4678-89fb-9e175b2d206c",
-        "title": "Moja praca nie musi boleć, żeby mieć wartość",
-        "url": "https://suno.com/song/b4d32a69-f4b8-4678-89fb-9e175b2d206c",
+        "id": "b3389aa8-7a30-4fc8-a24d-f96aa71a201e",
+        "title": "Moja zgoda ma prawo się zmienić",
+        "url": "https://suno.com/song/b3389aa8-7a30-4fc8-a24d-f96aa71a201e",
         "status": "complete",
-        "duration": 124.4
+        "duration": 249.6
       },
       {
-        "id": "fd7502c6-6d6e-409d-a158-ec4893e34486",
-        "title": "Moja praca nie musi boleć, żeby mieć wartość",
-        "url": "https://suno.com/song/fd7502c6-6d6e-409d-a158-ec4893e34486",
+        "id": "7faa7d9f-6316-4ea7-8473-4d1f2afd544f",
+        "title": "Moja zgoda ma prawo się zmienić",
+        "url": "https://suno.com/song/7faa7d9f-6316-4ea7-8473-4d1f2afd544f",
         "status": "complete",
-        "duration": 113.96
+        "duration": 249.84
       }
     ]
   },
   {
-    "ideaId": "CV-052",
-    "slug": "zmiana-bez-wymazania",
-    "title": "Mogę się zmienić bez pogardy dla dawnego siebie",
-    "playlist": "Latin Flow",
-    "coreMessage": "Wzrost nie wymaga odrzucania całej dawnej tożsamości. Życzliwe rozumienie ograniczeń przeszłości może współistnieć z odpowiedzialnością za wyrządzone szkody.",
-    "affirmation": "Mogę się zmienić bez pogardy dla dawnego siebie.",
-    "problem": "Wzrost nie wymaga odrzucania całej dawnej tożsamości. Życzliwe rozumienie ograniczeń przeszłości może współistnieć z odpowiedzialnością za wyrządzone szkody.",
-    "sunoPrompt": "Fast earthy Latin rock with interlocking ukulele riffs, 144 BPM, driving hand percussion, gritty guitars and forceful melodic bass. Bittersweet direct vocal, strong recurring refrain and rough human ensemble swing. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nStare nagranie, mój głos sprzed kilku lat.\nŚmieję się pierwszy, żebyś mnie nie uprzedził.\nŁatwo mi deptać tamtą wersję siebie,\njakby to miało udowodnić, ile umiem dziś.\n\n[Chorus]\nMogę się zmienić bez pogardy dla dawnego siebie.\nNie muszę deptać śladów, żeby dalej iść.\nMogę dziś wiedzieć więcej niż wiedziałem wtedy.\nMogę się zmienić bez pogardy dla dawnego siebie.\n\n[Verse 2]\nNie bronię zdania, którym kogoś zraniłem.\nNazywam szkodę, nie zasłaniam jej latami.\nLecz tamten głos miał też odwagę zacząć.\nDziś niosę dalej to, co chcę ocalić.\n\n[Chorus]\nMogę się zmienić bez pogardy dla dawnego siebie.\nNie muszę deptać śladów, żeby dalej iść.\nMogę dziś wiedzieć więcej niż wiedziałem wtedy.\nMogę się zmienić bez pogardy dla dawnego siebie.\n\n[Bridge]\nRozumieć siebie to nie uniewinniać wszystkiego.\nMogę wziąć odpowiedzialność bez pogardy.\n\n[Final Chorus]\nMogę się zmienić bez pogardy dla dawnego siebie.\nNie muszę deptać śladów, żeby dalej iść.\nMogę dziś wiedzieć więcej niż wiedziałem wtedy.\nMogę się zmienić bez pogardy dla dawnego siebie.\nMogę się zmienić bez pogardy dla dawnego siebie.\nNie muszę deptać śladów, żeby dalej iść.\nMogę dziś wiedzieć więcej niż wiedziałem wtedy.\nMogę się zmienić bez pogardy dla dawnego siebie.",
-    "status": "AudioGenerated",
-    "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "hashtags": [
-      "#afirmacjespiewane",
-      "#cosmicvibes"
-    ],
-    "reviewStatus": "SecondPassCompleted",
-    "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Wzrost nie wymaga odrzucania całej dawnej tożsamości. Życzliwe rozumienie ograniczeń przeszłości może współistnieć z odpowiedzialnością za wyrządzone szkody.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
-      "changes": [],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
-    },
-    "selection": "Pending",
-    "sunoRecordings": [
-      {
-        "id": "623af89a-65ff-421e-a64d-526b66c86d1c",
-        "title": "Mogę się zmienić bez pogardy dla dawnego siebie",
-        "url": "https://suno.com/song/623af89a-65ff-421e-a64d-526b66c86d1c",
-        "status": "complete",
-        "duration": 129.6
-      },
-      {
-        "id": "b22b779e-9a3f-428e-b4d8-9559bafc14f8",
-        "title": "Mogę się zmienić bez pogardy dla dawnego siebie",
-        "url": "https://suno.com/song/b22b779e-9a3f-428e-b4d8-9559bafc14f8",
-        "status": "complete",
-        "duration": 135.6
-      }
-    ]
-  },
-  {
-    "ideaId": "CV-053",
-    "slug": "przeprosiny-to-nie-klucz",
-    "title": "Przeprosiny nie są kluczem do moich drzwi",
-    "playlist": "Rage Flow",
-    "coreMessage": "Przeprosiny nie zobowiązują osoby zranionej do odbudowy relacji. Odpowiedzialność za zmianę pozostaje po stronie sprawcy, a powrót jest osobnym wyborem.",
-    "affirmation": "Przeprosiny nie są kluczem do moich drzwi.",
-    "problem": "Przeprosiny nie zobowiązują osoby zranionej do odbudowy relacji. Odpowiedzialność za zmianę pozostaje po stronie sprawcy, a powrót jest osobnym wyborem.",
-    "sunoPrompt": "Heavy urgent dub-punk rock, 146 BPM, gritty rhythmic ukulele through overdriven guitars, deep syncopated bass and dry hard acoustic drums. Exposed but firm sung melody, repeated grounded chorus and controlled physical force. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nWiadomość: przepraszam. I od razu: wróć.\nJakby dwa słowa zamykały całą drogę.\nW brzuchu ten sam ciężar co przy dawnych drzwiach.\nDziś nie chcę otwierać ich z poczucia długu.\n\n[Chorus]\nPrzeprosiny nie są kluczem do moich drzwi.\nMogę je usłyszeć i nie wracać dziś.\nZaufanie potrzebuje czasu i pokrycia.\nPrzeprosiny nie są kluczem do moich drzwi.\n\n[Verse 2]\nNie muszę sprawdzać zmiany własnym spokojem.\nMogę oglądać ją z bezpiecznej strony.\nJeśli wybiorę kontakt, ustalę jego kształt.\nNie oddam granicy za czyjąś ulgę teraz.\n\n[Chorus]\nPrzeprosiny nie są kluczem do moich drzwi.\nMogę je usłyszeć i nie wracać dziś.\nZaufanie potrzebuje czasu i pokrycia.\nPrzeprosiny nie są kluczem do moich drzwi.\n\n[Bridge]\nNie muszę obiecać powrotu ani wybaczenia.\nMogę wybrać, ile bliskości chcę.\n\n[Final Chorus]\nPrzeprosiny nie są kluczem do moich drzwi.\nMogę je usłyszeć i nie wracać dziś.\nZaufanie potrzebuje czasu i pokrycia.\nPrzeprosiny nie są kluczem do moich drzwi.\nPrzeprosiny nie są kluczem do moich drzwi.\nMogę je usłyszeć i nie wracać dziś.\nZaufanie potrzebuje czasu i pokrycia.\nPrzeprosiny nie są kluczem do moich drzwi.",
-    "status": "AudioGenerated",
-    "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
-    "hashtags": [
-      "#afirmacjespiewane",
-      "#cosmicvibes"
-    ],
-    "reviewStatus": "SecondPassCompleted",
-    "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Przeprosiny nie zobowiązują osoby zranionej do odbudowy relacji. Odpowiedzialność za zmianę pozostaje po stronie sprawcy, a powrót jest osobnym wyborem.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
-      "changes": [],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
-    },
-    "selection": "Pending",
-    "sunoRecordings": [
-      {
-        "id": "65462a7c-c783-40f1-af7c-794370bbcff4",
-        "title": "Przeprosiny nie są kluczem do moich drzwi",
-        "url": "https://suno.com/song/65462a7c-c783-40f1-af7c-794370bbcff4",
-        "status": "complete",
-        "duration": 169.56
-      },
-      {
-        "id": "1a301fbe-4164-42a4-abf8-a7482bbde0d2",
-        "title": "Przeprosiny nie są kluczem do moich drzwi",
-        "url": "https://suno.com/song/1a301fbe-4164-42a4-abf8-a7482bbde0d2",
-        "status": "complete",
-        "duration": 204.88
-      }
-    ]
-  },
-  {
-    "ideaId": "CV-054",
-    "slug": "mniej-dla-cudzego-komfortu",
-    "title": "Nie schowam swojej radości, żeby zasłużyć na bliskość",
+    "ideaId": "CV-060",
+    "slug": "dzien-wiekszy-od-chwili",
+    "title": "Nie oddam całego dnia jednej trudnej chwili",
     "playlist": "Ska Vibes",
-    "coreMessage": "Zachowanie więzi nie wymaga ukrywania własnych dobrych doświadczeń. Można dzielić radość z uważnością na cudzy trud, bez triumfalnego porównywania i bez samopomniejszania.",
-    "affirmation": "Nie schowam swojej radości, żeby zasłużyć na bliskość.",
-    "problem": "Zachowanie więzi nie wymaga ukrywania własnych dobrych doświadczeń. Można dzielić radość z uważnością na cudzy trud, bez triumfalnego porównywania i bez samopomniejszania.",
-    "sunoPrompt": "Fast gritty ska-funk rock, 152 BPM, percussive offbeat ukulele, jagged electric guitar, mobile heavy bass and urgent dry live drums. Strong conversational sung hook, warm grit and restless organic interplay. Polish vocals with natural clear diction. Keep the ukulele audible as a rhythmic riff instrument inside the band. Repeat the central chorus with breathing space and instrumental movement.",
-    "negativeStyle": "disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor kick, glossy synth-pop, tropical commercial pop, novelty song, cheerful ukulele jingle, clapping commercial folk, corporate inspiration, stadium anthem, autotuned vocals",
-    "lyrics": "[Verse 1]\nMasz dobry dzień? Pytasz, ja mówię: zwykły.\nChowam wiadomość o projekcie, który wyszedł.\nWidzę twój smutek, tracę własny uśmiech.\nJuż mój sukces przepraszająco spuszcza wzrok.\n\n[Chorus]\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nMogę mówić z radością, nie robiąc z tego wyścigu.\nTwój trud ma swoje miejsce, moje dobro też.\nNie schowam swojej radości, żeby zasłużyć na bliskość.\n\n[Verse 2]\nDziś mówię: cieszę się, długo na to czekałem.\nPotem zostawiam miejsce na twój dzień.\nNie muszę stawiać cię w cieniu swojej historii.\nNie muszę znikać, żeby słyszeć twoją.\n\n[Chorus]\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nMogę mówić z radością, nie robiąc z tego wyścigu.\nTwój trud ma swoje miejsce, moje dobro też.\nNie schowam swojej radości, żeby zasłużyć na bliskość.\n\n[Bridge]\nNie żądam, żebyś cieszył się na mój rozkaz.\nNie będę tylko udawał, że to nic.\n\n[Final Chorus]\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nMogę mówić z radością, nie robiąc z tego wyścigu.\nTwój trud ma swoje miejsce, moje dobro też.\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nNie schowam swojej radości, żeby zasłużyć na bliskość.\nMogę mówić z radością, nie robiąc z tego wyścigu.\nTwój trud ma swoje miejsce, moje dobro też.\nNie schowam swojej radości, żeby zasłużyć na bliskość.",
+    "tempoTarget": 146,
+    "targetSeconds": 240,
+    "coreMessage": "Niepowodzenie może zdominować ocenę całego dnia. Poszerzenie uwagi nie wymaga zaprzeczania błędowi ani wymuszania pozytywnego nastroju.",
+    "affirmation": "Nie oddam całego dnia jednej trudnej chwili.",
+    "problem": "Niepowodzenie może zdominować ocenę całego dnia. Poszerzenie uwagi nie wymaga zaprzeczania błędowi ani wymuszania pozytywnego nastroju.",
+    "sunoPrompt": "Fast gritty ska-rock, agile offbeat electric guitar, muscular melodic bass and urgent dry live drums. Short articulate sung phrases, elastic groove, repeated hook and extended instrumental movement with playful rhythmic breaks. Approximately 146 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nJedno spotkanie poszło nie po mojej myśli.\nDo końca dnia już widzę tylko błąd.\nObiad jest zimny, słońce nie ma znaczenia,\njakby ta chwila podpisała cały dzień.\n\n[Pre-Chorus]\nNie muszę czekać, aż zmieni się przeszłość,\nżeby zauważyć coś, co dzieje się dziś.\n\n[Chorus]\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\n\n[Instrumental]\n\n[Verse 2]\nZapiszę, co poprawię, kiedy wrócę rano.\nNie wmówię sobie, że nic się nie stało.\nPotem wyjdę, zrobię miejsce na rozmowę,\nna coś, co nie jest dalszym ciągiem tamtej sali.\n\n[Chorus]\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\n\n[Bridge]\nZły fragment nie musi dostać całej książki.\nDobry wieczór nie unieważnia trudnych spraw.\nMogą się zmieścić obok siebie w jednym dniu,\nbez walki o to, które było bardziej prawdziwe.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\n\n[Outro]\nNie oddam całego dnia jednej trudnej chwili.\nNie oddam całego dnia jednej trudnej chwili.",
+    "reviewStatus": "SecondPassCompleted",
     "status": "AudioGenerated",
     "generationStatus": "Complete",
-    "createdAt": "2026-11-15",
+    "createdAt": "2026-11-16",
     "hashtags": [
       "#afirmacjespiewane",
       "#cosmicvibes"
     ],
-    "reviewStatus": "SecondPassCompleted",
     "lyricsReview": {
-      "coherence": "Scena przechodzi od automatycznego odruchu do konkretnej alternatywy w drugiej zwrotce.",
-      "depth": "Zachowanie więzi nie wymaga ukrywania własnych dobrych doświadczeń. Można dzielić radość z uważnością na cudzy trud, bez triumfalnego porównywania i bez samopomniejszania.",
-      "limitations": "Bez gwarancji reakcji innych osób ani obietnicy zniknięcia trudnej emocji.",
-      "changes": [
-        {
-          "before": "Nie pomniejszę siebie, żeby oszczędzić ci zazdrości",
-          "after": "Nie schowam swojej radości, żeby zasłużyć na bliskość"
-        },
-        {
-          "before": "Znam tę minę, kiedy dzieje mi się dobrze.",
-          "after": "Widzę twój smutek, tracę własny uśmiech."
-        },
-        {
-          "before": "Nie muszę błyszczeć ponad tobą, żeby świecić.\nNie muszę gasnąć, żeby móc przy tobie być.",
-          "after": "Nie muszę stawiać cię w cieniu swojej historii.\nNie muszę znikać, żeby słyszeć twoją."
-        }
-      ],
-      "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
+      "status": "SecondPassCompleted",
+      "messageCheck": "Niepowodzenie może zdominować ocenę całego dnia. Poszerzenie uwagi nie wymaga zaprzeczania błędowi ani wymuszania pozytywnego nastroju.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+      "changes": [],
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
     },
     "selection": "Pending",
     "sunoRecordings": [
       {
-        "id": "3593a2fa-fc15-403c-8cdc-2d2f3b75ae94",
-        "title": "Nie schowam swojej radości, żeby zasłużyć na bliskość",
-        "url": "https://suno.com/song/3593a2fa-fc15-403c-8cdc-2d2f3b75ae94",
+        "id": "7c389595-27c3-427d-b289-2c10c47461e7",
+        "title": "Nie oddam całego dnia jednej trudnej chwili",
+        "url": "https://suno.com/song/7c389595-27c3-427d-b289-2c10c47461e7",
         "status": "complete",
-        "duration": 137.92
+        "duration": 240
       },
       {
-        "id": "7ca47c68-e692-4d8f-bc10-d57fe061a849",
-        "title": "Nie schowam swojej radości, żeby zasłużyć na bliskość",
-        "url": "https://suno.com/song/7ca47c68-e692-4d8f-bc10-d57fe061a849",
+        "id": "f7ca0d47-1e42-4e77-b054-aa206c6fbf4c",
+        "title": "Nie oddam całego dnia jednej trudnej chwili",
+        "url": "https://suno.com/song/f7ca0d47-1e42-4e77-b054-aa206c6fbf4c",
         "status": "complete",
-        "duration": 136.28
+        "duration": 240
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-061",
+    "slug": "bol-nie-potrzebuje-dowodu",
+    "title": "Nie muszę udowadniać, że mnie bolało",
+    "playlist": "Rock Rise",
+    "tempoTarget": 118,
+    "targetSeconds": 260,
+    "coreMessage": "Porównywanie cierpienia utrudnia ujawnienie potrzeby. Uznanie własnych emocji nie rozstrzyga sporów o fakty i nie wymaga pierwszeństwa w hierarchii krzywd.",
+    "affirmation": "Nie muszę udowadniać, że mnie bolało.",
+    "problem": "Porównywanie cierpienia utrudnia ujawnienie potrzeby. Uznanie własnych emocji nie rozstrzyga sporów o fakty i nie wymaga pierwszeństwa w hierarchii krzywd.",
+    "sunoPrompt": "Heavy midtempo grunge-soul, thick low guitar riffs, deep moving bass and dry spacious live drums. Raw close melodic vocal, controlled force, long instrumental development and a recurring emotionally grounded chorus. Approximately 118 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nPowiedziałeś: inni mieli dużo gorzej.\nJa od tej pory ściszam własny głos.\nGdy chcę powiedzieć, co mnie wtedy dotknęło,\nnajpierw przynoszę dowód, datę, cudzy osąd.\n\n[Pre-Chorus]\nNie chcę medalu za to, co przeżyłem.\nChcę przestać przepraszać, że to czuję.\n\n[Chorus]\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\n\n[Instrumental]\n\n[Verse 2]\nDziś mówię: tak to pamiętam, tak to czuję.\nNie każę ci odczuwać dokładnie tego co ja.\nGdy nie ma miejsca na rozmowę bez porównań,\nmogę poszukać go u kogoś, kto wysłucha.\n\n[Chorus]\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\n\n[Bridge]\nUznanie bólu nie rozstrzyga każdego faktu.\nMogę sprawdzać pamięć i szanować własny ślad.\nNie muszę wygrać sporu o stopień cierpienia,\nżeby wolno mi było poprosić o pomoc.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\n\n[Outro]\nNie muszę udowadniać, że mnie bolało.\nNie muszę udowadniać, że mnie bolało.",
+    "reviewStatus": "SecondPassCompleted",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "createdAt": "2026-11-16",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "lyricsReview": {
+      "status": "SecondPassCompleted",
+      "messageCheck": "Porównywanie cierpienia utrudnia ujawnienie potrzeby. Uznanie własnych emocji nie rozstrzyga sporów o fakty i nie wymaga pierwszeństwa w hierarchii krzywd.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+      "changes": [],
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+    },
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "af9485d8-357d-4a42-b6db-1013ac7766ce",
+        "title": "Nie muszę udowadniać, że mnie bolało",
+        "url": "https://suno.com/song/af9485d8-357d-4a42-b6db-1013ac7766ce",
+        "status": "complete",
+        "duration": 259.2
+      },
+      {
+        "id": "a6fc28e2-f556-4cf1-904f-0ed9e65b5221",
+        "title": "Nie muszę udowadniać, że mnie bolało",
+        "url": "https://suno.com/song/a6fc28e2-f556-4cf1-904f-0ed9e65b5221",
+        "status": "complete",
+        "duration": 258.68
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-062",
+    "slug": "czas-zamiast-przesluchania",
+    "title": "Daję sobie czas, nie kolejne przesłuchanie",
+    "playlist": "Chill Flow",
+    "tempoTarget": 92,
+    "targetSeconds": 275,
+    "coreMessage": "Samopoznanie może zmienić się w przymus znajdowania winy i pełnego wyjaśnienia. Ograniczenie ruminacji i powrót do rozmowy później nie muszą oznaczać unikania.",
+    "affirmation": "Daję sobie czas, nie kolejne przesłuchanie.",
+    "problem": "Samopoznanie może zmienić się w przymus znajdowania winy i pełnego wyjaśnienia. Ograniczenie ruminacji i powrót do rozmowy później nie muszą oznaczać unikania.",
+    "sunoPrompt": "Hypnotic organic dub with a spacious slow pocket, deep bass, dry rim-click drums, muted electric guitar and restrained organ texture. Clear intimate sung mantra, extended instrumental sections and gradual reduction of tension. Approximately 92 BPM. Full-length song around 5 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nCo ze mną nie tak? Znowu pierwsze pytanie.\nDrążę je tak długo, że przestaję słyszeć dzień.\nNawet przy kubku robię z siebie sprawę,\nktóra przed nocą musi zostać wyjaśniona.\n\n[Pre-Chorus]\nNie zamykam sprawy, bo robię przerwę.\nDaję jej miejsce, które mnie nie pożera.\n\n[Chorus]\nDaję sobie czas, nie kolejne przesłuchanie.\nNie muszę znaleźć winnego w każdej swojej łzie.\nMogę coś rozumieć po kawałku, nie od razu.\nDaję sobie czas, nie kolejne przesłuchanie.\nDaję sobie czas, nie kolejne przesłuchanie.\nNie muszę znaleźć winnego w każdej swojej łzie.\nMogę coś rozumieć po kawałku, nie od razu.\nDaję sobie czas, nie kolejne przesłuchanie.\n\n[Instrumental]\n\n[Verse 2]\nDziś zamiast drążyć, zapisuję jedno zdanie:\nbyło mi trudno, chcę wrócić do tego jutro.\nNie wyrzucam pytań, odkładam je na półkę.\nMogę zjeść kolację, zanim znajdę wszystkie słowa.\n\n[Chorus]\nDaję sobie czas, nie kolejne przesłuchanie.\nNie muszę znaleźć winnego w każdej swojej łzie.\nMogę coś rozumieć po kawałku, nie od razu.\nDaję sobie czas, nie kolejne przesłuchanie.\nDaję sobie czas, nie kolejne przesłuchanie.\nNie muszę znaleźć winnego w każdej swojej łzie.\nMogę coś rozumieć po kawałku, nie od razu.\nDaję sobie czas, nie kolejne przesłuchanie.\n\n[Bridge]\nNie każde pytanie zbliża mnie do siebie.\nCzasem tylko żąda coraz lepszego zeznania.\nGdy sam nie widzę końca tego kręgu,\nmogę zaprosić kogoś do spokojnej rozmowy.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nDaję sobie czas, nie kolejne przesłuchanie.\nNie muszę znaleźć winnego w każdej swojej łzie.\nMogę coś rozumieć po kawałku, nie od razu.\nDaję sobie czas, nie kolejne przesłuchanie.\nDaję sobie czas, nie kolejne przesłuchanie.\nNie muszę znaleźć winnego w każdej swojej łzie.\nMogę coś rozumieć po kawałku, nie od razu.\nDaję sobie czas, nie kolejne przesłuchanie.\n\n[Outro]\nDaję sobie czas, nie kolejne przesłuchanie.\nDaję sobie czas, nie kolejne przesłuchanie.",
+    "reviewStatus": "SecondPassCompleted",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "createdAt": "2026-11-16",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "lyricsReview": {
+      "status": "SecondPassCompleted",
+      "messageCheck": "Samopoznanie może zmienić się w przymus znajdowania winy i pełnego wyjaśnienia. Ograniczenie ruminacji i powrót do rozmowy później nie muszą oznaczać unikania.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+      "changes": [],
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+    },
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "7c723e4b-42ac-412f-9c33-2b8c0fb16a94",
+        "title": "Daję sobie czas, nie kolejne przesłuchanie",
+        "url": "https://suno.com/song/7c723e4b-42ac-412f-9c33-2b8c0fb16a94",
+        "status": "complete",
+        "duration": 274.72
+      },
+      {
+        "id": "1adcf4c5-7090-4438-9787-13cb0c6461f0",
+        "title": "Daję sobie czas, nie kolejne przesłuchanie",
+        "url": "https://suno.com/song/1adcf4c5-7090-4438-9787-13cb0c6461f0",
+        "status": "complete",
+        "duration": 274.8
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-063",
+    "slug": "zaufanie-male-obietnice",
+    "title": "Mogę na sobie polegać bez wielkich obietnic",
+    "playlist": "Funk Flow",
+    "tempoTarget": 132,
+    "targetSeconds": 245,
+    "coreMessage": "Nadmierne deklaracje mogą podkopywać zaufanie do siebie. Odbudowa może opierać się na wykonalnym zobowiązaniu i uczciwej korekcie zamiast perfekcyjnej niezawodności.",
+    "affirmation": "Mogę na sobie polegać bez wielkich obietnic.",
+    "problem": "Nadmierne deklaracje mogą podkopywać zaufanie do siebie. Odbudowa może opierać się na wykonalnym zobowiązaniu i uczciwej korekcie zamiast perfekcyjnej niezawodności.",
+    "sunoPrompt": "Driving organic funk-rock, deep elastic bass, dry live drums, clipped wah guitar, clavinet and earthy hand percussion. Strong rhythmic sung hook, forward movement and long developing instrumental passages, human imperfect ensemble. Approximately 132 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nW niedzielę obiecuję nowe całe życie.\nW środę już nie chcę patrzeć sobie w oczy.\nTak wielki plan miał wreszcie mnie naprawić,\nże nie ma w nim miejsca na zwyczajny gorszy dzień.\n\n[Pre-Chorus]\nNie muszę stawać się innym człowiekiem,\nżeby dzisiaj dotrzymać sobie małego słowa.\n\n[Chorus]\nMogę na sobie polegać bez wielkich obietnic.\nDziś dotrzymam jednej rzeczy, którą uniosę.\nMałe słowo też potrafi mieć pokrycie.\nMogę na sobie polegać bez wielkich obietnic.\nMogę na sobie polegać bez wielkich obietnic.\nDziś dotrzymam jednej rzeczy, którą uniosę.\nMałe słowo też potrafi mieć pokrycie.\nMogę na sobie polegać bez wielkich obietnic.\n\n[Instrumental]\n\n[Verse 2]\nZamiast wszystkiego wybieram kwadrans pracy.\nPotem odkładam notes, nie dokładam winy.\nGdy nie wychodzi, zmniejszam plan i wracam.\nNie składam przysięgi przeciw własnej codzienności.\n\n[Chorus]\nMogę na sobie polegać bez wielkich obietnic.\nDziś dotrzymam jednej rzeczy, którą uniosę.\nMałe słowo też potrafi mieć pokrycie.\nMogę na sobie polegać bez wielkich obietnic.\nMogę na sobie polegać bez wielkich obietnic.\nDziś dotrzymam jednej rzeczy, którą uniosę.\nMałe słowo też potrafi mieć pokrycie.\nMogę na sobie polegać bez wielkich obietnic.\n\n[Bridge]\nZaufanie rośnie także po uczciwej zmianie planu.\nNie tylko wtedy, gdy wszystko idzie tak jak chcę.\nMogę być słowny i znać granice siły,\nbez egzaminu z bycia niezawodnym.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nMogę na sobie polegać bez wielkich obietnic.\nDziś dotrzymam jednej rzeczy, którą uniosę.\nMałe słowo też potrafi mieć pokrycie.\nMogę na sobie polegać bez wielkich obietnic.\nMogę na sobie polegać bez wielkich obietnic.\nDziś dotrzymam jednej rzeczy, którą uniosę.\nMałe słowo też potrafi mieć pokrycie.\nMogę na sobie polegać bez wielkich obietnic.\n\n[Outro]\nMogę na sobie polegać bez wielkich obietnic.\nMogę na sobie polegać bez wielkich obietnic.",
+    "reviewStatus": "SecondPassCompleted",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "createdAt": "2026-11-16",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "lyricsReview": {
+      "status": "SecondPassCompleted",
+      "messageCheck": "Nadmierne deklaracje mogą podkopywać zaufanie do siebie. Odbudowa może opierać się na wykonalnym zobowiązaniu i uczciwej korekcie zamiast perfekcyjnej niezawodności.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+      "changes": [],
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+    },
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "2c220d71-249f-48b4-b572-b0a97280b784",
+        "title": "Mogę na sobie polegać bez wielkich obietnic",
+        "url": "https://suno.com/song/2c220d71-249f-48b4-b572-b0a97280b784",
+        "status": "complete",
+        "duration": 260
+      },
+      {
+        "id": "4e50b100-85cb-4162-a84c-1fd0fc227d33",
+        "title": "Mogę na sobie polegać bez wielkich obietnic",
+        "url": "https://suno.com/song/4e50b100-85cb-4162-a84c-1fd0fc227d33",
+        "status": "complete",
+        "duration": 246
+      }
+    ]
+  },
+  {
+    "ideaId": "CV-064",
+    "slug": "zycie-nie-jest-zalegloscia",
+    "title": "Moje życie nie jest zaległym zadaniem",
+    "playlist": "Indie Rock Flow",
+    "tempoTarget": 140,
+    "targetSeconds": 250,
+    "coreMessage": "Traktowanie życia jako zaległości zamienia rozwój w warunek dostępu do teraźniejszości. Cele mogą pozostać ważne bez moralnego długu wobec idealnego przyszłego siebie.",
+    "affirmation": "Moje życie nie jest zaległym zadaniem.",
+    "problem": "Traktowanie życia jako zaległości zamienia rozwój w warunek dostępu do teraźniejszości. Cele mogą pozostać ważne bez moralnego długu wobec idealnego przyszłego siebie.",
+    "sunoPrompt": "Fast open alternative rock, rough rhythmic electric guitars, melodic bass and powerful human acoustic drums. Wide but intimate sung refrain, propulsive groove, long instrumental breathing room and evolving repeated hooks. Approximately 140 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+    "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+    "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nZanim usiądę, muszę jeszcze zasłużyć.\nWszystkie przyjemności stoją w kolejce za jutrem.\nLiczę dni jak listę rzeczy do nadgonienia,\njakbym od startu był komuś winien lepsze życie.\n\n[Pre-Chorus]\nNie chcę zasłużyć na życie dopiero na końcu.\nMogę dać mu trochę miejsca już dziś.\n\n[Chorus]\nMoje życie nie jest zaległym zadaniem.\nNie muszę go odrabiać, zanim zacznę żyć.\nMogę mieć plany i być tutaj naprawdę.\nMoje życie nie jest zaległym zadaniem.\nMoje życie nie jest zaległym zadaniem.\nNie muszę go odrabiać, zanim zacznę żyć.\nMogę mieć plany i być tutaj naprawdę.\nMoje życie nie jest zaległym zadaniem.\n\n[Instrumental]\n\n[Verse 2]\nDziś zostawiam kurs w połowie odcinka.\nIdę na spacer, choć niczego nim nie nadrobię.\nZadzwonię w drodze: jak ci minął dzień?\nNie każdy ruch ma mnie przenosić na wyższy poziom.\n\n[Chorus]\nMoje życie nie jest zaległym zadaniem.\nNie muszę go odrabiać, zanim zacznę żyć.\nMogę mieć plany i być tutaj naprawdę.\nMoje życie nie jest zaległym zadaniem.\nMoje życie nie jest zaległym zadaniem.\nNie muszę go odrabiać, zanim zacznę żyć.\nMogę mieć plany i być tutaj naprawdę.\nMoje życie nie jest zaległym zadaniem.\n\n[Bridge]\nNie odwołuję celów, odwołuję wieczny dług.\nPrzyszłość może prosić, nie zabierać całego stołu.\nChcę budować życie, w którym mogę mieszkać,\nnie tylko takie, które kiedyś dobrze wypadnie.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nMoje życie nie jest zaległym zadaniem.\nNie muszę go odrabiać, zanim zacznę żyć.\nMogę mieć plany i być tutaj naprawdę.\nMoje życie nie jest zaległym zadaniem.\nMoje życie nie jest zaległym zadaniem.\nNie muszę go odrabiać, zanim zacznę żyć.\nMogę mieć plany i być tutaj naprawdę.\nMoje życie nie jest zaległym zadaniem.\n\n[Outro]\nMoje życie nie jest zaległym zadaniem.\nMoje życie nie jest zaległym zadaniem.",
+    "reviewStatus": "SecondPassCompleted",
+    "status": "AudioGenerated",
+    "generationStatus": "Complete",
+    "createdAt": "2026-11-16",
+    "hashtags": [
+      "#afirmacjespiewane",
+      "#cosmicvibes"
+    ],
+    "lyricsReview": {
+      "status": "SecondPassCompleted",
+      "messageCheck": "Traktowanie życia jako zaległości zamienia rozwój w warunek dostępu do teraźniejszości. Cele mogą pozostać ważne bez moralnego długu wobec idealnego przyszłego siebie.",
+      "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+      "changes": [
+        {
+          "before": "Po drodze zadzwonię, zapytam, jak ci minął dzień.",
+          "after": "Zadzwonię w drodze: jak ci minął dzień?"
+        }
+      ],
+      "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+    },
+    "selection": "Pending",
+    "sunoRecordings": [
+      {
+        "id": "b5b5b2e1-9975-4a00-8c2c-5e3b91e4aa54",
+        "title": "Moje życie nie jest zaległym zadaniem",
+        "url": "https://suno.com/song/b5b5b2e1-9975-4a00-8c2c-5e3b91e4aa54",
+        "status": "complete",
+        "duration": 249.56
+      },
+      {
+        "id": "4a19b3db-daa0-4a12-b2b7-97c70dad35e7",
+        "title": "Moje życie nie jest zaległym zadaniem",
+        "url": "https://suno.com/song/4a19b3db-daa0-4a12-b2b7-97c70dad35e7",
+        "status": "complete",
+        "duration": 249.44
       }
     ]
   }

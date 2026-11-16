@@ -1,0 +1,46 @@
+{
+  "ideaId": "CV-060",
+  "slug": "dzien-wiekszy-od-chwili",
+  "title": "Nie oddam całego dnia jednej trudnej chwili",
+  "playlist": "Ska Vibes",
+  "tempoTarget": 146,
+  "targetSeconds": 240,
+  "coreMessage": "Niepowodzenie może zdominować ocenę całego dnia. Poszerzenie uwagi nie wymaga zaprzeczania błędowi ani wymuszania pozytywnego nastroju.",
+  "affirmation": "Nie oddam całego dnia jednej trudnej chwili.",
+  "problem": "Niepowodzenie może zdominować ocenę całego dnia. Poszerzenie uwagi nie wymaga zaprzeczania błędowi ani wymuszania pozytywnego nastroju.",
+  "sunoPrompt": "Fast gritty ska-rock, agile offbeat electric guitar, muscular melodic bass and urgent dry live drums. Short articulate sung phrases, elastic groove, repeated hook and extended instrumental movement with playful rhythmic breaks. Approximately 146 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+  "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+  "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nJedno spotkanie poszło nie po mojej myśli.\nDo końca dnia już widzę tylko błąd.\nObiad jest zimny, słońce nie ma znaczenia,\njakby ta chwila podpisała cały dzień.\n\n[Pre-Chorus]\nNie muszę czekać, aż zmieni się przeszłość,\nżeby zauważyć coś, co dzieje się dziś.\n\n[Chorus]\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\n\n[Instrumental]\n\n[Verse 2]\nZapiszę, co poprawię, kiedy wrócę rano.\nNie wmówię sobie, że nic się nie stało.\nPotem wyjdę, zrobię miejsce na rozmowę,\nna coś, co nie jest dalszym ciągiem tamtej sali.\n\n[Chorus]\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\n\n[Bridge]\nZły fragment nie musi dostać całej książki.\nDobry wieczór nie unieważnia trudnych spraw.\nMogą się zmieścić obok siebie w jednym dniu,\nbez walki o to, które było bardziej prawdziwe.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\nNie oddam całego dnia jednej trudnej chwili.\nMogę ją poczuć, nie oddawać jej wszystkiego.\nTen dzień ma jeszcze miejsce poza błędem.\nNie oddam całego dnia jednej trudnej chwili.\n\n[Outro]\nNie oddam całego dnia jednej trudnej chwili.\nNie oddam całego dnia jednej trudnej chwili.",
+  "reviewStatus": "SecondPassCompleted",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-16",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "lyricsReview": {
+    "status": "SecondPassCompleted",
+    "messageCheck": "Niepowodzenie może zdominować ocenę całego dnia. Poszerzenie uwagi nie wymaga zaprzeczania błędowi ani wymuszania pozytywnego nastroju.",
+    "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+    "changes": [],
+    "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "7c389595-27c3-427d-b289-2c10c47461e7",
+      "title": "Nie oddam całego dnia jednej trudnej chwili",
+      "url": "https://suno.com/song/7c389595-27c3-427d-b289-2c10c47461e7",
+      "status": "complete",
+      "duration": 240
+    },
+    {
+      "id": "f7ca0d47-1e42-4e77-b054-aa206c6fbf4c",
+      "title": "Nie oddam całego dnia jednej trudnej chwili",
+      "url": "https://suno.com/song/f7ca0d47-1e42-4e77-b054-aa206c6fbf4c",
+      "status": "complete",
+      "duration": 240
+    }
+  ]
+}

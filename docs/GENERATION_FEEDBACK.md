@@ -19,3 +19,9 @@ Retained CV-035, CV-036, CV-037, CV-039, CV-040, CV-041, CV-042 and CV-044. Reje
 Add audible ukulele as a rhythmic riff instrument within raw, fast organic bands. Continue steering through positive rhythmic descriptions and the actual Suno negative_style field; these controls cannot guarantee the resulting genre. Avoid commercial ukulele jingles and clapping folk.
 
 Before every future generation batch, save a draft, do a distinct second editorial pass, then save the reviewed version and actual revisions. Check narrative logic, natural Polish, meaning of each repeated line, unwanted promises, assumed motives, and whether the second verse demonstrates the intended change. Only send reviewed lyrics to Suno. Keep the review trace locally in each song package.
+
+## Fifth batch: 16 November
+
+Fourth-wave choices: retain CV-045, CV-046, CV-048, CV-051. Reject CV-047, CV-049, CV-050, CV-052, CV-053, CV-054. Twenty-two retained titles in total.
+
+End the ukulele experiment. Tempo must vary across the batch; fast tracks are one lane rather than a universal default. Aim for longer forms, additional exact refrain returns, instrumental development, and enough room for clear Polish diction. Send a duration target with guidance and no hard cutoff; verify actual returned duration rather than treating a prompt as proof of length.

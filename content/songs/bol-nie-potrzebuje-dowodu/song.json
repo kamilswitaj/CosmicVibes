@@ -1,0 +1,46 @@
+{
+  "ideaId": "CV-061",
+  "slug": "bol-nie-potrzebuje-dowodu",
+  "title": "Nie muszę udowadniać, że mnie bolało",
+  "playlist": "Rock Rise",
+  "tempoTarget": 118,
+  "targetSeconds": 260,
+  "coreMessage": "Porównywanie cierpienia utrudnia ujawnienie potrzeby. Uznanie własnych emocji nie rozstrzyga sporów o fakty i nie wymaga pierwszeństwa w hierarchii krzywd.",
+  "affirmation": "Nie muszę udowadniać, że mnie bolało.",
+  "problem": "Porównywanie cierpienia utrudnia ujawnienie potrzeby. Uznanie własnych emocji nie rozstrzyga sporów o fakty i nie wymaga pierwszeństwa w hierarchii krzywd.",
+  "sunoPrompt": "Heavy midtempo grunge-soul, thick low guitar riffs, deep moving bass and dry spacious live drums. Raw close melodic vocal, controlled force, long instrumental development and a recurring emotionally grounded chorus. Approximately 118 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+  "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+  "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nPowiedziałeś: inni mieli dużo gorzej.\nJa od tej pory ściszam własny głos.\nGdy chcę powiedzieć, co mnie wtedy dotknęło,\nnajpierw przynoszę dowód, datę, cudzy osąd.\n\n[Pre-Chorus]\nNie chcę medalu za to, co przeżyłem.\nChcę przestać przepraszać, że to czuję.\n\n[Chorus]\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\n\n[Instrumental]\n\n[Verse 2]\nDziś mówię: tak to pamiętam, tak to czuję.\nNie każę ci odczuwać dokładnie tego co ja.\nGdy nie ma miejsca na rozmowę bez porównań,\nmogę poszukać go u kogoś, kto wysłucha.\n\n[Chorus]\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\n\n[Bridge]\nUznanie bólu nie rozstrzyga każdego faktu.\nMogę sprawdzać pamięć i szanować własny ślad.\nNie muszę wygrać sporu o stopień cierpienia,\nżeby wolno mi było poprosić o pomoc.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\nNie muszę udowadniać, że mnie bolało.\nNie potrzebuję rankingu cudzych ran.\nMogę powiedzieć, jak to we mnie zostało.\nNie muszę udowadniać, że mnie bolało.\n\n[Outro]\nNie muszę udowadniać, że mnie bolało.\nNie muszę udowadniać, że mnie bolało.",
+  "reviewStatus": "SecondPassCompleted",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-16",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "lyricsReview": {
+    "status": "SecondPassCompleted",
+    "messageCheck": "Porównywanie cierpienia utrudnia ujawnienie potrzeby. Uznanie własnych emocji nie rozstrzyga sporów o fakty i nie wymaga pierwszeństwa w hierarchii krzywd.",
+    "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+    "changes": [],
+    "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "af9485d8-357d-4a42-b6db-1013ac7766ce",
+      "title": "Nie muszę udowadniać, że mnie bolało",
+      "url": "https://suno.com/song/af9485d8-357d-4a42-b6db-1013ac7766ce",
+      "status": "complete",
+      "duration": 259.2
+    },
+    {
+      "id": "a6fc28e2-f556-4cf1-904f-0ed9e65b5221",
+      "title": "Nie muszę udowadniać, że mnie bolało",
+      "url": "https://suno.com/song/a6fc28e2-f556-4cf1-904f-0ed9e65b5221",
+      "status": "complete",
+      "duration": 258.68
+    }
+  ]
+}

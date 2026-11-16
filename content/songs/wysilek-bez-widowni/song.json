@@ -1,0 +1,46 @@
+{
+  "ideaId": "CV-057",
+  "slug": "wysilek-bez-widowni",
+  "title": "Mój wysiłek nie potrzebuje widowni",
+  "playlist": "Jazz Vibes",
+  "tempoTarget": 98,
+  "targetSeconds": 260,
+  "coreMessage": "Niewidoczna praca emocjonalna i codzienna bywa pomijana przez samego wykonawcę. Wewnętrzne uznanie nie powinno usprawiedliwiać niesprawiedliwego podziału obowiązków.",
+  "affirmation": "Mój wysiłek nie potrzebuje widowni.",
+  "problem": "Niewidoczna praca emocjonalna i codzienna bywa pomijana przez samego wykonawcę. Wewnętrzne uznanie nie powinno usprawiedliwiać niesprawiedliwego podziału obowiązków.",
+  "sunoPrompt": "Earthy jazz-funk, loose syncopated live pocket, warm electric bass, dry drums, rhythmic piano and expressive restrained saxophone. Intimate sung lead, long evolving instrumental interplay, persistent melodic refrain with lived-in warmth. Approximately 98 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+  "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+  "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nNa zdjęciu widać tylko posprzątany pokój.\nNie widać nocy, gdy wracałem do rozmowy.\nNie widać zdania, którego nie rzuciłem w gniewie,\na ja bez świadków znów nazywam dzień pustym.\n\n[Pre-Chorus]\nNie każdy ważny ruch robi hałas.\nMogę go zauważyć, zanim ktoś mi przyklaśnie.\n\n[Chorus]\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\n\n[Instrumental]\n\n[Verse 2]\nW notesie zapiszę, co naprawdę zrobiłem.\nBez zdjęcia, które dowiedzie, że to ja.\nA gdy mam za dużo pracy, której nikt nie widzi,\nnie będę milczeć tylko dlatego, że daję radę.\n\n[Chorus]\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\n\n[Bridge]\nUznanie siebie nie zastąpi sprawiedliwego podziału.\nMogę prosić o pomoc i nazwać swój czas.\nNie chcę zasługiwać na odpoczynek oklaskiem.\nNie chcę też zostać sam z tym wszystkim znów.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\nMój wysiłek nie potrzebuje widowni.\nTo, czego nie widać, też zmienia mój dzień.\nMogę uznać pracę, której nikt nie policzy.\nMój wysiłek nie potrzebuje widowni.\n\n[Outro]\nMój wysiłek nie potrzebuje widowni.\nMój wysiłek nie potrzebuje widowni.",
+  "reviewStatus": "SecondPassCompleted",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-16",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "lyricsReview": {
+    "status": "SecondPassCompleted",
+    "messageCheck": "Niewidoczna praca emocjonalna i codzienna bywa pomijana przez samego wykonawcę. Wewnętrzne uznanie nie powinno usprawiedliwiać niesprawiedliwego podziału obowiązków.",
+    "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+    "changes": [],
+    "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "ff4f4e6a-0674-4c30-9d71-1c73c02bd457",
+      "title": "Mój wysiłek nie potrzebuje widowni",
+      "url": "https://suno.com/song/ff4f4e6a-0674-4c30-9d71-1c73c02bd457",
+      "status": "complete",
+      "duration": 259.56
+    },
+    {
+      "id": "cb0c57fc-15e2-4a3d-8b8e-d6ebbb676d9a",
+      "title": "Mój wysiłek nie potrzebuje widowni",
+      "url": "https://suno.com/song/cb0c57fc-15e2-4a3d-8b8e-d6ebbb676d9a",
+      "status": "complete",
+      "duration": 259.36
+    }
+  ]
+}

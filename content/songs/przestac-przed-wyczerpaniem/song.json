@@ -1,0 +1,51 @@
+{
+  "ideaId": "CV-056",
+  "slug": "przestac-przed-wyczerpaniem",
+  "title": "Mogę przestać, zanim ciało odmówi",
+  "playlist": "Indie Rock Flow",
+  "tempoTarget": 108,
+  "targetSeconds": 255,
+  "coreMessage": "Przekonanie, że przerwa jest uzasadniona dopiero załamaniem, blokuje wcześniejsze działanie. Uznanie sygnałów zmęczenia i renegocjacja zakresu mogą poprzedzić wyczerpanie.",
+  "affirmation": "Mogę przestać, zanim ciało odmówi.",
+  "problem": "Przekonanie, że przerwa jest uzasadniona dopiero załamaniem, blokuje wcześniejsze działanie. Uznanie sygnałów zmęczenia i renegocjacja zakresu mogą poprzedzić wyczerpanie.",
+  "sunoPrompt": "Midtempo organic alternative rock, weighty live drums, melodic moving bass, textured electric guitars and spacious rhythmic pauses. Physical groove with an unhurried vocal, gradual dynamic development and extended refrain returns. Approximately 108 BPM. Full-length song around 4 minutes. Let the band develop spacious instrumental passages and return to the central sung refrain across the song. Keep clear natural Polish phrasing and leave breath between long lines.",
+  "negativeStyle": "ukulele, disco, disco polo, eurodance, schlager, dance-pop, four-on-the-floor dance kick, glossy commercial pop, tropical pop, corporate anthem, sentimental power ballad, motivational speech, rushed lyrics",
+  "lyrics": "[Intro - instrumental]\n\n[Verse 1]\nJeszcze działam, więc mówię: nic się nie dzieje.\nChoć każde schody zaczynam od westchnienia.\nCzekam na dowód, który zatrzyma mnie za mnie,\nbo samemu trudno wypowiedzieć: już.\n\n[Pre-Chorus]\nNie chcę sprawdzać, ile jeszcze wytrzymam.\nChcę mieć do czego wracać także za rok.\n\n[Chorus]\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\n\n[Instrumental]\n\n[Verse 2]\nDziś zdejmuję jedno zadanie z wieczoru.\nMówię zawczasu, czego nie dowiozę sam.\nNie czekam, aż ktoś znajdzie mnie bez siły,\nżeby powiedzieć, że potrzebuję przerwy.\n\n[Chorus]\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\n\n[Bridge]\nGranica nie musi mieć kształtu awarii.\nMogę ją postawić, gdy jeszcze umiem stać.\nTo, co ważne, ustalę z innymi na nowo.\nNie muszę płacić ciałem za swój każdy plan.\n\n[Instrumental - let the groove develop]\n\n[Final Chorus]\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\nMogę przestać, zanim ciało odmówi.\nNie muszę runąć, żeby wolno było siąść.\nZmęczenie mówi wcześniej niż upadek.\nMogę przestać, zanim ciało odmówi.\n\n[Outro]\nMogę przestać, zanim ciało odmówi.\nMogę przestać, zanim ciało odmówi.",
+  "reviewStatus": "SecondPassCompleted",
+  "status": "AudioGenerated",
+  "generationStatus": "Complete",
+  "createdAt": "2026-11-16",
+  "hashtags": [
+    "#afirmacjespiewane",
+    "#cosmicvibes"
+  ],
+  "lyricsReview": {
+    "status": "SecondPassCompleted",
+    "messageCheck": "Przekonanie, że przerwa jest uzasadniona dopiero załamaniem, blokuje wcześniejsze działanie. Uznanie sygnałów zmęczenia i renegocjacja zakresu mogą poprzedzić wyczerpanie.",
+    "coherence": "Pierwsza zwrotka pokazuje koszt przekonania; druga daje konkretny ruch; bridge zachowuje ograniczenia i odpowiedzialność.",
+    "changes": [
+      {
+        "before": "żeby uwierzyć, że potrzebny jest mi czas.",
+        "after": "żeby powiedzieć, że potrzebuję przerwy."
+      }
+    ],
+    "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
+  },
+  "selection": "Pending",
+  "sunoRecordings": [
+    {
+      "id": "7e6c7e28-eb03-4c5e-8405-62697fdb171f",
+      "title": "Mogę przestać, zanim ciało odmówi",
+      "url": "https://suno.com/song/7e6c7e28-eb03-4c5e-8405-62697fdb171f",
+      "status": "complete",
+      "duration": 254.8
+    },
+    {
+      "id": "ef8498a3-e8a7-44bf-a410-14af58df3cdb",
+      "title": "Mogę przestać, zanim ciało odmówi",
+      "url": "https://suno.com/song/ef8498a3-e8a7-44bf-a410-14af58df3cdb",
+      "status": "complete",
+      "duration": 254.4
+    }
+  ]
+}
