@@ -15,7 +15,7 @@
     "#cosmicvibes"
   ],
   "createdAt": "2026-11-15",
-  "selection": "Pending",
+  "selection": "Kept",
   "sunoRecordings": [
     {
       "id": "3feefbe4-1a64-4527-bc45-e0e5d8c02c7c",
@@ -33,5 +33,9 @@
       "duration": 144,
       "negativeStyle": "disco, disco polo, eurodance, dance-pop, four-on-the-floor kick, schlager, synth-pop, tropical pop, glossy pop production, corporate anthem, power ballad, autotuned vocals"
     }
-  ]
+  ],
+  "selectedVersion": "A",
+  "selectedClipId": "3feefbe4-1a64-4527-bc45-e0e5d8c02c7c",
+  "audioPreview": "",
+  "wavDownloadUrl": ""
 }

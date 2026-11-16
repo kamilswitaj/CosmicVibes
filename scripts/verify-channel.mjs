@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 const d=JSON.parse(fs.readFileSync('catalog/youtube-discography.json'));const n=JSON.parse(fs.readFileSync('catalog/new-wave.json'));
 const selection=JSON.parse(fs.readFileSync('catalog/selection-decisions.json'));const batch=JSON.parse(fs.readFileSync('catalog/'+selection.currentBatch+'.json'));
-if(d.playlists.length!==24||n.length!==selection.kept.length+batch.length)throw Error('Count mismatch');
+if(d.playlists.length!==24||n.length!==new Set([...selection.kept,...batch.map(s=>s.ideaId)]).size)throw Error('Count mismatch');
 for(const p of d.playlists)for(const t of p.tracks)if(!t.title||!t.id||t.description===null)throw Error('Missing source');
 const html=fs.readFileSync('index.html','utf8');for(const m of html.matchAll(/src="(assets\/playlists\/[^"]+)"/g))if(!fs.existsSync(m[1]))throw Error('Missing cover: '+m[1]);
 for(const s of n){for(const section of ['Verse 1','Chorus','Verse 2','Bridge','Final Chorus'])if(!s.lyrics.includes('['+section+']'))throw Error('Missing section');}

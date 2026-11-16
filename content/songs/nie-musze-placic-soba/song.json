@@ -16,7 +16,7 @@
     "#afirmacjespiewane",
     "#cosmicvibes"
   ],
-  "selection": "Pending",
+  "selection": "Kept",
   "sunoRecordings": [
     {
       "id": "3206b540-1555-447c-bd9a-502f9494e02d",
@@ -32,5 +32,9 @@
       "status": "complete",
       "duration": 145.6
     }
-  ]
+  ],
+  "selectedVersion": "A",
+  "selectedClipId": "3206b540-1555-447c-bd9a-502f9494e02d",
+  "audioPreview": "",
+  "wavDownloadUrl": ""
 }

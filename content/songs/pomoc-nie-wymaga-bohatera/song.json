@@ -29,7 +29,7 @@
     ],
     "singability": "Główny komunikat wraca w refrenie; długość fraz do oceny w odsłuchu A/B."
   },
-  "selection": "Pending",
+  "selection": "Kept",
   "sunoRecordings": [
     {
       "id": "74e8518b-e8ae-41ea-a052-d4821572c0b9",
@@ -45,5 +45,9 @@
       "status": "complete",
       "duration": 142.8
     }
-  ]
+  ],
+  "selectedVersion": "A",
+  "selectedClipId": "74e8518b-e8ae-41ea-a052-d4821572c0b9",
+  "audioPreview": "",
+  "wavDownloadUrl": ""
 }

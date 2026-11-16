@@ -26,7 +26,7 @@
     "changes": [],
     "singability": "Refren powraca sześć razy; pauzy i części instrumentalne mają chronić dykcję. Do sprawdzenia w odsłuchu A/B."
   },
-  "selection": "Pending",
+  "selection": "Kept",
   "sunoRecordings": [
     {
       "id": "a08e078f-5ea3-42a8-ad1f-d29686b1c50a",
@@ -42,5 +42,9 @@
       "status": "complete",
       "duration": 279.48
     }
-  ]
+  ],
+  "selectedVersion": "B",
+  "selectedClipId": "de30d3e1-2cfa-437f-945f-4c4fec86fcd2",
+  "audioPreview": "",
+  "wavDownloadUrl": ""
 }
